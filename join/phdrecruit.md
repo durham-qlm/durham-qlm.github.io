@@ -18,7 +18,7 @@ Each week begins with our group meeting, when each team member is given the oppo
 external speakers. These is also the opportunity to travel and attend international conferences and meet researchers from around the world. These are just some of the 
 opportunities and benefits available to members of the group. <br>
 
-We have a selection of funded PhD projects available, including further opportunities which are likely to receive funding for an October 2024 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
+We have a selection of funded PhD projects available for an October 2024 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
 
 <table>
   <tr> <td>
