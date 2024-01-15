@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Join QLM
 subtitle: Opportunities to join as graduate students
@@ -45,8 +45,8 @@ The rich rotational structure of molecules offers an unrivalled playground for t
   
   <tr>
     <td>
-            <b>Dipolar quantum gas of atoms</b><br>
-            Ultracold gases of atoms and molecules are an important resource for the precise experimental study of quantum mechanics. In these experiments, dipole-dipole interactions can be used to engineer long-range and tunable interactions between particles, thereby enabling the study of complex many-body phenomena. In this project, we will develop a new apparatus for the study of dipolar quantum gases. This will include an exploration of laser cooling and optical trapping of atoms, and the study of collisions and interactions in atomic mixtures.<br>
+            <b>Ultracold mixtures of caesium and silver for the association of very dipolar molecules</b><br>
+            Ultracold molecules are an important new platform for quantum science. Large electric dipole moments enable long-range interactions that cause quantum entanglement between different molecules in the gas. Meanwhile, quantum information can be encoded in the rich structure of rotation and vibration states of the molecules. At Durham, we have had great success in creating ultracold molecules by association from pre-cooled atomic mixtures. In this project, we will develop a new experiment for the study of ultracold mixtures of caesium and silver atoms. Diatomic CsAg molecules associated from this mixture would exhibit dipole moments up to 13.5 D, yielding dipolar interactions 1-2 orders of magnitude stronger than are available in current experiments. <br>
             This is a new experimental project, for further information contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Gregory</a>.
   </td>
          <td width=300 align=center><img src="img/dipole.jpg" alt="Lasers and optics typical of ultracold experiments" /></td>
