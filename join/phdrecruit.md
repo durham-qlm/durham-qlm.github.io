@@ -53,7 +53,7 @@ We have a selection of funded PhD projects available, including further opportun
 
 We hope that you will join us and become a part of the QLM!<br>
 
-## Prioritized Projects
+
 <table border=0>
   <tr>
     <td>
@@ -102,11 +102,7 @@ Quantum gas microscopes have revolutionized the study of ultracold atomic gases 
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Optics layout for tweezer experiment." /></td>
 </td>
   </tr>
-</table>
 
-## Further Opportunities
-
-<table>
 <tr>
     <td>
       	<b>Quantum Networks with Rydberg excitons.</b><br>
