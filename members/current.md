@@ -53,3 +53,4 @@ subtitle: Current members of the Durham QLM group
 |   |[Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
 |   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)|
 |   |[Tom Hepworth](https://www.durham.ac.uk/staff/tom-hepworth/)|
+|   |[Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/)|
