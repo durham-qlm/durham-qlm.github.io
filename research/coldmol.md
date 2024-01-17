@@ -47,7 +47,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
         <td>
             <a href="/research/coldmol/collisions">Exploring ultracold molecular collisions</a>
         </td>
-        <td width=105 align=center><img src="coldmol/collisions/img/collisions.jpg" alt="Collision theory"/></td>
+        <td width=105 align=center><img src="coldmol/collisions/img/collisions.png" alt="Collision theory"/></td>
     </tr>
 </table>
 
