@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Terahertz Group
-subtitle: THz Sensing and Imaging using Rydberg Atoms
+title: Quantum Sensors Group
+subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 ---
 ## Overview
 
