@@ -10,7 +10,7 @@ Ultracold polar molecules are an exciting new platform for quantum science and t
 
 In Durham we work to harness properties of such molecules with a variety of techniques. This includes making clouds of ultracold RbCs molecules and studying their interactions, as well as studying RbCs molecules that have been individually formed and trapped. We are also working on forming CsYb molecules that interact with each other magnetically and directly cooling and trapping pre-formed CaF molecules.
 
-<h4> Current activties </h4>
+<h4> Current activities </h4>
 
 <table border=0>
     <tr>

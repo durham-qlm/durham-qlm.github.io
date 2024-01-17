@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## Dr Philip D. Gregory
-<img src="members/current/gregory/img/gregory.jpg" alt="Philip Gregory"/>
+<img src="{{ site.url }}{{ site.baseurl }}members/current/gregory/img/gregory.jpg" alt="Philip Gregory"/>
 
 I am a Royal Society University Research Fellow specialising in the study of ultracold gases of dipolar molecules. I am currently focused on starting a new project in the Quantum Light & Matter group to study mixtures of silver (Ag) and caesium (Cs) atoms. The ultimate goal of the project is to create ultracold CsAg molecules which are expected to exhibit large electric dipole moments up to 13.5 D in their electronic ground state.  
 
