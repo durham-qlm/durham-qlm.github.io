@@ -13,7 +13,7 @@ subtitle: Current members of the Durham QLM group
 |	|[Prof. Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/)|
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
-|   |[Dr. Philip Gregory](members/current/gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
+|   |[Dr. Philip Gregory](gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
 |   |[Prof. Jeremy Hutson](https://www.durham.ac.uk/staff/j-m-hutson/)|
 |	|[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/)|
 |	|[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
