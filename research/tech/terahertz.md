@@ -20,9 +20,9 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 ## Recent Papers
 
-- <span style="color:blue">**NEW**</span> **Simultaneous multi-band radio-frequency detection using high-orbital-angular-momentum states in a Rydberg-atom receiver** *Gianluca Allinson et al.* 2023 [arXiv](https://arxiv.org/abs/2311.11935){:target="_blank"}
+- <span style="color:blue">**NEW**</span> **Simultaneous multi-band radio-frequency detection using high-orbital-angular-momentum states in a Rydberg-atom receiver** *Gianluca Allinson _et al_.* 2023 [arXiv](https://arxiv.org/abs/2311.11935){:target="_blank"}
 
-- **A practical guide to terahertz imaging using thermal atomic vapour.** *Lucy A Downes et al.* 2023 [New J. Phys. 25 035002](https://iopscience.iop.org/article/10.1088/1367-2630/acb80c/meta){:target="_blank"}
+- **A practical guide to terahertz imaging using thermal atomic vapour.** *Lucy A Downes _et al_.* 2023 [New J. Phys. 25 035002](https://iopscience.iop.org/article/10.1088/1367-2630/acb80c/meta){:target="_blank"}
 
 ## Team members
 
