@@ -22,7 +22,7 @@ We have a selection of funded PhD projects available, and further opportunities 
 
 We hope that you will join us and become a part of the QLM group! <br>
 
-## Funded Projects
+## Funded Projectssss
 <table border=0>
   <tr>
     <td>
