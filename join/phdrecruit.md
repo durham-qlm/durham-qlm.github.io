@@ -154,7 +154,7 @@ This 4-year Ph.D. project is sponsored by Leonardo UK Ltd, a leading aerospace c
 <br>
 
 <a href="https://durham-qlm.uk/research/tech/terahertz/">Further information available here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.
-      <td width=300 align=center><img src="img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
 </td>
   </tr>
   
