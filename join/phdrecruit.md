@@ -48,6 +48,10 @@ We have a selection of funded PhD projects available for an October 2024 start (
     <tr><td>
     Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.
     </td></tr>
+    <tr><td>
+    EPSRC ICASE Studentship on Quantum Sensors.
+    </td></tr>
+ 
 </table>
 
 
@@ -140,5 +144,17 @@ We have the only experiment in the world studying ultracold atomic mixtures of C
 </td>
 </tr>
 
+  <tr>
+  <td>
+      	<b>EPSRC ICASE Studentship on Quantum Sensors</b><br>
+Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
+ 
+This 4-year Ph.D. project is sponsored by Leonardo UK Ltd, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
+<br>
+
+<a href="https://durham-qlm.uk/research/tech/terahertz/">Further information available here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.
+      <td width=300 align=center><img src="img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
+</td>
+  </tr>
   
 </table>
