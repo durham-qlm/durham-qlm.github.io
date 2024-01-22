@@ -14,6 +14,8 @@ Phononic frequency combs (PFC) are the mechanical analogs of celebrated photonic
 
 [2] de Jong, M.H., Ganesan, A., Cupertino, A., Gröblacher, S. and Norte, R.A., 2023. Mechanical overtone frequency combs. Nature Communications, 14(1), p.1458.
 
+Speaker Biography:Adarsh Ganesan is currently an assistant professor at Ahmedabad University, India. He holds his Ph.D. in Engineering from Cambridge University and BE (Hons) in Electrical and Electronics Engineering from Birla Institute of Technology and Science (BITS), Pilani. He completed his postdoctoral research at the National Institute of Standards and Technology, Gaithersburg. Adarsh has been recognized for his doctoral work on phononic frequency combs by the 2017 John Winbolt Prize (Cambridge University), 2017 UK Doctoral Researcher Award, 2018 APS GSNP Student Speaker Award, 2018 IET Hudswell International Research Scholarship and 2019 BITS Alumni Association Global 30 Under 30 Award.
+
 
 
 
