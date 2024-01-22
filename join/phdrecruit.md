@@ -49,7 +49,7 @@ We have a selection of funded PhD projects available for an October 2024 start (
     	<a href="#qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
     </td></tr>
     <tr><td>
-    	<a href="#qsense">EPSRC ICASE Studentship on Quantum Sensors.
+    	<a href="#qsense">EPSRC ICASE Studentship on Quantum Sensors.</a>
     </td></tr>
  
 </table>
@@ -71,6 +71,7 @@ The terahertz (THz) frequency band lies between the infrared and microwave regio
 
   <tr>
     <td>
+	<br>
       	<h5><a id="qmag">Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.</a></h5><br>
 The rich rotational structure of molecules offers an unrivalled playground for the encoding of spins and synthetic dimensions which can be precisely controlled using microwave fields. We have recently demonstrated record-breaking rotational coherences in a novel magic-wavelength trap. In this project you will exploit this capability to study models of quantum magnetism with spins encoded in the rotational states of RbCs molecules and interactions controlled through the combination of states and applied fields.<br>
 <a href="https://www.cornishlabs.uk/rbcs">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
@@ -81,6 +82,7 @@ The rich rotational structure of molecules offers an unrivalled playground for t
   
   <tr>
     <td>
+	    <br>
             <h5><a id="dipolar">Ultracold mixtures of caesium and silver for the association of very dipolar molecules</a></h5><br>
             Ultracold molecules are an important new platform for quantum science. Large electric dipole moments enable long-range interactions that cause quantum entanglement between different molecules in the gas. Meanwhile, quantum information can be encoded in the rich structure of rotation and vibration states of the molecules. At Durham, we have had great success in creating ultracold molecules by association from pre-cooled atomic mixtures. In this project, we will develop a new experiment for the study of ultracold mixtures of caesium and silver atoms. Diatomic CsAg molecules associated from this mixture would exhibit dipole moments up to 13.5 D, yielding dipolar interactions 1-2 orders of magnitude stronger than are available in current experiments. 
  
@@ -92,6 +94,7 @@ The rich rotational structure of molecules offers an unrivalled playground for t
 
   <tr>
     <td>
+	<br>
       	<h5><a id="qgas">Many-body physics of polar molecules in a quantum gas microscope.</a></h5><br>
 Quantum gas microscopes have revolutionized the study of ultracold atomic gases in optical lattice, enabling the detection of individual atoms with single site resolution. In this project you will develop and apply the technique to ultracold RbCs molecules, using it to study strongly correlated phases of molecules in the presence of long-range dipole-dipole interactions.<br>
 <a href="https://www.cornishlabs.uk/microscope">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
@@ -101,6 +104,7 @@ Quantum gas microscopes have revolutionized the study of ultracold atomic gases 
 
 <tr>
   <td>
+	<br>
       	<h5><a id="qc">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a></h5><br>
 	We have pioneered a new approach to forming ultracold RbCs molecules. We take single atoms of Rb and Cs confined in separate optical tweezers, cool them to motional ground state of their respective traps and then carefully combine them to form a molecule in the rovibrational ground state. In this project you will investigate how to combine the molecules with Rydberg atoms in order to perform non-destructive readout of the molecular state and to engineer quantum entanglement between pairs of molecules.<br>
 <a href="https://www.cornishlabs.uk/tweezers">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
@@ -110,7 +114,8 @@ Quantum gas microscopes have revolutionized the study of ultracold atomic gases 
 
 <tr>
     <td>
-      	<<h5><a id="excitons">Quantum Networks with Rydberg excitons.</a></h5><br>
+	<br>
+      	<h5><a id="excitons">Quantum Networks with Rydberg excitons.</a></h5><br>
 	Quantum computers made by Google, IBM and others are based on microwave superconducting circuits that must be cooled to milliKelvin temperatures to avoid decoherence. This makes it hard to directly network these computers together. A promising alternative is to up-covert the quantum information to the optical region, and send it down conventional optical fibres. The goal of this project is to help develop such a quantum up-converter using a beautiful piece of physics at the crossover between atomic and condensed matter physics. In a semiconductor called cuprous oxide, electrons and holes bind together to form quasi-particles called excitons, which have internal states just like atoms. In collaboration with Cardiff University we have pioneered  microwave-optical coupling in cuprous oxide, and we are now looking to exploring the quantum limits of what can be achieved with this technology.<br>
 <a href="https://durham-qlm.uk/research/rydberg/excitons/">Further information available here</a> or contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Jones</a>.
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/rydberg/excitons/img/stone.png" alt="Natural cuprous oxide gemstone." /></td>
@@ -119,6 +124,7 @@ Quantum gas microscopes have revolutionized the study of ultracold atomic gases 
   
 <tr>
   <td>
+	<br>
 	<h5><a id="vlight">Vector light project.</a></h5><br>
 	The Durham Quantum Light and Matter group is internationally leading on experiments in the field of spectroscopy of atomic vapours.   Most treatments of the propagation of light through a medium assume that the     polarisation vector is two dimensional, i.e. restricted to the transverse plane. Recent study has shown that far more interesting and useful three-dimensional structures can be obtained by tightly focussing a       laser beam. We have shown in Durham that using shaped light enables the production of topologically non-trivial polarization. <br>
   The objective of this project is to analyse the spectrum of Rb vapour in large magnetic fields (we have our own 1.5 Tesla permanent magnet with different polarization states. The goals of the project are: (i) a     complete characterization of the spectroscopy of Rb vapour in large magnetic fields with tightly focussed fields; (ii) to investigate the interaction of atoms with topological light; (iii) explore the     possibilities of producing next generation sensors based on the interaction of structured light with atomic media.<br>
@@ -129,7 +135,8 @@ Quantum gas microscopes have revolutionized the study of ultracold atomic gases 
 
   <tr>
 	<td>
- <h5><a id="lasercooling">Laser cooling molecules for quantum simulation.</a></h5><br>
+	<br>
+ 	<h5><a id="lasercooling">Laser cooling molecules for quantum simulation.</a></h5><br>
 Laser-cooled molecules offer new opportunities in quantum science and technology. By using closed cycling transitions we are able to decelerate, trap, cool and detect molecules. The goal of this experiment is to load a lattice of ultracold calcium monofluoride molecules to be used as a platform for quantum simulation. These molecules experience large, anisotropic dipole-dipole interactions, and high levels of control over internal and external degrees of freedom have already been demonstrated. This is an experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology.<br>
 <a href="https://durham-qlm.uk/research/coldmol/cafcool/">Further information available here</a> or contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Williams</a>.
 <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.png" alt="Buffer gas course for CaF molecules" /></td>	  
@@ -137,7 +144,8 @@ Laser-cooled molecules offer new opportunities in quantum science and technology
   </tr>
 <tr>
 <td>
-<h5><a id="qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a></h5><br>
+	<br>
+	<h5><a id="qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a></h5><br>
 We have the only experiment in the world studying ultracold atomic mixtures of Cs and Yb. This combination of elements is exceptionally rich and offers unique opportunities for independently controlling the individual gases. In this project you will exploit these properties to study the quantum dynamics of dual-species Bose-Einstein condensates and to investigate new ways to assemble the atoms into heteronuclear molecules.<br>
 <a href="https://www.cornishlabs.uk/csyb">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/csyb/img/Yb_MOT.jpg" alt="Magneto-optical trap of Yb." /></td>
@@ -147,6 +155,7 @@ We have the only experiment in the world studying ultracold atomic mixtures of C
 
   <tr>
   <td>
+	<br>
       	<h5><a id="qsense">EPSRC ICASE Studentship on Quantum Sensors</a></h5><br>
 Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
  
