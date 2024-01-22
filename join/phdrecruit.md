@@ -22,7 +22,7 @@ We have a selection of funded PhD projects available for an October 2024 start (
 
 <table>
   <tr> <td>
-    [High Speed Terahertz Imaging using Rydberg Atoms.](### High-Speed-Terahertz-Imaging-using-Rydberg-Atoms.)
+    [High Speed Terahertz Imaging using Rydberg Atoms.](###High-Speed-Terahertz-Imaging-using-Rydberg-Atoms.)
   </td></tr>
   <tr><td>
     Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.
