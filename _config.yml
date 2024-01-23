@@ -46,7 +46,7 @@ navbar-links:
   Outreach: "outreach/"
   Members: 
     - Current: "members/current"
- #   - Previous: "members/prev_members"
+    - Previous: "members/prev_members"
     - Learn markdown: "https://www.markdowntutorial.com/"
 # --- Logo --- #
 
