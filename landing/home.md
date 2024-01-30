@@ -6,13 +6,15 @@ subtitle: "Exploring quantum science with atoms and molecules"
 
 <center><img width=600 src="/assets/img/qlm_group_photo_nov21.jpg" alt="Group photo, November 2021" /></center>
 
-Understanding the quantum mechanics of matter, light, and light-matter interactions encompasses quantum science, and underpins applied quantum technologies such as atomic clocks and magnetometers. In the Durham University Quantum Light & Matter group (QLM), our core mission is to conduct fundamental and applied research in quantum science by interfacing physics, chemistry, and applied mathematics. 
+<div style="text-align: justify"> Understanding the quantum mechanics of matter, light, and light-matter interactions encompasses quantum science, and underpins applied quantum technologies such as atomic clocks and magnetometers. In the Durham University Quantum Light & Matter group (QLM), our core mission is to conduct fundamental and applied research in quantum science by interfacing physics, chemistry, and applied mathematics. </div>
 
 Our projects cover a broad range of platforms ranging from hot thermal vapours to ultracold gases of atoms and molecules. Broadly, our research falls into the following themes: 
 
 ## Rydbergs
 
-Exploiting the extreme properties of highly-excited Rydberg states for fundamental physics and applications in quantum technology. Highly excited Rydberg states enable switchable long-range interactions between atoms, photons and molecules and  extreme sensitivity to AC and DC electric fields. At QLM we study these properties using a wide variety of atomic, molecular and even solid-state platforms, for applications in quantum optics, quantum simulation and computation, metrology and sensing. [Click here for a full list of the Rydberg projects.]()
+Exploiting the extreme properties of highly-excited Rydberg states for fundamental physics and applications in quantum technology. Highly excited Rydberg states enable switchable long-range interactions between atoms, photons and molecules and  extreme sensitivity to AC and DC electric fields. At QLM we study these properties using a wide variety of atomic, molecular and even solid-state platforms, for applications in quantum optics, quantum simulation and computation, metrology and sensing. 
+
+[Click here for a full list of the Rydberg projects.]()
 
 <div id="rydberg_carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -24,21 +26,21 @@ Exploiting the extreme properties of highly-excited Rydberg states for fundament
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-      	<h5>[Rydberg quantum optics]()</h5>
+      	<h5><a href="/research/rydberg/photonics">Rydberg quantum optics</a></h5>
       	<p>Stuart Adams</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-      	<h5>[Rydberg quantum clock]()</h5>
+      	<h5><a href="/research/rydberg/strontium">Rydberg quantum clock</a></h5>
       	<p>Matt Jones</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/cuprous_oxide.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
-      	<h5>[Cuprous oxide]()</h5>
+      	<h5><a href="/research/rydberg/excitons">Cuprous oxide</a></h5>
       	<p>Matt Jones</p>
       </div>
     </div>
