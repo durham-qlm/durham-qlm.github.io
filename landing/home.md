@@ -76,35 +76,35 @@ subtitle: "Exploring quantum science with atoms and molecules"
   <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/CaF.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="/research/coldmol/cafcool">Laser cooling CaF</a></h5>
       	<p>Hannah Williams</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/RbCs_bulk.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="https://www.cornishlabs.uk">RbCs bulk gases</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/RbCs_microscope.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="https://www.cornishlabs.uk">Quantum gas microscope for RbCs</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/RbCs_tweezer.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="https://www.cornishlabs.uk">RbCs in tweezer arrays</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/CsYb.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="https://www.cornishlabs.uk">CsYb mixtures and molecules</a></h5>
       	<p>Simon Cornish</p>
       </div>
