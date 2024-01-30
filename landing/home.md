@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Durham Quantum Light & Matter"
+title: "Quantum Light & Matter"
 subtitle: "Exploring quantum science with atoms and molecules"
 ---
 
