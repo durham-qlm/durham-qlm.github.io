@@ -20,15 +20,27 @@ Exploiting the extreme properties of highly-excited Rydberg states for fundament
     <li data-target="#rydberg_carousel" data-slide-to="1"></li>
     <li data-target="#rydberg_carousel" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner" role="listbox" style=" width:100%; height: 500px !important;">
+  <div class="carousel-inner" role="listbox" style=" width:100%; height: 300px !important;">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+      	<h5>[Rydberg quantum optics]()</h5>
+      	<p>Stuart Adams</p>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+      	<h5>[Rydberg quantum clock]()</h5>
+      	<p>Matt Jones</p>
+      </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/cuprous_oxide.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+      	<h5>[Cuprous oxide]()</h5>
+      	<p>Matt Jones</p>
+      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#rydberg_carousel" role="button" data-slide="prev">
@@ -45,5 +57,5 @@ Exploiting the extreme properties of highly-excited Rydberg states for fundament
 
 Ultracold polar molecules are an exciting new platform for quantum science and technology. The combination of rich internal structure of vibration and rotation, controllable long-range dipole-dipole interactions and strong coupling to applied electric and microwave fields has inspired many applications. These include quantum simulation of strongly interacting many-body systems, the study of quantum magnetism, quantum metrology and molecular clocks, quantum computation, precision tests of fundamental physics and the exploration of ultracold chemistry. [Click here for a full list of the ultracold molecule projects]()
 
-{% include carousel-captions.html folder = "molecule_carousel" %}
+
 
