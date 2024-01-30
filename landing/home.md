@@ -16,7 +16,7 @@ subtitle: "Exploring quantum science with atoms and molecules"
 
 <div style="text-align: justify"> Exploiting the extreme properties of highly-excited Rydberg states for fundamental physics and applications in quantum technology. Highly excited Rydberg states enable switchable long-range interactions between atoms, photons and molecules and  extreme sensitivity to AC and DC electric fields. At QLM we study these properties using a wide variety of atomic, molecular and even solid-state platforms, for applications in quantum optics, quantum simulation and computation, metrology and sensing. </div>
 
-[Click here for a full list of the Rydberg projects.]()
+[Click here for a full list of the Rydberg projects.](/research/rydberg)
 
 <div id="rydberg_carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -24,7 +24,7 @@ subtitle: "Exploring quantum science with atoms and molecules"
     <li data-target="#rydberg_carousel" data-slide-to="1"></li>
     <li data-target="#rydberg_carousel" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner" role="listbox" style=" width:100%; height: 500px !important;">
+  <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
@@ -63,15 +63,15 @@ subtitle: "Exploring quantum science with atoms and molecules"
 
 <div style="text-align: justify"> Ultracold polar molecules are an exciting new platform for quantum science and technology. The combination of rich internal structure of vibration and rotation, controllable long-range dipole-dipole interactions and strong coupling to applied electric and microwave fields has inspired many applications. These include quantum simulation of strongly interacting many-body systems, the study of quantum magnetism, quantum metrology and molecular clocks, quantum computation, precision tests of fundamental physics and the exploration of ultracold chemistry. </div>
 
-[Click here for a full list of the ultracold molecule projects]()
+[Click here for a full list of the ultracold molecule projects](/research/coldmol)
 
 <div id="molecule_carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#rydberg_carousel" data-slide-to="0" class="active"></li>
-    <li data-target="#rydberg_carousel" data-slide-to="1"></li>
-    <li data-target="#rydberg_carousel" data-slide-to="2"></li>
+    <li data-target="#molecule_carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#molecule_carousel" data-slide-to="1"></li>
+    <li data-target="#molecule_carousel" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner" role="listbox" style=" width:100%; height: 500px !important;">
+  <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
 
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/CaF.jpg" alt="First slide">
@@ -115,11 +115,11 @@ subtitle: "Exploring quantum science with atoms and molecules"
 
 
   </div>
-  <a class="carousel-control-prev" href="#rydberg_carousel" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#molecule_carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#rydberg_carousel" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#molecule_carousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
