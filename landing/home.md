@@ -14,11 +14,11 @@ Our projects cover a broad range of platforms ranging from hot thermal vapours t
 
 Exploiting the extreme properties of highly-excited Rydberg states for fundamental physics and applications in quantum technology. Highly excited Rydberg states enable switchable long-range interactions between atoms, photons and molecules and  extreme sensitivity to AC and DC electric fields. At QLM we study these properties using a wide variety of atomic, molecular and even solid-state platforms, for applications in quantum optics, quantum simulation and computation, metrology and sensing. [Click here for a full list of the Rydberg projects.]()
 
-<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+<div id="rydberg_carousel" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#rydberg_carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#rydberg_carousel" data-slide-to="1"></li>
+    <li data-target="#rydberg_carousel" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner" role="listbox" style=" width:100%; height: 500px !important;">
     <div class="carousel-item active">
@@ -31,11 +31,11 @@ Exploiting the extreme properties of highly-excited Rydberg states for fundament
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Third slide">
     </div>
   </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+  <a class="carousel-control-prev" href="#rydberg_carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+  <a class="carousel-control-next" href="#rydberg_carousel" role="button" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
