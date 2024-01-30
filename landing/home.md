@@ -14,7 +14,19 @@ Our projects cover a broad range of platforms ranging from hot thermal vapours t
 
 Exploiting the extreme properties of highly-excited Rydberg states for fundamental physics and applications in quantum technology. Highly excited Rydberg states enable switchable long-range interactions between atoms, photons and molecules and  extreme sensitivity to AC and DC electric fields. At QLM we study these properties using a wide variety of atomic, molecular and even solid-state platforms, for applications in quantum optics, quantum simulation and computation, metrology and sensing. [Click here for a full list of the Rydberg projects.]()
 
-{% include carousel-captions.html folder = "rydberg_carousel" %}
+<div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Third slide">
+    </div>
+  </div>
+</div>
 
 ## Ultracold molecules
 
