@@ -17,13 +17,13 @@ Exploiting the extreme properties of highly-excited Rydberg states for fundament
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
+      <img class="d-block w-100" src="durham-qlm.github.io/landing/images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Second slide">
+      <img class="d-block w-100" src="durham-qlm.github.io/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Third slide">
+      <img class="d-block w-100" src="durham-qlm.github.io/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Third slide">
     </div>
   </div>
 </div>
