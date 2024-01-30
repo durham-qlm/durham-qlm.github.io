@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Quantum Light & Matter Group"
+title: "Durham Quantum Light & Matter"
 subtitle: "Exploring quantum science with atoms and molecules"
 ---
 
@@ -27,21 +27,21 @@ subtitle: "Exploring quantum science with atoms and molecules"
   <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="/research/rydberg/photonics">Rydberg quantum optics</a></h5>
       	<p>Stuart Adams</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_clock.jpg" alt="Second slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="/research/rydberg/strontium">Rydberg quantum clock</a></h5>
       	<p>Matt Jones</p>
       </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/cuprous_oxide.jpg" alt="Third slide">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption bg-dark mb-4 text-light">
       	<h5><a href="/research/rydberg/excitons">Cuprous oxide</a></h5>
       	<p>Matt Jones</p>
       </div>
