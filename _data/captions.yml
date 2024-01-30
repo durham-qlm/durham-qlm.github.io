@@ -1,0 +1,31 @@
+- path: rydberg_carousel/rydberg_quantum_optics.png
+  caption: Rydberg quantum optics, PI Stuart Adams
+  title: hi
+
+- path: rydberg_carousel/rydberg_quantum_clock.png
+  caption: Rydberg quantum clock, PI Matt Jones
+  title: hi
+
+- path: rydberg_carousel/cuprous_oxide.png
+  caption: Cuprous oxide, PI Matt Jones
+  title: hi
+
+- path: molecule_carousel/CaF.png
+  caption: Laser cooling CaF, PI Hannah Williams
+  title: hi
+
+- path: molecule_carousel/RbCs_bulk.png
+  caption: RbCs bulk gases, PI Simon Cornish
+  title: hi
+
+- path: molecule_carousel/RbCs_microscope.png
+  caption: Quantum gas microscope for RbCs, PI Simon Cornish
+  title: hi
+
+- path: molecule_carousel/RbCs_tweezer.png
+  caption: RbCs molecules in tweezer arrays, PI Simon Cornish  
+  title: hi
+
+- path: molecule_carousel/CsYb.png
+  caption: CsYb: mixtures and molecules, PI Simon Cornish
+  title: hi
