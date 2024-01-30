@@ -5,7 +5,7 @@ subtitle: "Exploring quantum science with atoms and molecules"
 ---
 
 <center><img width=600 src="/assets/img/qlm_group_photo_nov21.jpg" alt="Group photo, November 2021" /></center>
-
+<br>
 
 <div style="text-align: justify"> Understanding the quantum mechanics of matter, light, and light-matter interactions encompasses quantum science, and underpins applied quantum technologies such as atomic clocks and magnetometers. In the Durham University Quantum Light & Matter group (QLM), our core mission is to conduct fundamental and applied research in quantum science by interfacing physics, chemistry, and applied mathematics. </div>
 
@@ -74,7 +74,6 @@ subtitle: "Exploring quantum science with atoms and molecules"
     <li data-target="#molecule_carousel" data-slide-to="4"></li>
   </ol>
   <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
-
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/CaF.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
@@ -82,40 +81,34 @@ subtitle: "Exploring quantum science with atoms and molecules"
       	<p>Hannah Williams</p>
       </div>
     </div>
-
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/RbCs_bulk.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
       	<h5><a href="https://www.cornishlabs.uk">RbCs bulk gases</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
-
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/RbCs_microscope.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
       	<h5><a href="https://www.cornishlabs.uk">Quantum gas microscope for RbCs</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
-
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/RbCs_tweezer.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
       	<h5><a href="https://www.cornishlabs.uk">RbCs in tweezer arrays</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
-
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/CsYb.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
       	<h5><a href="https://www.cornishlabs.uk">CsYb mixtures and molecules</a></h5>
       	<p>Simon Cornish</p>
       </div>
     </div>
-
-
   </div>
   <a class="carousel-control-prev" href="#molecule_carousel" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
