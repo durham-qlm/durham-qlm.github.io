@@ -1,0 +1,19 @@
+---
+title: "Quantum Light & Matter Group, Durham University"
+subtitle: "Exploring quantum science with atoms and molecules"
+---
+
+Understanding the quantum mechanics of matter, light, and light-matter interactions encompasses quantum science, and underpins applied quantum technologies such as atomic clocks and magnetometers. In the Durham University Quantum Light & Matter group (QLM), our core mission is to conduct fundamental and applied research in quantum science by interfacing physics, chemistry, and applied mathematics. 
+
+Our projects cover a broad range of platforms ranging from hot thermal vapours to ultracold gases of atoms and molecules. Broadly, our research falls into the following themes: 
+
+#Rydbergs
+Exploiting the extreme properties of highly-excited Rydberg states for fundamental physics and applications in quantum technology. Highly excited Rydberg states enable switchable long-range interactions between atoms, photons and molecules and  extreme sensitivity to AC and DC electric fields. At QLM we study these properties using a wide variety of atomic, molecular and even solid-state platforms, for applications in quantum optics, quantum simulation and computation, metrology and sensing. [Click here for a full list of the Rydberg projects.]()
+
+{% include carousel-captions.html folder = "rydberg_carousel" %}
+
+#Ultracold molecules
+Ultracold polar molecules are an exciting new platform for quantum science and technology. The combination of rich internal structure of vibration and rotation, controllable long-range dipole-dipole interactions and strong coupling to applied electric and microwave fields has inspired many applications. These include quantum simulation of strongly interacting many-body systems, the study of quantum magnetism, quantum metrology and molecular clocks, quantum computation, precision tests of fundamental physics and the exploration of ultracold chemistry. [Click here for a full list of the ultracold molecule projects]()
+
+{% include carousel-captions.html folder = "molecule_carousel" %}
+
