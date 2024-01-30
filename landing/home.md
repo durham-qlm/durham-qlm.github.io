@@ -24,7 +24,7 @@ subtitle: "Exploring quantum science with atoms and molecules"
     <li data-target="#rydberg_carousel" data-slide-to="1"></li>
     <li data-target="#rydberg_carousel" data-slide-to="2"></li>
   </ol>
-  <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
+  <div class="carousel-inner" role="listbox" >
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/rydberg_carousel/rydberg_quantum_optics.jpg" alt="First slide">
       <div class="carousel-caption bg-dark mb-4 text-light">
@@ -73,7 +73,7 @@ subtitle: "Exploring quantum science with atoms and molecules"
     <li data-target="#molecule_carousel" data-slide-to="3"></li>
     <li data-target="#molecule_carousel" data-slide-to="4"></li>
   </ol>
-  <div class="carousel-inner" role="listbox" style="max-width:900px; max-height:600px !important;">
+  <div class="carousel-inner" role="listbox">
     <div class="carousel-item active">
       <img class="d-block w-100" src="{{ site.url }}{{ site.baseurl }}/landing/images/molecule_carousel/CaF.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
