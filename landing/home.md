@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Quantum Light & Matter Group"
 subtitle: "Exploring quantum science with atoms and molecules"
 ---
