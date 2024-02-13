@@ -10,10 +10,13 @@ conference banquet (Monday). <br>
 ## Registration
 The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. Registration will open soon. <br>
 | Rate  |Full delegate |Student delegate |
-|:---  | :----: |  --: |
+|:---   | :----:  |           --: |
 |Standard Rate (Until April 30th 2024) | £200 | £150|
 | Late Rate (Until June 30th 2024) | £250 | £200|
 |On-site registration | £350 | £300|
+
+|Date   |Location  |Title   |Link    |
+|:---   | :----:  | :--------:      |           --: |
 
 <br>
 
