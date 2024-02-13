@@ -39,8 +39,8 @@ navbar-links:
     - Terahertz Group: "research/tech/terahertz"
   EDI: "edi/"
   Events: 
-    - Seminars: "events/seminars"
-    - Conferences: "events/conferences"
+    - Seminars: "seminars"
+    - Conferences: "conferences"
     #- Group Meeting: "gmeetings"
     #- Social Events: "socials"
 #  Publications: "publications/"
