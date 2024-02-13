@@ -18,7 +18,7 @@ The registration fee includes the conference dinner on the Monday evening, as we
 </td>
 <tr> <td>On-site registration <td> £350 <td> £300</td>
 </td></tr>
-
+</table>
 <br>
 
 ## Invited speakers
