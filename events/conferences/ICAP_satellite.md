@@ -24,6 +24,6 @@ To be considered for a poster or a hot-topic talk, please submit an abstract usi
 ## Accommodation and Travel
 Rooms are available at the Radisson Blu Hotel from Sunday 21st July for four nights. These can be booked directly at a cost of £120 per room per night including VAT and breakfast. <br>
 Durham is less than 3 hours by train from London, making it easy to reach following ICAP. [North East England](https://www.visitnortheastengland.com/) boasts a variety of historical landmarks dating back to Roman Britain, untouched countryside and dramatic coastline as well as vibrant cities including Durham, Newcastle and York. 
-## 
+
 
 
