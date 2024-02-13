@@ -14,6 +14,7 @@ The registration fee includes the conference dinner on the Monday evening, as we
 |Standard Rate (Until April 30th 2024) | £200 | £150|
 | Late Rate (Until June 30th 2024) | £250 | £200|
 |On-site registration | £350 | £300|
+
 <br>
 
 ## Invited speakers
