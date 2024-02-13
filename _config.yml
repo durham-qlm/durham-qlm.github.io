@@ -40,7 +40,7 @@ navbar-links:
   EDI: "edi/"
   Events: 
     - Seminars: "seminars"
-    - Conferences: "conferences"
+    - Conferences: "events/conferences"
     #- Group Meeting: "gmeetings"
     #- Social Events: "socials"
 #  Publications: "publications/"
