@@ -11,20 +11,20 @@ conference banquet (Monday). <br>
 The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. Registration will open soon. <br>
 <table>
 <tr> <td></td><td> Full delegate <td> Student delegate</td>
-</td></tr>
+</td>
 <tr> <td> Standard Rate (Until April 30th 2024) <td> £200 <td> £150</td>
-</td></tr>
+</td>
 <tr> <td> Late Rate (Until June 30th 2024) <td> £250 <td> £200</td>
-</td></tr>
+</td>
 <tr> <td>On-site registration <td> £350 <td> £300</td>
 </td></tr>
-</table>
+
 <br>
 
 ## Invited speakers
 Tbc
 ## Submission of abstract
-To be considered for a poster or a hot-topic talk, please submit an abstract using this <a href="events/dqm2024_abstract_template.tex" download> template (LaTex)</a> by emailing <a href="mailto:hannah.williams4@durham.ac.uk?subject=Dipolar meeting abstract submission">Dr. Hannah Williams</a>. The deadline for abstracts is 15th May 2024.
+To be considered for a poster or a hot-topic talk, please submit an abstract using this <a href="https://durham-qlm.uk/events/dqm2024_abstract_template.tex" download> template (LaTex)</a> by emailing <a href="mailto:hannah.williams4@durham.ac.uk?subject=Dipolar meeting abstract submission">Dr. Hannah Williams</a>. The deadline for abstracts is 15th May 2024.
 ## Accommodation and Travel
 Rooms are available at the Radisson Blu Hotel from Sunday 21st July for four nights. These can be booked directly at a cost of £120 per room per night including VAT and breakfast. <br>
 Durham is less than 3 hours by train from London, making it easy to reach following ICAP. The [North-East of England](https://www.visitnortheastengland.com/) boasts a variety of historical landmarks dating back to Roman Britain, untouched countryside and dramatic coastline as well as vibrant cities including Durham, Newcastle and York. 
