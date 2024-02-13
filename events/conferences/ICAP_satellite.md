@@ -9,7 +9,7 @@ Starting with lunch on Monday 22nd July and ending with lab tours on the afterno
 conference banquet (Monday). <br>
 ## Registration
 The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. Registration will open soon. <br>
-|   |Full delegate |Student delegate |
+| Rate  |Full delegate |Student delegate |
 |:---  | :----: |  --: |
 |Standard Rate (Until April 30th 2024) | £200 | £150|
 | Late Rate (Until June 30th 2024) | £250 | £200|
