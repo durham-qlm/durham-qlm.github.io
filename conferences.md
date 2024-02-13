@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: QLM Conferences
-subtitle: QLM hosts conferences on a regular basis. Upcoming conferences are listed here.
+subtitle: Upcoming conferences are listed here.
 ---
 
 ## 2024 Conferences 
