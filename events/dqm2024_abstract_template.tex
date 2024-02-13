@@ -1,0 +1,52 @@
+\documentclass[10pt]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     Please do not change the following 
+%
+%
+\RequirePackage[a4paper]{geometry}
+\geometry{top=25mm,bottom=25mm,left=25mm,right=25mm,nohead,nofoot,includeheadfoot}
+\pagestyle{empty}
+\usepackage[utf8]{inputenc} % input encoding can be adjusted as needed
+\usepackage{mathptmx,graphicx}
+\newcommand{\AbstractTitle}[1]{{\Large\bfseries #1 \par}\vspace{3ex}}
+\newcommand{\AbstractAuthors}[1]{{\bfseries #1 \par}}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\newcommand{\CorrespondingAuthor}[2]{{#1}\footnote{Corresponding author: #2}}
+\newcommand{\PresentingAuthor}[1]{\underline{#1}}
+\newcounter{Address}
+\newcommand{\Address}[2]{\refstepcounter{Address}{\footnotesize\itshape \theAddress.\ #2 \label{#1}\\}}
+\newcommand{\AddressLabel}[1]{$^{#1}$}
+\newcounter{Reference}
+\newcommand{\Reference}[2]{\refstepcounter{Reference} {[\theReference] #2 \label{#1}}}
+\newcommand{\References}{\setlength\parindent{0pt}\vspace{2ex}\textbf{References}\footnotesize}
+\newcommand{\AbstractCite}[1]{[\ref{#1}]}
+\newcounter{AbstractFigure}
+\newcommand{\AbstractFigure}[2]{\refstepcounter{AbstractFigure} \begin{center}#1\\ \vspace{1ex} \noindent\parbox{0.8\textwidth}{\footnotesize \textbf{Fig.\ \theAbstractFigure:} #2}\end{center}}
+\newcounter{AbstractTable}
+\newcommand{\AbstractTable}[2]{\refstepcounter{AbstractTable} \begin{center}\noindent\parbox{0.8\textwidth}{\footnotesize \textbf{Table \theAbstractFigure:} #2} \vspace{1ex}\\#1\end{center}}
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%  The following can be edited to compose your abstract. 
+%
+
+\begin{document}
+
+\begin{center}
+\AbstractTitle{Title}
+
+\AbstractAuthors{
+	\CorrespondingAuthor{\PresentingAuthor{A. Author}}{a.email@email.com}\AddressLabel{\ref{firstaddress},\ref{secondaddress}}{A.Nother-Author}\AddressLabel{\ref{secondaddress}}}
+
+\Address{firstaddress}{Institute address}
+
+\Address{secondaddress}{A second Institute address}
+
+\vspace{3ex}
+\end{center}
+%
+
+
+\end{document}
