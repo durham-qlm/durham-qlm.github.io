@@ -8,7 +8,7 @@ in the heart of historic Durham this satellite meeting will allow for deeper dis
 Starting with lunch on Monday 22nd July and ending with lab tours on the afternoon of Wednesday 24th July, there will be a mixture of invited and hot-topic speakers, discussion sessions, a poster evening (Tuesday) and 
 conference banquet (Monday). <br>
 ## Registration
-The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. Registration will open soon. <br>
+The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. Registration will open soon.
 
 | Rate  |Full delegate |Student delegate |
 |---|----|-----|
