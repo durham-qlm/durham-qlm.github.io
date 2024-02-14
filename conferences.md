@@ -8,4 +8,4 @@ subtitle: Upcoming conferences are listed here.
   
 |Date   |Location  |Title   |Link    |
 |:---   | :----:  | :--------:      |           --: |
-|22nd-24th July 2024|Radisson Blu Durham |Dipolar Quantum Matter - ICAP satellite|<!---<a href="events/conferences/ICAP_satellite.md">ICAP</a>-->link|
+|22nd-24th July 2024|Radisson Blu Durham |Dipolar Quantum Matter - ICAP satellite|<a href="events/conferences/ICAP_satellite.md">Webpage</a>|
