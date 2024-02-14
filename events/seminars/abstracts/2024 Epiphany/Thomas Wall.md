@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: QLM seminars, Michaelmas term
+title: QLM seminars, Epiphany term
 subtitle: 31/01/2024, 12pm-1pm, OCW017
 ---
 

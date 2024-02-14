@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: QLM seminars, Michaelmas term
+title: QLM seminars, Epiphany term
 subtitle: 24/01/2024, 11am-12pm, Online
 ---
 
