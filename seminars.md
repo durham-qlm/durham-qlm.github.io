@@ -3,7 +3,7 @@ layout: page
 title: QLM Seminars
 subtitle: QLM hosts meetings and workshops on a regular basis. Upcoming seminars are listed here.
 ---
-
+ 
 ## 2023-2024 Seminars
 
 Michaelmas term 
