@@ -17,7 +17,7 @@ Epiphany term
 |14/02/2024|12pm-1pm|Ph30|<a href="/events/seminars/abstracts/2024 Epiphany/Ben Maddox">Electromagnetic Induction Imaging with Atomic Magnetometers</a>|Ben Maddox    |Durham University |
 |21/02/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Epiphany/James Croft">The role of quantum chaos in ultracold molecular collisions</a>|James Croft    |Durham University, Department of Chemistry |
 |28/02/2024|        |      |No seminar - MPhys project seminar week |   |      |
-|06/03/2024|12pm-1pm|OCW017|<a href="">    </a>|Sean Paling    |STFC Boulby Mine Project |
-|13/03/2024|12pm-1pm|OCW017|<a href="">     </a>|James McGilligan    |University of Strathclyde |
+|06/03/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Epiphany/Sean Paling">  Deep Science @ Boulby Underground Laboratory  </a>|Sean Paling    |STFC Boulby Mine Project |
+|13/03/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Epiphany/James McGilligan"> Micro-fabricated atomic sensors    </a>|James McGilligan    |University of Strathclyde |
 
 
