@@ -13,7 +13,7 @@ The registration fee includes the conference dinner on the Monday evening, as we
 | Rate  |Full delegate |Student delegate |
 |---|----|-----|
 |Standard Rate (Until April 30th 2024) | £200 | £150|
-| Late Rate (Until June 30th 2024) | £250 | £200|
+|Late Rate (Until June 30th 2024) | £250 | £200|
 |On-site registration | £350 | £300|
 
 
@@ -22,7 +22,10 @@ The registration fee includes the conference dinner on the Monday evening, as we
 
 ## Invited speakers
 To be updated continuously.<br>
-| <img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University | 
+|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University| <img src="{{ site.url }}{{ site.baseurl }}/events/img/Lauriane_small.png" alt="" /> <br>Lauriane Chomaz <br> Heidelberg University| <img src="{{ site.url }}{{ site.baseurl }}/events/img/Simon_small.png" alt="" /> <br>Simon Evered <br> Harvard University| 
+|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Igor_small.png" alt="" /> <br>Igor Ferrier-Barbut <br> Institut d'Optique|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Bryce_small.png" alt="" /> <br>Bryce Gadway <br> Penn State University|Kaden Hazzard <br> Rice University|
+|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Annie_small.png" alt="" /> <br>Annie Park <br> Harvard University| 
+
 
 ## Submission of abstract
 To be considered for a poster or a hot-topic talk, please submit an abstract using this <a href="https://durham-qlm.uk/events/dqm2024_abstract_template.tex" download> template (LaTex)</a> by emailing <a href="mailto:hannah.williams4@durham.ac.uk?subject=Dipolar meeting abstract submission">Dr. Hannah Williams</a>. The deadline for abstracts is 15th May 2024.
