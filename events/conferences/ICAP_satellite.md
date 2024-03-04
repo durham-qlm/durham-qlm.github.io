@@ -22,9 +22,9 @@ The registration fee includes the conference dinner on the Monday evening, as we
 
 ## Invited speakers
 To be updated continuously.<br>
-|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University| <img src="{{ site.url }}{{ site.baseurl }}/events/img/Lauriane_small.png" alt="" /> <br>Lauriane Chomaz <br> Heidelberg University| <img src="{{ site.url }}{{ site.baseurl }}/events/img/Simon_small.png" alt="" /> <br>Simon Evered <br> Harvard University| 
-|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Igor_small.png" alt="" /> <br>Igor Ferrier-Barbut <br> Institut d'Optique|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Bryce_small.png" alt="" /> <br>Bryce Gadway <br> Penn State University|Kaden Hazzard <br> Rice University|
-|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Annie_small.png" alt="" /> <br>Annie Park <br> Harvard University| 
+|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University| <img src="{{ site.url }}{{ site.baseurl }}/events/img/Lauriane_small.png" alt="" /> <br>Lauriane Chomaz <br> Heidelberg University| <img src="{{ site.url }}{{ site.baseurl }}/events/img/simon_small.png" alt="" /> <br>Simon Evered <br> Harvard University| 
+|<img src="{{ site.url }}{{ site.baseurl }}/events/img/Igor_small.png" alt="" /> <br>Igor Ferrier-Barbut <br> Institut d'Optique|<img src="{{ site.url }}{{ site.baseurl }}/events/img/bryce_small.png" alt="" /> <br>Bryce Gadway <br> Penn State University|Kaden Hazzard <br> Rice University|
+|<img src="{{ site.url }}{{ site.baseurl }}/events/img/annie_small.png" alt="" /> <br>Annie Park <br> Harvard University| 
 
 
 ## Submission of abstract
