@@ -25,7 +25,7 @@ To be updated continuously.<br>
 <table>
 <tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University </td><td> <img src="{{ site.url }}{{ site.baseurl }}/events/img/Lauriane_small.png" alt="" /> <br>Lauriane Chomaz <br> Heidelberg University </td><td> <img src="{{ site.url }}{{ site.baseurl }}/events/img/simon_small.png" alt="" /> <br>Simon Evered <br> Harvard University</td></tr> 
 <tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Igor_small.png" alt="" /> <br>Igor Ferrier-Barbut <br> Institut d'Optique</td><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/bryce_small.png" alt="" /> <br>Bryce Gadway <br> Penn State University</td><td>Kaden Hazzard <br> Rice University </td></tr>
-<tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/annie_small.png" alt="" /> <br>Annie Park <br> Harvard University</td></tr> 
+<tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Holly_small.png" alt="" /> <br> Holly Middleton-Spencer <br> University of Birmingham</td><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/annie_small.png" alt="" /> <br>Annie Park <br> Harvard University</td></tr> 
 </table>
 
 
