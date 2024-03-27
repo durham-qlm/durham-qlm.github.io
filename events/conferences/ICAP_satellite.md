@@ -16,7 +16,7 @@ To be updated continuously.<br>
 </table>
 
 ## Timings
-| |Monday | Tuesday | Wednesday |
+| Time |Monday | Tuesday | Wednesday |
 |---|----|-----|------|
 |09:15 - 12:45 | Arrival | Talks | Talks|
 |12:24-13:45 | Lunch | Lunch | Lunch |
