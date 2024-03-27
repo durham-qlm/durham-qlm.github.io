@@ -16,6 +16,7 @@ To be updated continuously.<br>
 </table>
 
 ## Timings
+
 | Time |Monday | Tuesday | Wednesday |
 |---|----|-----|------|
 |09:15 - 12:45 | Arrival | Talks | Talks|
