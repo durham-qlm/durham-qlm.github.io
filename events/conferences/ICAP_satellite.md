@@ -25,7 +25,7 @@ To be updated continuously.<br>
 |Evening | Dinner | Poster session | Leave|
 
 ## Registration
-The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. Registration will open 28th March.
+The registration fee includes the conference dinner on the Monday evening, as well as tea/coffee and lunch each day. [Registration](https://pay.durham.ac.uk/event-durham/dipolar-quantum-matter) is open.
 
 | Rate  |Full delegate |Student delegate |
 |---|----|-----|
