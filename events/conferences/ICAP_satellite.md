@@ -7,8 +7,9 @@ This [ICAP](https://icap28.com/) satellite meeting will take place at the [Radis
 in the heart of historic Durham. It will allow for deeper discussions and interactions between researchers working in the fields of molecules, Rydberg atoms, magnetic atoms and more. <br> 
 There will be a mixture of invited and hot-topic speakers, discussion sessions, a poster evening (Tuesday) and conference banquet (Monday). <br>
 
+[Register here](https://pay.durham.ac.uk/event-durham/dipolar-quantum-matter)
+
 ## Invited speakers
-To be updated continuously.<br>
 <table>
 <tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University </td><td> <img src="{{ site.url }}{{ site.baseurl }}/events/img/Lauriane_small.png" alt="" /> <br>Lauriane Chomaz <br> Heidelberg University </td><td> <img src="{{ site.url }}{{ site.baseurl }}/events/img/simon_small.png" alt="" /> <br>Simon Evered <br> Harvard University</td></tr> 
 <tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Igor_small.png" alt="" /> <br>Igor Ferrier-Barbut <br> Institut d'Optique</td><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/bryce_small.png" alt="" /> <br>Bryce Gadway <br> Penn State University</td><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/kaden_small.png" alt="" /> <br>Kaden Hazzard <br> Rice University </td></tr>
