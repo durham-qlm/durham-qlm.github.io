@@ -18,7 +18,13 @@ The registration fee includes the conference dinner on the Monday evening, as we
 <br>
 
 ## Invited speakers
-Tbc
+To be updated continuously.<br>
+
+<table>
+<tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Loic_small.png" alt="" /> <br>Loïc Anderegg <br> Harvard University </td><td> <img src="{{ site.url }}{{ site.baseurl }}/events/img/Lauriane_small.png" alt="" /> <br>Lauriane Chomaz <br> Heidelberg University </td><td> <img src="{{ site.url }}{{ site.baseurl }}/events/img/simon_small.png" alt="" /> <br>Simon Evered <br> Harvard University</td></tr> 
+<tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/Igor_small.png" alt="" /> <br>Igor Ferrier-Barbut <br> Institut d'Optique</td><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/bryce_small.png" alt="" /> <br>Bryce Gadway <br> Penn State University</td><td>Kaden Hazzard <br> Rice University </td></tr>
+<tr><td><img src="{{ site.url }}{{ site.baseurl }}/events/img/annie_small.png" alt="" /> <br>Annie Park <br> Harvard University</td></tr> 
+</table>
 ## Submission of abstract
 To be considered for a poster or a hot-topic talk, please submit an abstract using this <a href="https://durham-qlm.uk/events/dqm2024_abstract_template.tex" download> template (LaTex)</a> by emailing <a href="mailto:hannah.williams4@durham.ac.uk?subject=Dipolar meeting abstract submission">Dr. Hannah Williams</a>. The deadline for abstracts is 15th May 2024.
 ## Accommodation and Travel
