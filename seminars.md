@@ -7,6 +7,7 @@ subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the 
 ## 2023-2024 Seminars
 
 Summer term
+
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
 |1/05/2024|12pm-1pm|Ph30|<a href="/events/seminars/abstracts/2024 Epiphany/Emma Meehan">A journey to running the UK's Deep Underground Laboratory</a>|Emma Meehan    |Deep Science @ Boulby Underground Laboratory |
