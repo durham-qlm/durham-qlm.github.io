@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: QLM seminars, Summer term
-subtitle: 1/06/2024, 12pm-1pm, Ph30
+subtitle: 1/05/2024, 12pm-1pm, Ph30
 ---
 
 ## Emma Meehan (Deep Science @ Boulby Underground Laboratory)
