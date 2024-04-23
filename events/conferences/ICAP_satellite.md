@@ -30,8 +30,8 @@ The registration fee includes the conference dinner on the Monday evening, as we
 
 | Rate  |Full delegate |Student delegate |
 |---|----|-----|
-|Standard Rate (Until April 30th 2024) | £200 | £150|
-|Late Rate (Until June 30th 2024) | £250 | £200|
+|Discounted Rate (Until April 30th 2024) | £200 | £150|
+|Standard Rate (Until June 30th 2024) | £250 | £200|
 
 
 
