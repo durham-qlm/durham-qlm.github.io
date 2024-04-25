@@ -20,26 +20,14 @@ opportunities and benefits available to members of the group. <br>
 
 We have a selection of funded PhD projects available for an October 2024 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
 
-<h2><a id="proj">Projects</a></h2>
+<h2><a id="proj">Available Projects</a></h2>
 
 <table>
   <tr> <td>
 	<a href="#terahertz">High Speed Terahertz Imaging using Rydberg Atoms.</a>
   </td></tr>
-  <tr><td>
-    	<a href="#qmag">Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.</a>
-    </td></tr>
     <tr><td>
     	<a href="#dipolar">Ultracold mixtures of caesium and silver for the association of very dipolar molecules</a>
-    </td></tr>
-    <tr><td>
-	<a href="#qgas">Many-body physics of polar molecules in a quantum gas microscope.</a>
-    </td></tr>
-    <tr><td>
-    	<a href="#qc">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a>
-    </td></tr>
-    <tr><td>
-    	<a href="#excitons">Quantum Networks with Rydberg excitons.</a>
     </td></tr>
     <tr><td>
     	<a href="#vlight">Vector Light project.</a>
@@ -48,14 +36,29 @@ We have a selection of funded PhD projects available for an October 2024 start (
     	<a href="#lasercooling">Laser cooling molecules for quantum simulation.</a>
     </td></tr>
     <tr><td>
-    	<a href="#qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
-    </td></tr>
-    <tr><td>
     	<a href="#qsense">EPSRC ICASE Studentship on Quantum Sensors.</a>
     </td></tr>
- 
+     <tr><td>
+    	<a href="#qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
+    </td></tr>
 </table>
 
+<h2><a id="proj">Previous Projects</a></h2>
+
+<table>
+  <tr><td>
+    	<a href="https://www.cornishlabs.uk/rbcs">Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.</a>
+    </td></tr>
+    <tr><td>
+	<a href="https://www.cornishlabs.uk/microscope">Many-body physics of polar molecules in a quantum gas microscope.</a>
+    </td></tr>
+    <tr><td>
+    	<a href="href="https://www.cornishlabs.uk/tweezers">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a>
+    </td></tr>
+    <tr><td>
+    	<a href="https://durham-qlm.uk/research/rydberg/excitons/">Quantum Networks with Rydberg excitons.</a>
+    </td></tr>
+</table>
 
 We hope that you will join us and become a part of the QLM!<br>
 
@@ -70,20 +73,7 @@ The terahertz (THz) frequency band lies between the infrared and microwave regio
 	    <a href="#proj">Back to table</a>
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" /></td>
 </td>
-  </tr>
-
-  <tr>
-    <td>
-	<br>
-      	<h5><a id="qmag">Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.</a></h5><br>
-The rich rotational structure of molecules offers an unrivalled playground for the encoding of spins and synthetic dimensions which can be precisely controlled using microwave fields. We have recently demonstrated record-breaking rotational coherences in a novel magic-wavelength trap. In this project you will exploit this capability to study models of quantum magnetism with spins encoded in the rotational states of RbCs molecules and interactions controlled through the combination of states and applied fields.<br>
-<br><a href="https://www.cornishlabs.uk/rbcs">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.<br><br>
-	    <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/rbcs/img/intro.png" alt="" /></td>
-</td>
-  </tr>
-
-  
+  </tr> 
   <tr>
     <td>
 	    <br>
@@ -96,40 +86,7 @@ The rich rotational structure of molecules offers an unrivalled playground for t
   </td>
          <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/dipole.jpg" alt="Lasers and optics typical of ultracold experiments" /></td>
     </tr>
-
-  <tr>
-    <td>
-	<br>
-      	<h5><a id="qgas">Many-body physics of polar molecules in a quantum gas microscope.</a></h5><br>
-Quantum gas microscopes have revolutionized the study of ultracold atomic gases in optical lattice, enabling the detection of individual atoms with single site resolution. In this project you will develop and apply the technique to ultracold RbCs molecules, using it to study strongly correlated phases of molecules in the presence of long-range dipole-dipole interactions.<br>
-<br><a href="https://www.cornishlabs.uk/microscope">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.<br><br>
-	    <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Microscope.jpg" alt="Optics and chamber in microscope lab." /></td>
-</td>
-  </tr>
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="qc">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a></h5><br>
-	We have pioneered a new approach to forming ultracold RbCs molecules. We take single atoms of Rb and Cs confined in separate optical tweezers, cool them to motional ground state of their respective traps and then carefully combine them to form a molecule in the rovibrational ground state. In this project you will investigate how to combine the molecules with Rydberg atoms in order to perform non-destructive readout of the molecular state and to engineer quantum entanglement between pairs of molecules.<br>
-<br><a href="https://www.cornishlabs.uk/tweezers">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.<br><br>
-	  <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Optics layout for tweezer experiment." /></td>
-</td>
-  </tr>
-
-<tr>
-    <td>
-	<br>
-      	<h5><a id="excitons">Quantum Networks with Rydberg excitons.</a></h5><br>
-	Quantum computers made by Google, IBM and others are based on microwave superconducting circuits that must be cooled to milliKelvin temperatures to avoid decoherence. This makes it hard to directly network these computers together. A promising alternative is to up-covert the quantum information to the optical region, and send it down conventional optical fibres. The goal of this project is to help develop such a quantum up-converter using a beautiful piece of physics at the crossover between atomic and condensed matter physics. In a semiconductor called cuprous oxide, electrons and holes bind together to form quasi-particles called excitons, which have internal states just like atoms. In collaboration with Cardiff University we have pioneered  microwave-optical coupling in cuprous oxide, and we are now looking to exploring the quantum limits of what can be achieved with this technology.<br>
-<br><a href="https://durham-qlm.uk/research/rydberg/excitons/">Further information available here</a> or contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Jones</a>.<br><br>
-	    <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/rydberg/excitons/img/stone.png" alt="Natural cuprous oxide gemstone." /></td>
-</td>
-  </tr>
-  
+ 
 <tr>
   <td>
 	<br>
