@@ -53,7 +53,7 @@ We have a selection of funded PhD projects available for an October 2024 start (
 	<a href="https://www.cornishlabs.uk/microscope">Many-body physics of polar molecules in a quantum gas microscope.</a>
     </td></tr>
     <tr><td>
-    	<a href="href="https://www.cornishlabs.uk/tweezers">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a>
+    	<a href="https://www.cornishlabs.uk/tweezers">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a>
     </td></tr>
     <tr><td>
     	<a href="https://durham-qlm.uk/research/rydberg/excitons/">Quantum Networks with Rydberg excitons.</a>
