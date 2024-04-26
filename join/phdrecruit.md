@@ -42,7 +42,7 @@ We have a selection of funded PhD projects available for an October 2024 start (
     	<a href="#qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
     </td></tr>
      <tr><td>
-	<a href="#tenk">TENK+: Next generation architectures for neutral atom quantum computers beyond 10,000 atoms.</a>
+	<a href="#tenk">Collaboration with National Quantum Computing Centre on 3D atomic arrays.</a>
     </td></tr>
 </table>
 
