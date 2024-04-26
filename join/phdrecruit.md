@@ -147,7 +147,8 @@ This 4-year studentship is sponsored by the National Quantum Computing Centre Na
 <br><br>
 The aim is to develop a new approach to creating three-dimensional arrays of ultra-cold strontium atoms, which can be addressed and read out individually, forming the qubits of a quantum computer. Currently, quantum computers based on two-dimensional atomic arrays (like the one produce in Durham and shown in the picture) are one of the platforms for quantum computation, with several companies now offering machines of ~100-1000 qubits for sale. However scaling to ~10,000 qubits will require new technologies, and an attractive approach is to use the third spatial dimension as the arrays can be made more compact, and the connectivity between qubits is improved. You will collaborate with the group of Dr Aidan Arnold and with the NQCC to develop custom optics for implementation in an existing strontium laser cooling experiment at Durham There will be the opportunity for visit, training and short placements at both locations.
 <br><br>
-For further details about the ultracold strontium experiment click here [Sr Quantum Clock](https://durham-qlm.uk/research/rydberg/strontium/)
+	  
+For further details about the ultracold strontium experiment click <a href="https://durham-qlm.uk/research/rydberg/strontium/">here</a>.
 <br><br>
 For further details about this position please contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof Matt Jones</a>.
 <br><br>
