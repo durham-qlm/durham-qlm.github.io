@@ -30,7 +30,7 @@ The registration fee includes the conference dinner on the Monday evening, as we
 
 | Rate  |Full delegate |Student delegate |
 |---|----|-----|
-|Standard Rate (Until June 30th 2024) | £250 | £200|
+|Standard Rate (Until June 16th 2024) | £250 | £200|
 
 
 ## Submission of abstract
