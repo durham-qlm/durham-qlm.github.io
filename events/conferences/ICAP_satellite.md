@@ -30,16 +30,13 @@ The registration fee includes the conference dinner on the Monday evening, as we
 
 | Rate  |Full delegate |Student delegate |
 |---|----|-----|
-|Discounted Rate (Until April 30th 2024) | £200 | £150|
 |Standard Rate (Until June 30th 2024) | £250 | £200|
-
-
 
 
 ## Submission of abstract
 To be considered for a poster or a hot-topic talk, please submit an abstract using this <a href="https://durham-qlm.uk/events/dqm2024_abstract_template.tex" download> template (LaTex)</a> and sending it to <a href="mailto:dipolar@durham.ac.uk?subject=Dipolar meeting abstract submission">dipolar@durham</a>. The deadline for abstracts is 31st May 2024.
 ## Accommodation and Travel
-Rooms are reserved at the Radisson Blu Hotel from Sunday 21st July to Wednesday 24th July. Following registration you will receive a code to enable booking, this must be completed by the 8th June. Other hotels in Durham are available. <br>
+Rooms are reserved at the Radisson Blu Hotel from Sunday 21st July to Wednesday 24th July. Following registration you will receive a code to enable booking, this must be completed by the **8th June**. Other hotels in Durham are available. <br>
 Durham is less than 3 hours by train from London, making it easy to reach following ICAP. [North East England](https://www.visitnortheastengland.com/) boasts a variety of historical landmarks dating back to Roman Britain, untouched countryside and dramatic coastline as well as vibrant cities including Durham, Newcastle and York. 
 
 ## Contact
