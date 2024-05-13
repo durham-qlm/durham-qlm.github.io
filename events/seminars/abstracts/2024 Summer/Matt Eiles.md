@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: QLM seminars, Summer term
-subtitle: 15/05/2024, 12pm-1pm, Ph30
+subtitle: 22/05/2024, 12pm-1pm, Ph30
 ---
 
 ## Matt Eiles (MPI PKS)
