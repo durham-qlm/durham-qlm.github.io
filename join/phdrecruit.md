@@ -172,7 +172,7 @@ This 4-year studentship is sponsored by the National Quantum Computing Centre Na
 
 For further details about the tweezer experiment see https://www.cornishlabs.uk/tweezers.
 
-For further details about this position please contact [Prof Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/) or [Prof Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)
+For further details about this position please contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/c-s-adams/">Prof Stuart Adams</a>
 
 <a href="#proj">Back to table</a>
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/two_species_rydberg.png" alt="Two Species Rydberg" /></td>
