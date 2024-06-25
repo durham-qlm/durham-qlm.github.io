@@ -30,7 +30,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
             <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
   /><br>
   CaF team (BH, AB, HJW, AM)
-</td><td><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
+</td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex Matthies (they/them)  --  PDRA  <br>
 Miss Bethan Humphreys (she/her)  --  PhD student  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br></td></tr> 
