@@ -25,7 +25,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1.
 <details open>
 <summary><b><font size="+3">Team members</font></b></summary>
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" align = "right" width = 300 px
+<img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
   />
   <figcaption> CaF team (BH,AB,HJW,AM). </figcaption>
 </figure>
