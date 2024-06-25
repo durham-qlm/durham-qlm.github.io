@@ -20,7 +20,7 @@ To slow the molecules we are building a new, static magnetic field Zeeman-Sisyph
 This work is supported by EPSRC New Investgator Award EP/X013758/1. 
 
 <details open>
-<summary><h2> Team members</h2></summary>
+<summary>Team members</summary>
 
 <P align = "right"> CaF team (BH,AB,HJW,AM). </P>
 <img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" align = "right" width = 300 px
@@ -73,6 +73,6 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   </details>
 </details>
 
-## PhD and PDRA positions available
+<!-- ## PhD and PDRA positions available -->
 
-Email Hannah at hannah.williams4@durham.ac.uk if you are interested.
+<!-- Email Hannah at hannah.williams4@durham.ac.uk if you are interested. -->
