@@ -25,8 +25,9 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
 <details open>
 <summary><b><font size="+3">Team members</font></b></summary>
 
-<table>
-<tr><td><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
+<table style="border-collapse: collapse; border: none;">
+        <tr style="border: none;">
+            <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
   /><br>
   CaF team (BH, AB, HJW, AM)
 </td><td><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
