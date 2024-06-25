@@ -19,22 +19,22 @@ To slow the molecules we are building a new, static magnetic field Zeeman-Sisyph
   <figcaption> Sketch showing weak and strong field pumping of molecules, render of decelerator, predicted performance of decelerator showing number of molecules vs velocity.</figcaption>
   </figure>
 
-This work is supported by EPSRC New Investgator Award EP/X013758/1. 
+This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Future Leaders Fellowship MR/X033430/1. 
 </details>
 
 <details open>
 <summary><b><font size="+3">Team members</font></b></summary>
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
-  />
-  <figcaption> CaF team (BH,AB,HJW,AM). </figcaption>
-</figure>
-  
-<a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
+
+<table>
+<tr><td><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
+  /><br>
+  CaF team (BH, AB, HJW, AM)
+</td><td><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex Matthies (they/them)  --  PDRA  <br>
 Miss Bethan Humphreys (she/her)  --  PhD student  <br>
-Mr Archie Baldock  (he/him)  --  PhD student  <br>
-
+Mr Archie Baldock  (he/him)  --  PhD student  <br></td></tr> 
+</table>
+  
 <details>
   <summary><b><font size="+1">Former members</font></b></summary>
 Mr Keelan Sloan  (he/him)  --  MSci student  <br>
