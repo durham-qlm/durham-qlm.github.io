@@ -3,7 +3,9 @@ layout: page
 title: Laser cooling CaF molecules
 subtitle:
 ---
-## Overview
+<details open>
+  <summary><b><font size="+3">Overview</font></b></summary>
+  
 <img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/annoted source full.png" alt="Buffer gas source image" align = "right"
   />
 In our lab we are working on **direct laser cooling** of calcium monofluoride (CaF) molecules. <br>
@@ -18,9 +20,10 @@ To slow the molecules we are building a new, static magnetic field Zeeman-Sisyph
   </figure>
 
 This work is supported by EPSRC New Investgator Award EP/X013758/1. 
+</details>
 
 <details open>
-<summary><b><font size="+3"><font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;>Team members</font></b></summary>
+<summary><b><font size="+3">Team members</font></b></summary>
 
 <P align = "right"> CaF team (BH,AB,HJW,AM). </P>
 <img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" align = "right" width = 300 px
@@ -32,23 +35,23 @@ Miss Bethan Humphreys (she/her)  --  PhD student  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
 
 <details>
-  <summary><h3>Former members</h3></summary>
+  <summary><b><font size="+1">Former members</font></b></summary>
 Mr Keelan Sloan  (he/him)  --  MSci student  <br>
 Mr Andrew Elwood  (he/him)  --  MSci student  
 </details>
 </details>
 
 <details>
-  <summary><h2>News</h2></summary>
+  <summary><b><font size="+3">News</font></b></summary>
   <details open>
-  <summary><h3>2024</h3></summary>
+  <summary><b><font size="+1">2024</font></b></summary>
   
   <b>June:</b> Alex presents a poster at <a href = 'https://eventos.ugr.es/egas55/'>EGAS </a> in Granada. Keelan and Andrew both graduate, congratulations and good luck in your future endeavours!<br>   
   <b>April:</b> We see CaF molecules in the lab for the first time! 
 </details>
 
   <details>
-    <summary><h3>2023</h3></summary>
+    <summary><b><font size="+1">2023</font></b></summary>
     <b>December:</b> Hannah is awarded a UKRI <a href='https://www.durham.ac.uk/departments/academic/physics/news/department-awarded-two-ukri-future-leaders-fellowships/'>Future Leaders Fellowship</a> for the project <a href='https://gtr.ukri.org/projects?ref=MR%2FX033430%2F1'>Molecules for Quantum Simulation</a> to start June 2024.<br>
     <b>November:</b> Bethan gives her first academic talk at the <a herf='https://quantum.sites.sheffield.ac.uk/about/events/northern-quantum-meeting-ix'>Northern Quantum Meeting IX</a> in Sheffield.<br>
     <b>October:</b> The team is growing rapidly! Archie Baldock joins the team as a PhD student. We also have two MSci students joining: Keelan Sloan working on background free imaging of CaF and Andrew Elwood building a cooled, leader-follower laser system.<br>
@@ -59,7 +62,7 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   </details>
   
   <details>
-    <summary><h3>2022</h3></summary>
+    <summary><b><font size="+1">2022</font></b></summary>
     <b>October:</b> Three MSci students join the group: James Crilly (co-supervised by Dr. Carty works on simulating the Zeeman-Sisyphus decelerator), Matthew Page & Yuchao Liu (co-supervised by Prof. Cornish work on tweezer simulations and creation using a spatial light modulator).<br>
     <b>September:</b> The lab refurbishment is complete!<br>
     <b>July:</b> Bethan passes her 9-month progression. Congratulations!<br>
@@ -68,7 +71,7 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   </details>
   
   <details>
-    <summary><h3>2021</h3></summary>
+    <summary><b><font size="+1">2021</font></b></summary>
     <b>October:</b> The group is formed and Bethan joins as the first PhD student. Welcome Bethan!
   </details>
 </details>
