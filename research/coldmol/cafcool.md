@@ -26,7 +26,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1.
 <img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" align = "right" width = 300 px
   />
   
-[Dr. Hannah J. Williams](https://www.durham.ac.uk/staff/hannah-williams4/) (she/her)  --  PI<br>
+<a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex Matthies (they/them)  --  PDRA  <br>
 Miss Bethan Humphreys (she/her)  --  PhD student  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
