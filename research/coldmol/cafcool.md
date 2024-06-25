@@ -43,7 +43,7 @@ Mr Andrew Elwood  (he/him)  --  MSci student
 </details>
 </details>
 
-<details>
+<details open>
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
   <summary><b><font size="+1">2024</font></b></summary>
