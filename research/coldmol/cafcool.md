@@ -48,9 +48,9 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   <details open>
   <summary><b><font size="+1">2024</font></b></summary>
   
-  <b>June:</b> Alex presents a poster at <a href = 'https://eventos.ugr.es/egas55/'>EGAS </a> in Granada. Keelan and Andrew both graduate, congratulations and good luck in your future endeavours!<br>   
+  <b>June:</b> Alex presents a <a href="https://durham-qlm.uk/research/coldmol/cafcool/img/EGAS 2024.pdf" target="_blank"> poster</a> at <a href = 'https://eventos.ugr.es/egas55/'>EGAS </a> in Granada. Keelan and Andrew both graduate, congratulations and good luck in your future endeavours!<br>   
   <b>April:</b> We see CaF molecules in the lab for the first time! 
-</details>
+  </details>
 
   <details>
     <summary><b><font size="+1">2023</font></b></summary>
