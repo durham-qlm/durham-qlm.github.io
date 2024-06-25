@@ -10,7 +10,7 @@ subtitle:
   />
 In our lab we are working on <b>direct laser cooling</b> of calcium monofluoride (CaF) molecules. <br>
 The complex internal level structure of molecules may make them seem a daunting prospect to control. However, here at Durham we are building an experiment to produce ultracold, controlled CaF molecules.<br>
-Laser cooling molecule experiments all start in the same way, creating the molecules. For this we are building a cryogenic buffer gas source, see figure 1. The source consists of a calcium metal target which we ablate using a pulsed Nd:YAG laser, we flow sulfur hexafluoride gas into the vicinity of the newly created Ca ions which leads to the formation of CaF molecules. This all happens inside a copper cell mounted on a 4 Kelvin cyrocooler, into which helium gas, also at 4 K, is injected and collides with the CaF, sympathetically cooling it. The molecules then leave the cell with a forward velocity of around 150 m/s. This is far too fast to be captured in a magneto-optical trap, and so the molecules must next be decelerated. <br>
+Laser cooling molecule experiments all start in the same way, creating the molecules. For this we are building a cryogenic buffer gas source, shown in figure to the right. The source consists of a calcium metal target which we ablate using a pulsed Nd:YAG laser, we flow sulfur hexafluoride gas into the vicinity of the newly created Ca ions which leads to the formation of CaF molecules. This all happens inside a copper cell mounted on a 4 Kelvin cyrocooler, into which helium gas, also at 4 K, is injected and collides with the CaF, sympathetically cooling it. The molecules then leave the cell with a forward velocity of around 150 m/s. This is far too fast to be captured in a magneto-optical trap, and so the molecules must next be decelerated. <br>
 
 To slow the molecules we are building a new, static magnetic field Zeeman-Sisyphus decelerator. The decelerator consists of alternating regions of high and low magnetic field. Depending on the sign of the electron spin projection the molecules can either be in a <i>weak-field seeking (wfs)</i> or <i>strong-field seeking (sfs)</i> state. Molecules in a wfs state will experience a potential hill upon entering a region of high magnetic field, as they travel through this region they will lose kinetic energy. At some point towards the top of the hill the molecules will come into resonance with a laser which will pump them into the opposite state, now entering a region of decreasing field the molecules (being in a sfs state) will again experience a potential hill. This process is repeated many times in order to bring the velocity of the molecules down, see figure below. <br>
 <figure>
@@ -24,10 +24,11 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1.
 
 <details open>
 <summary><b><font size="+3">Team members</font></b></summary>
-
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" align = "right" width = 300 px
   />
-  <P align = "right"> CaF team (BH,AB,HJW,AM). </P>
+  <figcaption> CaF team (BH,AB,HJW,AM). </figcaption>
+</figure>
   
 <a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex Matthies (they/them)  --  PDRA  <br>
