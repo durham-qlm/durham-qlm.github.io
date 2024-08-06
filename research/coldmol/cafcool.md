@@ -47,7 +47,7 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
   <summary><b><font size="+1">2024</font></b></summary>
-  <b>July:</b> Archie presents a poster at the ICAP summer school at Oxford university and Bethan presents a <a href="https://virtual.oxfordabstracts.com/#/event/3520/poster-gallery/grid?sort=program-codes&current=375">poster </a> at <a href="https://icap28.com/">ICAP</a><br>
+  <b>July:</b> We host the <a href='https://durham-qlm.uk/events/conferences/ICAP_satellite/'>Dipolar Quantum Matter </a>a> ICAP satellite meeting, which is a resounding success! Archie presents a poster at the ICAP summer school at Oxford university and Bethan presents a <a href="https://virtual.oxfordabstracts.com/#/event/3520/poster-gallery/grid?sort=program-codes&current=375">poster </a> at <a href="https://icap28.com/">ICAP</a><br>
   <b>June:</b> Alex presents a <a href="https://durham-qlm.uk/research/coldmol/cafcool/img/EGAS 2024.pdf" target="_blank"> poster</a> at <a href = 'https://eventos.ugr.es/egas55/'>EGAS </a> in Granada. Keelan and Andrew both graduate, congratulations and good luck in your future endeavours!<br>   
   <b>April:</b> We see CaF molecules in the lab for the first time! 
   </details>
