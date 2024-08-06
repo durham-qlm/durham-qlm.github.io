@@ -3,8 +3,9 @@ layout: page
 title: Dipolar Quantum Matter
 subtitle: 22nd-24th July 2024
 ---
-
+<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/events/img/Dipolar 2024-63.jpg" alt="" /> 
+</figure>
 
 This [ICAP](https://icap28.com/) satellite meeting will take place at the [Radisson Blu Hotel]( https://www.radissonhotels.com/en-us/hotels/radisson-blu-durham?facilitatorId=RHGSEM&cid=a%3Aps+b%3Abng+c%3Aemea+i%3Abrand+e%3Ardb+d%3Aukirwe+r%3Abrt+f%3Aen-US+g%3Aho+h%3AGBXVU1+v%3Acf&gclid=d215526a5491147c6fea37a1275fea3f&gclsrc=3p.ds&msclkid=d215526a5491147c6fea37a1275fea3f&utm_source=bing&utm_medium=cpc&utm_campaign=MS_GBR-IRL_CR_UKIRWE_sk_Brand_Durham_GBXVU1_EN_PH%26EX_United+Kingdom&utm_term=radisson+blu+durham&utm_content=Brand_Durham_Hotel_EX_A.+Migration) 
 in the heart of historic Durham. It will allow for deeper discussions and interactions between researchers working in the fields of molecules, Rydberg atoms, magnetic atoms and more. <br> 
