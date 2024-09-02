@@ -44,17 +44,30 @@ If you are interested in joining the team or finding out more, please contact m.
 [Dr Hamid Ohadi](https://www.st-andrews.ac.uk/physics-astronomy/people/ho35/)
 
 ## Publications
-[1] Microwave-optical coupling via Rydberg excitons in cuprous oxide <br>
+[1] Microwave-optical spectroscopy of Rydberg excitons in the ultrastrong driving regime <br>
+*Brewin, A., Gallagher, L. A., Pritchett, J. D., Wong, H. Q., Potvliege, R. M., Clark, S. J., & Jones, M.* <br>
+[*arXiv preprint arXiv:2406.18674 (2024)*](https://arxiv.org/pdf/2406.18674)
+
+[2] Giant microwave–optical Kerr nonlinearity via Rydberg excitons in cuprous oxide <br>
+*Pritchett, J.D., Gallagher, L.A., Brewin, A., Wong, H.Q., Langbein, W., Lynch, S.A., Adams, C.S. and Jones, M.* <br>
+[*APL Photonics <b>9</b> (3): 031303 (2024)*](https://pubs.aip.org/aip/app/article/9/3/031303/3268067)
+
+[3] Microwave-optical coupling via Rydberg excitons in cuprous oxide <br>
 *Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C.* <br>
 [*Phys. Rev. Research <b>4</b>, 013031 (2022)*](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013031) <br>
 
-[2] High-resolution nanosecond spectroscopy of even-parity Rydberg excitons in Cu 2 O <br>
+[4] High-resolution nanosecond spectroscopy of even-parity Rydberg excitons in Cu 2 O <br>
 *Rogers, J., Gallagher, L., Pizzey, D., Pritchett, J., Adams, C., Jones, M., Hodges, C., Langbein, W., & Lynch, S.* <br> 
 [*Phys. Rev. B <b>105</b>, 115206 (2022)*](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.115206) <br>
 
-[3] Rydberg excitons in synthetic cuprous oxide Cu 2 O <br>
+[5] Rydberg excitons in synthetic cuprous oxide Cu 2 O <br>
 *Lynch, S., Hodges, C., Mandal, S., Langbein, W., Singh, R., Gallagher, L., Pritchett, J., Pizzey, D., Rogers, J., & Adams, C.* <br>
 [*Phys. Rev. Materials <b>5</b>, 084602 (2021)*](https://journals.aps.org/prmaterials/pdf/10.1103/PhysRevMaterials.5.084602)
+
+
+
+
+
 
 ## PhD Theses
 Liam Gallagher: [Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O (2022).](http://etheses.dur.ac.uk/14296/1/Gallagher000720653_corrected.pdf)
