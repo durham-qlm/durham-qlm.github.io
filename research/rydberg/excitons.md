@@ -70,5 +70,6 @@ If you are interested in joining the team or finding out more, please contact m.
 
 
 ## PhD Theses
-Liam Gallagher: [Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O (2022).](http://etheses.dur.ac.uk/14296/1/Gallagher000720653_corrected.pdf) <br>
-Jon Pritchett: [Microwave Induced Optical Nonlinearities in Cuprous Oxide (2023)](https://etheses.dur.ac.uk/15291/)
+Jon Pritchett: [Microwave Induced Optical Nonlinearities in Cuprous Oxide (2023)](https://etheses.dur.ac.uk/15291/) <br>
+Liam Gallagher: [Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O (2022).](http://etheses.dur.ac.uk/14296/1/Gallagher000720653_corrected.pdf) 
+
