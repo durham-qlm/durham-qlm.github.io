@@ -27,9 +27,6 @@ We have a selection of funded PhD projects available for an October 2024 start (
 	<a href="#terahertz">High Speed Terahertz Imaging using Rydberg Atoms</a>
   </td></tr>
     <tr><td>
-    	<a href="#dipolar">Ultracold mixtures of caesium and silver for the association of very dipolar molecules</a>
-    </td></tr>
-    <tr><td>
     	<a href="#vlight">Vector Light project</a>
     </td></tr>
      <tr><td>
@@ -58,6 +55,8 @@ We have a selection of funded PhD projects available for an October 2024 start (
     	<a href="https://durham-qlm.uk/research/rydberg/excitons/">Quantum Networks with Rydberg excitons.</a>
     </td></tr>
 	<tr><td><a href="https://www.cornishlabs.uk/csyb">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
+</td></tr>
+	<tr><td>Ultracold mixtures of caesium and silver for the association of very dipolar molecules.
 </td></tr>
 </table>
 
