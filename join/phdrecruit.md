@@ -32,15 +32,6 @@ We have a selection of funded PhD projects available for an October 2024 start (
     <tr><td>
     	<a href="#vlight">Vector Light project</a>
     </td></tr>
-    <tr><td>
-    	<a href="#lasercooling">Laser cooling molecules for quantum simulation</a>
-    </td></tr>
-    <tr><td>
-    	<a href="#qsense">EPSRC ICASE Studentship on Quantum Sensors</a>
-    </td></tr>
-     <tr><td>
-    	<a href="#qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules</a>
-    </td></tr>
      <tr><td>
 	<a href="#tenk">Collaboration with National Quantum Computing Centre on 3D atomic arrays</a>
     </td></tr>
@@ -52,6 +43,8 @@ We have a selection of funded PhD projects available for an October 2024 start (
 <h2><a id="proj">Previous Projects</a></h2>
 
 <table>
+<tr><td> <a href="https://durham-qlm.uk/research/coldmol/cafcool/"> Laser cooling molecules for quantum simulation.</a>
+</td></tr>
   <tr><td>
     	<a href="https://www.cornishlabs.uk/rbcs">Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.</a>
     </td></tr>
@@ -64,6 +57,8 @@ We have a selection of funded PhD projects available for an October 2024 start (
     <tr><td>
     	<a href="https://durham-qlm.uk/research/rydberg/excitons/">Quantum Networks with Rydberg excitons.</a>
     </td></tr>
+	<tr><td><a href="https://www.cornishlabs.uk/csyb">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
+</td></tr>
 </table>
 
 We hope that you will join us and become a part of the QLM!<br>
@@ -80,18 +75,7 @@ The terahertz (THz) frequency band lies between the infrared and microwave regio
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" /></td>
 </td>
   </tr> 
-  <tr>
-    <td>
-	    <br>
-            <h5><a id="dipolar">Ultracold mixtures of caesium and silver for the association of very dipolar molecules</a></h5><br>
-            Ultracold molecules are an important new platform for quantum science. Large electric dipole moments enable long-range interactions that cause quantum entanglement between different molecules in the gas. Meanwhile, quantum information can be encoded in the rich structure of rotation and vibration states of the molecules. At Durham, we have had great success in creating ultracold molecules by association from pre-cooled atomic mixtures. In this project, we will develop a new experiment for the study of ultracold mixtures of caesium and silver atoms. Diatomic CsAg molecules associated from this mixture would exhibit dipole moments up to 13.5 D, yielding dipolar interactions 1-2 orders of magnitude stronger than are available in current experiments. 
- 
-<br><br>
-            This is a new experimental project, for further information contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Gregory</a>.<br><br>
-	    <a href="#proj">Back to table</a>
-  </td>
-         <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/dipole.jpg" alt="Lasers and optics typical of ultracold experiments" /></td>
-    </tr>
+
  
 <tr>
   <td>
@@ -104,43 +88,6 @@ The terahertz (THz) frequency band lies between the infrared and microwave regio
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/vector light.PNG" alt="Structured light fields." /></td>
 </td>
 </tr>
-
-  <tr>
-	<td>
-	<br>
- 	<h5><a id="lasercooling">Laser cooling molecules for quantum simulation.</a></h5><br>
-Laser-cooled molecules offer new opportunities in quantum science and technology. By using closed cycling transitions we are able to decelerate, trap, cool and detect molecules. The goal of this experiment is to load a lattice of ultracold calcium monofluoride molecules to be used as a platform for quantum simulation. These molecules experience large, anisotropic dipole-dipole interactions, and high levels of control over internal and external degrees of freedom have already been demonstrated. This is an experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology.<br>
-<br><a href="https://durham-qlm.uk/research/coldmol/cafcool/">Further information available here</a> or contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Williams</a>.<br><br>
-		<a href="#proj">Back to table</a>
-<td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.png" alt="Buffer gas course for CaF molecules" /></td>	  
- </td>
-  </tr>
-<tr>
-<td>
-	<br>
-	<h5><a id="qdrop">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a></h5><br>
-We have the only experiment in the world studying ultracold atomic mixtures of Cs and Yb. This combination of elements is exceptionally rich and offers unique opportunities for independently controlling the individual gases. In this project you will exploit these properties to study the quantum dynamics of dual-species Bose-Einstein condensates and to investigate new ways to assemble the atoms into heteronuclear molecules.<br>
-<br><a href="https://www.cornishlabs.uk/csyb">Further information available here</a> or contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Cornish</a>.<br><br>
-	<a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/csyb/img/Yb_MOT.jpg" alt="Magneto-optical trap of Yb." /></td>
-	
-</td>
-</tr>
-
-  <tr>
-  <td>
-	<br>
-      	<h5><a id="qsense">EPSRC ICASE Studentship on Quantum Sensors</a></h5><br>
-Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
- 
-This 4-year Ph.D. project is sponsored by Leonardo UK Ltd, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
-<br>
-
-<br><a href="https://durham-qlm.uk/research/tech/terahertz/">Further information available here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.<br><br>
-<a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
-</td>
-  </tr>
 
 <tr>
   <td>
