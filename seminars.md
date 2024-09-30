@@ -14,7 +14,7 @@ Michaelmas term
 |23/10/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Arpita Das |Durham QLM |
 |30/10/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Rob Harris |Durham University CfAI |
 |6/11/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Anna Marchant |RAL Space |
-|13/11/2024|12pm-1pm|TDB|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Christoph Eigen |University of Cambridge |
+|13/11/2024|12pm-1pm|TBD|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Christoph Eigen |University of Cambridge |
 |20/11/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Holly Middleton-Spencer |University of Birmingham |
 |4/12/2024|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Michaelmas/"> </a>|Philip Goff |Durham University, Dept. of Philosophy |
 
