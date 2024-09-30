@@ -21,6 +21,9 @@ Our experiments are performed on the semiconductor Cu2O, which is the red gemsto
 
 The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Crucially, the dipole-moment associated with transitions between Rydberg states scales with the principal quantum number squared, leading to interactions between excitons and as well as other nonlinear effects. In our experiments we use a microwave field to couple neighbouring Rydberg exciton levels, directly exploiting the large dipole moment associated with these transitions. As we create our Rydberg states through optical excitation with a laser, we have a system which can form the basis of a microwave-optical converter. One of our aims is to create a high-bandwidth and high-efficency microwave-optical converter. To acheive this, one of our current projects is looking at creating a hybrid quantum system consisting of cuprous oxide and a superconducting microwave resonator. 
 
+![](excitons/img/cardiff_visit.png) <br>
+*Our recent visit to the University of Cardiff*
+
 ## Apply Now!
 If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
 
