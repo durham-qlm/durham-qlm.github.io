@@ -136,8 +136,7 @@ Understanding quantum systems of many interacting particles is one of the greate
 
 As part of our team, you will join our established RbCs quantum gas microscope experiment. This project will extend our current capabilities by implementing a rotationally-magic trap for the molecules that enables highly coherent spins to be encoded into the rotational states of the molecules. You will study of a range of tunable spin models in experiments, and have opportunities to collaborate with world-renowned local and international theory partners. <br><br>
 
-For further details about the RbCs quantum gas microscope experiment <a href="https://www.cornishlabs.uk/microscope">click here</a>, or for further information contact  <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. 
-
+For further details about the RbCs quantum gas microscope experiment <a href="https://www.cornishlabs.uk/microscope">click here</a>, or for further information contact  <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
 
 <a href="#proj">Back to table</a>
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RbCsQGM_pretty_picture.png" alt="Single Cs atoms detected in our quantum gas microscope" /></td>
@@ -155,8 +154,7 @@ In this project, you will join our team focused on producing ultracold RbAg and 
 
 This 4-year project is funded by The Royal Society. <br><br>
 
-For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. 
-
+For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
 
 <a href="#proj">Back to table</a>
       
