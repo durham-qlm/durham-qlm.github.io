@@ -132,11 +132,11 @@ For further details about this position please contact <a href="https://www.durh
   <td>
 	<br>
       	<h5><a id="spindynamics">Quantum spin dynamics with ultracold polar molecules</a></h5><br>
-Understanding quantum systems of many interacting particles is one of the greatest challenges in modern physics. In this project, you will study an artificial quantum system constructed by loading ultracold RbCs molecules into an optical lattice. Dipolar interactions can be precisely engineered between the molecules generating quantum entanglement and coherent many-body states, and the resulting dynamics observed using a quantum gas microscope that enables the detection of the position and state of individual molecules in the array.  
+Understanding quantum systems of many interacting particles is one of the greatest challenges in modern physics. In this project, you will study an artificial quantum system constructed by loading ultracold RbCs molecules into an optical lattice. Dipolar interactions can be precisely engineered between the molecules generating quantum entanglement and coherent many-body states, and the resulting dynamics observed using a quantum gas microscope that enables the detection of the position and state of individual molecules in the array. <br><br> 
 
-As part of our team, you will join our established RbCs quantum gas microscope experiment. This project will extend our current capabilities by implementing a rotationally-magic trap for the molecules that enables highly coherent spins to be encoded into the rotational states of the molecules. You will study of a range of tunable spin models in experiments, and have opportunities to collaborate with world-renowned local and international theory partners. 
+As part of our team, you will join our established RbCs quantum gas microscope experiment. This project will extend our current capabilities by implementing a rotationally-magic trap for the molecules that enables highly coherent spins to be encoded into the rotational states of the molecules. You will study of a range of tunable spin models in experiments, and have opportunities to collaborate with world-renowned local and international theory partners. <br><br>
 
-For further details about the RbCs quantum gas microscope experiment click here, or for further information contact  <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. 
+For further details about the RbCs quantum gas microscope experiment <a href="https://www.cornishlabs.uk/microscope">click here</a>, or for further information contact  <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. 
 
 
 <a href="#proj">Back to table</a>
@@ -149,11 +149,11 @@ For further details about the RbCs quantum gas microscope experiment click here,
   <td>
 	<br>
       	<h5><a id="odd">Overwhelmingly dipolar diatomics (ODD-molecules) </a></h5><br>
-Ultracold polar molecules have important applications across the fields of quantum computation, quantum simulation, quantum chemistry, and the precision measurement of fundamental constants. One important feature of polar molecules is that they possess electric dipole moments that can be used to engineer long-range many-body entanglements, while cooling the molecules down to ultracold temperatures allows the study of these quantum effects free from thermal noise. 
+Ultracold polar molecules have important applications across the fields of quantum computation, quantum simulation, quantum chemistry, and the precision measurement of fundamental constants. One important feature of polar molecules is that they possess electric dipole moments that can be used to engineer long-range many-body entanglements, while cooling the molecules down to ultracold temperatures allows the study of these quantum effects free from thermal noise. <br><br>
 
-In this project, you will join our team focused on producing ultracold RbAg and CsAg molecules. These molecules, containing silver (Ag), possess much larger dipole moments than are currently available in competing experiments. This will enable robust entangling operations to be performed more quickly and with less sensitivity to experimental noise. Following the roadmap developed on our highly-successful RbCs experiments, you will study and learn to control collisions between Ag and Rb/Cs atoms via interspecies Feshbach resonances, learn to associate pairs of atoms to form molecules in an ultracold atom mixture, and develop the techniques to transfer these molecules to their internal ground state. 
+In this project, you will join our team focused on producing ultracold RbAg and CsAg molecules. These molecules, containing silver (Ag), possess much larger dipole moments than are currently available in competing experiments. This will enable robust entangling operations to be performed more quickly and with less sensitivity to experimental noise. Following the roadmap developed on our highly-successful RbCs experiments, you will study and learn to control collisions between Ag and Rb/Cs atoms via interspecies Feshbach resonances, learn to associate pairs of atoms to form molecules in an ultracold atom mixture, and develop the techniques to transfer these molecules to their internal ground state. <br><br>
 
-This 4-year project is funded by The Royal Society. 
+This 4-year project is funded by The Royal Society. <br><br>
 
 For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. 
 
