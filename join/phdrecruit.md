@@ -30,7 +30,10 @@ We have a selection of funded PhD projects available for an October 2024 start (
     	<a href="#vlight">Vector Light project</a>
     </td></tr>
      <tr><td>
-	<a href="#tenk">Collaboration with National Quantum Computing Centre on 3D atomic arrays</a>
+	<a href="#tenk">Collaboration with the National Quantum Computing Centre on 3D atomic arrays</a>
+    </td></tr>
+     <tr><td>
+	<a href="#nqc">Two-species Rydberg arrays with the National Quantum Computing Centre</a>
     </td></tr>
 	<tr><td>
 	<a href="#spindynamics">Quantum spin dynamics with ultracold polar molecules</a>
