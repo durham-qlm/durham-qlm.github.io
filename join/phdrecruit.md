@@ -32,12 +32,12 @@ We have a selection of funded PhD projects available for an October 2024 start (
      <tr><td>
 	<a href="#tenk">Collaboration with the National Quantum Computing Centre on 3D atomic arrays</a>
     </td></tr>
-	<tr><td>
-	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
-	</td></tr>
      <tr><td>
 	<a href="#nqc">Two-species Rydberg arrays with the National Quantum Computing Centre</a>
     </td></tr>
+<tr><td>
+	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
+	</td></tr>
 	<tr><td>
 	<a href="#spindynamics">Quantum spin dynamics with ultracold polar molecules</a>
 	</td></tr>
@@ -124,22 +124,7 @@ For further details about this position please contact <a href="mailto:m.p.a.jon
 </td>
   </tr>
 
-<tr>
-  <td>
-	<br>
-      	<h5><a id="odd">Overwhelmingly dipolar diatomic (ODD) molecules </a></h5><br>
-Ultracold polar molecules have important applications across the fields of quantum computation, quantum simulation, quantum chemistry, and the precision measurement of fundamental constants. One important feature of polar molecules is that they possess electric dipole moments that can be used to engineer long-range many-body entanglements, while cooling the molecules down to ultracold temperatures allows the study of these quantum effects free from thermal noise. <br><br>
 
-In this project, you will join our team focused on producing ultracold RbAg and CsAg molecules. These molecules, containing silver (Ag), possess much larger dipole moments than are currently available in competing experiments. This will enable robust entangling operations to be performed more quickly and with less sensitivity to experimental noise. Following the roadmap developed on our highly-successful RbCs experiments, you will study and learn to control collisions between Ag and Rb/Cs atoms via interspecies Feshbach resonances, learn to associate pairs of atoms to form molecules in an ultracold atom mixture, and develop the techniques to transfer these molecules to their internal ground state. <br><br>
-
-This 4-year project is funded by The Royal Society. <br><br>
-
-For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
-
-<a href="#proj">Back to table</a>
-      
-</td>
-  </tr>
 
 <tr>
   <td>
@@ -157,6 +142,23 @@ For further details about this position please contact <a href="https://www.durh
 
 <a href="#proj">Back to table</a>
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/two_species_rydberg.png" alt="Two Species Rydberg" /></td>
+</td>
+  </tr>
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="odd">Overwhelmingly dipolar diatomic (ODD) molecules </a></h5><br>
+Ultracold polar molecules have important applications across the fields of quantum computation, quantum simulation, quantum chemistry, and the precision measurement of fundamental constants. One important feature of polar molecules is that they possess electric dipole moments that can be used to engineer long-range many-body entanglements, while cooling the molecules down to ultracold temperatures allows the study of these quantum effects free from thermal noise. <br><br>
+
+In this project, you will join our team focused on producing ultracold RbAg and CsAg molecules. These molecules, containing silver (Ag), possess much larger dipole moments than are currently available in competing experiments. This will enable robust entangling operations to be performed more quickly and with less sensitivity to experimental noise. Following the roadmap developed on our highly-successful RbCs experiments, you will study and learn to control collisions between Ag and Rb/Cs atoms via interspecies Feshbach resonances, learn to associate pairs of atoms to form molecules in an ultracold atom mixture, and develop the techniques to transfer these molecules to their internal ground state. <br><br>
+
+This 4-year project is funded by The Royal Society. <br><br>
+
+For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
+
+<a href="#proj">Back to table</a>
+      
 </td>
   </tr>
 
