@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: QLM seminars, Michaelmas term
-subtitle: 16/10/2024, 12pm-1pm, OCW017
+subtitle: 23/10/2024, 12pm-1pm, OCW017
 ---
 
 ## Amos Chan (Lancaster University)
