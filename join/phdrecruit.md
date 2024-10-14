@@ -52,6 +52,8 @@ We have a selection of funded PhD projects available for an October 2024 start (
 	</td></tr>
 </table>
 
+
+<!-- 
 <h2><a id="proj">Previous Projects</a></h2>
 
 <table>
@@ -74,6 +76,7 @@ We have a selection of funded PhD projects available for an October 2024 start (
 	<tr><td>Ultracold mixtures of caesium and silver for the association of very dipolar molecules.
 </td></tr>
 </table>
+-->
 
 We hope that you will join us and become a part of the QLM!<br>
 
