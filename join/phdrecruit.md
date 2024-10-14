@@ -41,6 +41,15 @@ We have a selection of funded PhD projects available for an October 2024 start (
 	<tr><td>
 	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
 	</td></tr>
+	<tr><td>
+	<a href="#molryd">Enhancing molecular control using Rydberg atoms </a>
+	</td></tr>
+<tr><td>
+	<a href="#tweezers">Tweezers generation II </a>
+	</td></tr>
+<tr><td>
+	<a href="#CsYb">Leveraging Yb clock states to form CsYb molecules in optical lattices </a>
+	</td></tr>
 </table>
 
 <h2><a id="proj">Previous Projects</a></h2>
@@ -164,5 +173,51 @@ For more information, please contact <a href="https://durham-qlm.uk/members/curr
 </td>
   </tr>
 
+
+
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="molryd">Enhancing molecular control using Rydberg atoms </a></h5><br>
+We have pioneered a new approach to forming ultracold RbCs molecules. We take single atoms of Rb and Cs confined in separate optical tweezers, cool them to motional ground state of their respective traps and then carefully combine them to form a molecule in the rovibrational ground state. In this project you will construct an array of strongly interacting ultracold molecules and Rydberg atoms confined in optical tweezers. You will learn how to engineer resonant dipole-dipole interactions between individual atoms and molecules by tuning the energy difference between a pair of Rydberg levels to match the spacing of a rotational transition in the molecule. You will then harness this interaction to address two of the key challenges in the field of ultracold molecules: (1) to perform non-destructive detection and state sensitive readout of the molecule, and (2) to realise fast high-fidelity entangling operations between molecules. <br><br>
+
+This project is supported by a new UKRI research grant. <br><br>
+
+For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/alexander-guttridge/">Dr. Alex Guttridge</a>.<br><br>
+
+
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Rydberg-Mol.png" alt=" " /></td>
+</td>
+  </tr>
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
+Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics. <br><br>
+
+For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/alexander-guttridge/">Dr. Alex Guttridge</a>.<br><br>
+
+
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt=" " /></td>
+</td>
+  </tr>
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="CsYb">Leveraging Yb clock states to form CsYb molecules in optical lattices </a></h5><br>
+Ultracold polar molecules offer a wide range of exciting research directions spanning ultracold chemistry, precision measurement, quantum simulation and quantum computation. Numerous applications stem from the long-range dipolar interactions and rich internal structure of vibration and rotation. Enormous progress has been made in assembling pairs of alkali atoms to form bialkali molecules – including by our group in Durham using Rb and Cs. However, there is a need to diversify the range of molecules available. In this project you will use an existing state-of-the-art experiment to form CsYb molecules. By combining an alkali atom (Cs) with closed-shell atom (Yb) you will form a molecule that has both an electric dipole moment and a magnetic dipole moment. Your strategy will be to the metastable clock states in Yb where our theoretical work predicts relatively broad collision resonances with Cs that can be used to form molecules. You will also use a magic wavelength optical lattice and learn how to prepare Cs-Yb atom pairs in this lattice. Converting the atom pairs into molecules will realise a new and exciting platform for quantum simulation of many-body physics. <br><br>
+
+For further details about the existing Cs-Yb project <a href="https://www.cornishlabs.uk/csyb">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://jmhutson.webspace.durham.ac.uk/">Prof. Jeremy Hutson</a>.<br><br>
+
+
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb_glass_cell_oct_2023.jpg" alt=" " /></td>
+</td>
+  </tr>
 
 </table>
