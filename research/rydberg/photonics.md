@@ -21,7 +21,7 @@ Our past research includes the creation of contactless interactions between pair
 
 |![](photonics/img/contactless-interactions.png)|
 |:--:|
-|Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons.|Write sequence to create and manipulate a collectively encoded Rydberg qubit.|
+|Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons.|
 <br>
 
 Taking this one step further, we have shown that Rydberg polaritons can also be used to form the fundamental building blocks of a quantum computer, a so-called qubit [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604). We have shown that qubits based on Rydberg polaritons are robust against atom loss from the polaritonic mode, and provide a very convenient optical readout by simply mapping the polaritons back into photons. And as we already know from our previous work, these collective Rydberg qubits can interact via Rydberg-interactions mediated by the matter component of the polaritons. This gives us all the tools that we need to use Rydberg polaritons in applications. One avenue of our future research therefore is continuing to explore Rydberg polaritons for applications ranging from quantum information processing via tests from the foundations of quantum mechanics to applications in sensing. 
@@ -50,11 +50,7 @@ As one can see, we are interested in enhancing our understanding of the fundamen
 
 The goal of Rydberg quantum optics is to exploit the strong interactions between highly-excited Rydberg atoms to modify the properties of light at both the level of single photons and few photon coherent states. The applications are wide ranging from fast read-out of qubits in quantum computing to quantum optimisation problems like graph colouring, and complex system dynamics such a synchronisation and time crystals. 
 
-<br>
-
 The project is supported by funding from UKRI, Leverhulme and ESA. In addition, we benefit from an extended network of international collaborators. 
-
-<br>
 
 For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
