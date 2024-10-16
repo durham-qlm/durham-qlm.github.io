@@ -7,10 +7,6 @@ Our group is all about atoms, photons, and their properties. We are particularly
 
 <br>
 
-|![](photonics/img/the-team.png)|
-|:--:| 
-|Our current team (left to right):|
-
 
 ## What We Do...
 ### ...and what we are curious about.
@@ -21,24 +17,28 @@ Rydberg atoms are highly excited atomic states with exaggerated and peculiar pro
 The other key ingredient for our experiments are photons. We use them to either manipulate the atomic properties by adding nonlinearities to the atomic dynamics via Rydberg interactions, to induce state changes, or to imprint interactions on the photons by dressing them with matter. In the past, we have used single photons as well as high-power photonic fields, spanning the rf, THz and optical range.
 
 ### manipulating the properties of photons...
-Our past research includes the creation of contactless interactions between pairs of photons [Nature Physics **13**, 655-658 (2017)] (https://www.nature.com/articles/nphys4058), which is difficult to achieve since photons do not interact with one another. We have therefore admixed the photons with matter in a quasiparticle called polariton, which inherits properties of photons and matter to a variable degree. When admixing Rydberg atomic states to the photons one also inherits the strong nonlinear interactions between Rydberg states, which then creates an effective interaction between photons! These interacting photons can be used in future applications such as quantum information processing or sensing. 
+Our past research includes the creation of contactless interactions between pairs of photons [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058), which is difficult to achieve since photons do not interact with one another. We have therefore admixed the photons with matter in a quasiparticle called polariton, which inherits properties of photons and matter to a variable degree. When admixing Rydberg atomic states to the photons one also inherits the strong nonlinear interactions between Rydberg states, which then creates an effective interaction between photons! These interacting photons can be used in future applications such as quantum information processing or sensing. 
 
-<br>
-|![](photonics/img/contactless-interactions.png)|![](photonics/img/collective-qubit2.png)|
+|![](photonics/img/contactless-interactions.png)|
 |:--:|:--:|
 |Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons.|Write sequence to create and manipulate a collectively encoded Rydberg qubit.|
 <br>
 
-Taking this one step further, we have shown that Rydberg polaritons can also be used to form the fundamental building blocks of a quantum computer, a so-called qubit [PRL **127**, 063604 (2021)] (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604). We have shown that qubits based on Rydberg polaritons are robust against atom loss from the polaritonic mode, and provide a very convenient optical readout by simply mapping the polaritons back into photons. And as we already know from our previous work, these collective Rydberg qubits can interact via Rydberg-interactions mediated by the matter component of the polaritons. This gives us all the tools that we need to use Rydberg polaritons in applications. One avenue of our future research therefore is continuing to explore Rydberg polaritons for applications ranging from quantum information processing via tests from the foundations of quantum mechanics to applications in sensing. 
+Taking this one step further, we have shown that Rydberg polaritons can also be used to form the fundamental building blocks of a quantum computer, a so-called qubit [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604). We have shown that qubits based on Rydberg polaritons are robust against atom loss from the polaritonic mode, and provide a very convenient optical readout by simply mapping the polaritons back into photons. And as we already know from our previous work, these collective Rydberg qubits can interact via Rydberg-interactions mediated by the matter component of the polaritons. This gives us all the tools that we need to use Rydberg polaritons in applications. One avenue of our future research therefore is continuing to explore Rydberg polaritons for applications ranging from quantum information processing via tests from the foundations of quantum mechanics to applications in sensing. 
+
+|![](photonics/img/collective-qubit2.png)|
+|:--:|
+|Write sequence to create and manipulate a collectively encoded Rydberg qubit.|
+<br>
 
 ### ...and the properties of atoms
-More recently, our group has co-discovered the emergence of synchronisation in a strongly-driven hot Rydberg vapour [PRL **131**, 143002 (2023)] (https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002). We found that a hot Ryberg vapour can exhibit a transition to a state where the dynamics of the atoms in the vapour synchronise to a macroscopic, periodic response - in spite of continuous driving and strong disorder. This periodic response to continuous driving is indeed very unintuitive at first sight, but can be understood in the framework of nonlinear dynamics and bifurcation theory. It is an effect called synchronisation that is at play here, which occurs because the atomic dynamics in the vapour are not independent of each other but are coupled - and therefore also develop in unison rather than individually, once a certain threshold coupling strength between the atoms has been met. Synchronisation also underlies many phenomena in our natural world, such as fireflies flashing in unison. It is therefore particularly exciting to find this effect at work in our atomic systems as well!
+More recently, our group has co-discovered the emergence of synchronisation in a strongly-driven hot Rydberg vapour [PRL **131**, 143002 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002). We found that a hot Ryberg vapour can exhibit a transition to a state where the dynamics of the atoms in the vapour synchronise to a macroscopic, periodic response - in spite of continuous driving and strong disorder. This periodic response to continuous driving is indeed very unintuitive at first sight, but can be understood in the framework of nonlinear dynamics and bifurcation theory. It is an effect called synchronisation that is at play here, which occurs because the atomic dynamics in the vapour are not independent of each other but are coupled - and therefore also develop in unison rather than individually, once a certain threshold coupling strength between the atoms has been met. Synchronisation also underlies many phenomena in our natural world, such as fireflies flashing in unison. It is therefore particularly exciting to find this effect at work in our atomic systems as well!
 
 |![](photonics/img/synchronisation.png)|
 |:--:| 
-|Schematics of the setup (top), the level scheme (bottom right) and sample data traces showing the emergence of a synchronisation region in the spectrum (bottom left).|
+|Schematics of the setup (top left), the level scheme (top right) and sample data traces showing the emergence of a synchronisation region in the spectrum (bottom).|
 
-
+<br>
 
 ## Do You Want To Join Us?
 
@@ -75,7 +75,7 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
 ## Selected Publications
 
-1. K. Wadenpfuhl and C.S. Adams: *Emergence of Synchronization in a Driven-Dissipative Hot Rydberg Vapor*, [PRL **131**, 143002 (2023)] (https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002)
-2. N.L.R. Spong, Y. Jiao, O.D.W. Hughes, K.J. Weatherill, I. Lesanovsky and C.S. Adams: *Collectively encoded Rydberg Qubit*, [PRL **127**, 063604 (2021)] (https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604)
-3. H. Busche, P. Huillery, S.W. Ball, T. Ilieva, M.P.A. Jones, and C.S. Adams: *Contactless nonlinear optics mediated by long-range Rydberg interactions*, [Nature Physics **13**, 655-658 (2017)] (https://www.nature.com/articles/nphys4058)
-4. N. Sibalic, J.D. Pritchard, C.S. Adams and K.J. Weatherill: *ARC: An open-source library for calculating properties of alkali Rydberg atoms*, [Comp. Phys. Comm. **220**, 319-331 (2017)] (https://www.sciencedirect.com/science/article/pii/S0010465517301972)
+1. K. Wadenpfuhl and C.S. Adams: *Emergence of Synchronization in a Driven-Dissipative Hot Rydberg Vapor*, [PRL **131**, 143002 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002)
+2. N.L.R. Spong, Y. Jiao, O.D.W. Hughes, K.J. Weatherill, I. Lesanovsky and C.S. Adams: *Collectively encoded Rydberg Qubit*, [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604)
+3. H. Busche, P. Huillery, S.W. Ball, T. Ilieva, M.P.A. Jones, and C.S. Adams: *Contactless nonlinear optics mediated by long-range Rydberg interactions*, [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058)
+4. N. Sibalic, J.D. Pritchard, C.S. Adams and K.J. Weatherill: *ARC: An open-source library for calculating properties of alkali Rydberg atoms*, [Comp. Phys. Comm. **220**, 319-331 (2017)](https://www.sciencedirect.com/science/article/pii/S0010465517301972)
