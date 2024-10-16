@@ -68,8 +68,8 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
 - [Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI)
 - [Aaron Reinhard](https://www.kenyon.edu/directory/aaron-reinhard/) (co-investigator)
-- [Oliver Hughes](https://www.durham.ac.uk/staff/oliver-d-hughes/) (PDRA)
 - [Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/) (PDRA)
+- [Oliver Hughes](https://www.durham.ac.uk/staff/oliver-d-hughes/) (RA)
 - [Karen Wadenpfuhl]() (PhD student)
 
 
