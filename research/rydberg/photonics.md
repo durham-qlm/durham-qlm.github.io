@@ -16,11 +16,11 @@ Rydberg atoms are highly excited atomic states with exaggerated and peculiar pro
 
 The other key ingredient for our experiments are photons. We use them to either manipulate the atomic properties by adding nonlinearities to the atomic dynamics via Rydberg interactions, to induce state changes, or to imprint interactions on the photons by dressing them with matter. In the past, we have used single photons as well as high-power photonic fields, spanning the rf, THz and optical range.
 
-### manipulating the properties of photons...
+### Manipulating the properties of photons...
 Our past research includes the creation of contactless interactions between pairs of photons [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058), which is difficult to achieve since photons do not interact with one another. We have therefore admixed the photons with matter in a quasiparticle called polariton, which inherits properties of photons and matter to a variable degree. When admixing Rydberg atomic states to the photons one also inherits the strong nonlinear interactions between Rydberg states, which then creates an effective interaction between photons! These interacting photons can be used in future applications such as quantum information processing or sensing. 
 
 |![](photonics/img/contactless-interactions.png)|
-|:--:|:--:|
+|:--:|
 |Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons.|Write sequence to create and manipulate a collectively encoded Rydberg qubit.|
 <br>
 
