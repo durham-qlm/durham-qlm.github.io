@@ -65,6 +65,7 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 ## Current Team Members
 
 - [Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI)
+- [Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/) (co-investigator)
 - [Aaron Reinhard](https://www.kenyon.edu/directory/aaron-reinhard/) (co-investigator)
 - [Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/) (PDRA)
 - [Oliver Hughes](https://www.durham.ac.uk/staff/oliver-d-hughes/) (RA)
