@@ -3,6 +3,10 @@ layout: page
 title: Rydberg Atom Photonics
 subtitle: manipulating the properties of atoms and photons via Rydberg states
 ---
+
+![](photonics/img/hannes-postcard.png)
+
+
 Our group is all about atoms, photons, and their properties. We are particularly curious about the interaction between photons and atoms, how to tailor the interactions to various applications and harness their special properties. As experimentalists, we conduct experiments in our labs at Durham University but our group also has a strong background in computational and theoretical quantum & atomic physics. As a team, we are a small group of kind and curious researchers immersed in the wider Quantum Light and Matter section at Durham Uni, and we are always welcoming new PhD students, postdocs or academic visitors. Please see our open positions at the bottom of the page and get in touch with Stuart Adams for any queries (c.s.adams@durham.ac.uk).
 
 <br>
@@ -22,8 +26,6 @@ Our past research includes the creation of contactless interactions between pair
 |![](photonics/img/contactless-interactions.png)|
 |:--:|
 |Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons.|
-
-<br>
 
 Taking this one step further, we have shown that Rydberg polaritons can also be used to form the fundamental building blocks of a quantum computer, a so-called qubit [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604). We have shown that qubits based on Rydberg polaritons are robust against atom loss from the polaritonic mode, and provide a very convenient optical readout by simply mapping the polaritons back into photons. And as we already know from our previous work, these collective Rydberg qubits can interact via Rydberg-interactions mediated by the matter component of the polaritons. This gives us all the tools that we need to use Rydberg polaritons in applications. One avenue of our future research therefore is continuing to explore Rydberg polaritons for applications ranging from quantum information processing via tests from the foundations of quantum mechanics to applications in sensing. 
 
@@ -60,17 +62,18 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 |:--:| 
 |The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light. |
 
-
+<br>
 
 ## Current Team Members
 
 - [Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI)
 - [Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/) (co-investigator)
-- [Aaron Reinhard](https://www.kenyon.edu/directory/aaron-reinhard/) (co-investigator)
+- [Aaron Reinhard](https://www.kenyon.edu/directory/aaron-reinhard/) (Leverhulme Visiting Professor)
 - [Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/) (PDRA)
 - [Oliver Hughes](https://www.durham.ac.uk/staff/oliver-d-hughes/) (RA)
 - [Karen Wadenpfuhl]() (PhD student)
 
+<br>
 
 ## Selected Publications
 
