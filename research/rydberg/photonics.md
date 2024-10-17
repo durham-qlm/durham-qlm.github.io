@@ -4,7 +4,7 @@ title: Rydberg Atom Photonics
 subtitle: manipulating the properties of atoms and photons via Rydberg states
 ---
 
-|![](photonics/img/hannes-postcard.png)|
+|![](photonics/img/hannes_postcard.png)|
 |:--:|
 ||
 
