@@ -26,13 +26,13 @@ Our past research includes the creation of contactless interactions between pair
 
 |![](photonics/img/contactless-interactions.png)|
 |:--:|
-|Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons.|
+|Contactless nonlinear interactions between two photons that were mapped onto quasiparticles called polaritons. Taken from [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058).|
 
 Taking this one step further, we have shown that Rydberg polaritons can also be used to form the fundamental building blocks of a quantum computer, a so-called qubit [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604). We have shown that qubits based on Rydberg polaritons are robust against atom loss from the polaritonic mode, and provide a very convenient optical readout by simply mapping the polaritons back into photons. And as we already know from our previous work, these collective Rydberg qubits can interact via Rydberg-interactions mediated by the matter component of the polaritons. This gives us all the tools that we need to use Rydberg polaritons in applications. One avenue of our future research therefore is continuing to explore Rydberg polaritons for applications ranging from quantum information processing via tests from the foundations of quantum mechanics to applications in sensing. 
 
 |![](photonics/img/collective-qubit2.png)|
 |:--:|
-|Write sequence to create and manipulate a collectively encoded Rydberg qubit.|
+|Write sequence to create and manipulate a collectively encoded Rydberg qubit. Taken from [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604).|
 
 <br>
 
@@ -41,7 +41,7 @@ More recently, our group has co-discovered the emergence of synchronisation in a
 
 |![](photonics/img/synchronisation.png)|
 |:--:| 
-|Schematics of the setup (top left), the level scheme (top right) and sample data traces showing the emergence of a synchronisation region in the spectrum (bottom).|
+|Schematics of the setup (top left), the level scheme (top right) and sample data traces showing the emergence of a synchronisation region in the spectrum (bottom). Taken from [PRL **131**, 143002 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002).|
 
 <br>
 
@@ -61,7 +61,7 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
 |![](photonics/img/waveguide-array.png)|
 |:--:| 
-|The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light. |
+|The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light.|
 
 <br>
 
