@@ -4,7 +4,7 @@ title: Rydberg Atom Photonics
 subtitle: manipulating the properties of atoms and photons via Rydberg states
 ---
 
-![](photonics/img/hannes-postcard.png)
+|![](photonics/img/hannes-postcard.png)|
 
 
 Our group is all about atoms, photons, and their properties. We are particularly curious about the interaction between photons and atoms, how to tailor the interactions to various applications and harness their special properties. As experimentalists, we conduct experiments in our labs at Durham University but our group also has a strong background in computational and theoretical quantum & atomic physics. As a team, we are a small group of kind and curious researchers immersed in the wider Quantum Light and Matter section at Durham Uni, and we are always welcoming new PhD students, postdocs or academic visitors. Please see our open positions at the bottom of the page and get in touch with Stuart Adams for any queries (c.s.adams@durham.ac.uk).
