@@ -18,7 +18,7 @@ Each week begins with our group meeting, when each team member is given the oppo
 external speakers. These is also the opportunity to travel and attend international conferences and meet researchers from around the world. These are just some of the 
 opportunities and benefits available to members of the group. <br>
 
-We have a selection of funded PhD projects available for an October 2024 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
+We have a selection of funded PhD projects available for an October 2025 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
 
 <h2><a id="proj">Available Projects</a></h2>
 
@@ -37,6 +37,9 @@ We have a selection of funded PhD projects available for an October 2024 start (
 	</td></tr>
 	<tr><td>
 	<a href="#spindynamics">Quantum spin dynamics with ultracold polar molecules</a>
+	</td></tr>
+	<tr><td>
+	<a href="#RQO">Rydberg Quantum Optics</a>	
 	</td></tr>
 	<tr><td>
 	<a href="#molryd">Enhancing molecular control using Rydberg atoms </a>
@@ -153,7 +156,21 @@ For further details about the RbCs quantum gas microscope experiment <a href="ht
 </td>
   </tr>
 
+<tr>
+  <td>
+	<br>
+      	<h5><a id="RQO">Rydberg Quantum Optics</a></h5><br>
+The goal of Rydberg quantum optics is to exploit the strong interactions between highly-excited Rydberg atoms to modify the properties of light at both the level of single photons and few photon coherent states. The applications are wide ranging from fast read-out of qubits in quantum computing to quantum optimisation problems like graph colouring, and complex system dynamics such a synchronisation and time crystals. The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light.
 
+The project is supported by funding from UKRI, Leverhulme and ESA. In addition, we benefit from an extended network of international collaborators.
+
+
+For further details about the Rydberg Quantum Optics experiment <a href="https://durham-qlm.uk/research/rydberg/photonics/">click here</a>, or for further information contact  <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>. <br><br>
+
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RQO.png" alt="A fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms." /></td>
+</td>
+  </tr>
 
 
 
