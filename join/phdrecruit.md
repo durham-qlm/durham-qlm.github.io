@@ -32,9 +32,6 @@ We have a selection of funded PhD projects available for an October 2024 start (
      <tr><td>
 	<a href="#tenk">Collaboration with the National Quantum Computing Centre on 3D atomic arrays</a>
     </td></tr>
-     <tr><td>
-	<a href="#nqc">Two-species Rydberg arrays with the National Quantum Computing Centre</a>
-    </td></tr>
 <tr><td>
 	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
 	</td></tr>
@@ -124,27 +121,6 @@ For further details about this position please contact <a href="mailto:m.p.a.jon
 </td>
   </tr>
 
-
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="nqc">Two-species Rydberg arrays with the National Quantum Computing Centre</a></h5><br>
-Quantum computing platforms based upon neutral atoms confined in optical tweezers have seen significant growth and success in recent years with the demonstration of high-fidelity gates, long coherence times and a route to scalability. Despite this several important challenges need to be overcome to realise a universal fault-tolerant quantum computer. Examples include (i) mid-circuit readout with negligible crosstalk for quantum error correction (ii) refilling of array defects due to loss of atoms during preparation and processing, critical for device scaling and (iii) development of high-fidelity multi-qubit gates for more efficient processing. <br><br>
-
-This project will contribute to the development of the next-generation architecture for neutral atom quantum computing based upon two-species Rydberg arrays. The use of two atomic species, rather than the single species employed in most experiments, enables independent control and crosstalk-free measurement of the two species, facilitating the mid-circuit qubit operations needed for quantum error correction. This project will use our established Rb-Cs tweezer experiment to produce 2D dual-species atom arrays, demonstrate controlled inter-species interactions using Rydberg Förster resonances, and address mature research topics in error correction including mid-circuit ancilla measurement.
-
-This 4-year studentship is sponsored by the National Quantum Computing Centre National Quantum Computing Centre - www.nqcc.ac.uk
-
-For further details about the tweezer experiment <a href="https://www.cornishlabs.uk/tweezers">click here</a>. <br><br> 
-
-For further details about this position please contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/c-s-adams/">Prof Stuart Adams</a> <br><br>
-
-<a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/two_species_rydberg.png" alt="Two Species Rydberg" /></td>
-</td>
-  </tr>
-
 <tr>
   <td>
 	<br>
@@ -203,7 +179,7 @@ For further details about the existing tweezer apparatus <a href="https://www.co
       	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
 Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics. <br><br>
 
-For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/alexander-guttridge/">Dr. Alex Guttridge</a>.<br><br>
+For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="mailto:xnkr87@durham.ac.uk"> Dr. Hannah Williams</a>.<br><br>
 
 
 <a href="#proj">Back to table</a>
