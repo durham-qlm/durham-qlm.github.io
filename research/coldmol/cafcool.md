@@ -27,13 +27,15 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
 
 <table style="border-collapse: collapse; border: none;">
         <tr style="border: none;">
-            <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team" width = 300 px
+            <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_team_crop.png" alt="CaF team in October 2023" width = 300 px
   /><br>
-  CaF team (BH, AB, HJW, AM)
+  CaF team Oct 2023 (BH, AB, HJW, AM)
 </td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex Matthies (they/them)  --  PDRA  <br>
 Miss Bethan Humphreys (she/her)  --  PhD student  <br>
-Mr Archie Baldock  (he/him)  --  PhD student  <br></td></tr> 
+Mr Archie Baldock  (he/him)  --  PhD student  <br>
+Miss Rebecca Hedley (she/her) -- PhD student <br>
+Mr Tom Philo (he/him) -- MSci student <br></td></tr> 
 </table>
   
 <details>
@@ -47,7 +49,8 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
   <summary><b><font size="+1">2024</font></b></summary>
-    <b>September:</b> Alex and Hannah attend <a href = 'https://ccmi2024.ist.ac.at/'>CCMI</a> near Vienna, Alex presents a poster and Hannah gives an invited talk.
+    <b>October:</b> Rebecca joins the group for her PhD, and Tom starts his Master's project. Welcome to the team both! Alex spends three weeks visiting cold molecule labs in the USA. <br>
+    <b>September:</b> Alex and Hannah attend <a href = 'https://ccmi2024.ist.ac.at/'>CCMI</a> near Vienna, Alex presents a poster and Hannah gives an invited talk.<br>
   <b>July:</b> We host the <a href='https://durham-qlm.uk/events/conferences/ICAP_satellite/'>Dipolar Quantum Matter </a> ICAP satellite meeting, which is a resounding success! Archie presents a poster at the ICAP summer school at Oxford university and Bethan presents a <a href="https://virtual.oxfordabstracts.com/#/event/3520/poster-gallery/grid?sort=program-codes&current=375">poster </a> at <a href="https://icap28.com/">ICAP</a><br>
   <b>June:</b> Alex presents a <a href="https://durham-qlm.uk/research/coldmol/cafcool/img/EGAS 2024.pdf" target="_blank"> poster</a> at <a href = 'https://eventos.ugr.es/egas55/'>EGAS </a> in Granada. Keelan and Andrew both graduate, congratulations and good luck in your future endeavours!<br>   
   <b>April:</b> We see CaF molecules in the lab for the first time! 
