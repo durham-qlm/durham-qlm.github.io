@@ -4,7 +4,7 @@ title: Join QLM
 subtitle: Opportunities to join as graduate students
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDs Nov 23a.jpg" alt="PhD students Novemeber 2023" align = "centre"
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDs2024.jpg" alt="PhD students October 2024" align = "centre"
   />
  _Current PhD students in the QLM group_<br>
   
