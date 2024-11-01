@@ -36,6 +36,9 @@ We have a selection of funded PhD projects available for an October 2025 start (
 	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
 	</td></tr>
 	<tr><td>
+		<a href='#qsense'>EPSRC ICASE Studentship on Quantum Sensors</a>
+	</td></tr>
+	<tr><td>
 	<a href="#spindynamics">Quantum spin dynamics with ultracold polar molecules</a>
 	</td></tr>
 	<tr><td>
@@ -43,6 +46,9 @@ We have a selection of funded PhD projects available for an October 2025 start (
 	</td></tr>
 	<tr><td>
 	<a href="#molryd">Enhancing molecular control using Rydberg atoms </a>
+	</td></tr>
+	<tr><td>
+		<a href="#molrydTh">Theory of control and entanglement of ultracold polar molecules with Rydberg atoms</a>
 	</td></tr>
 <tr><td>
 	<a href="#tweezers">Tweezers generation II </a>
@@ -140,6 +146,20 @@ For more information, please contact <a href="https://durham-qlm.uk/members/curr
       
 </td>
   </tr>
+<tr>
+  <td>
+	<br>
+      	<h5><a id="qsense">EPSRC ICASE Studentship on Quantum Sensors</a></h5><br>
+Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
+ 
+This 4-year Ph.D. project is sponsored by Leonardo UK Ltd, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
+<br>
+
+<br><a href=https://durham-qlm.uk/research/tech/terahertz/>Further information available here</a> or contact <a href=mailto:k.j.weatherill@durham.ac.uk>Prof. Weatherill</a>.<br><br>
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
+</td>
+
 
 <tr>
   <td>
@@ -193,6 +213,21 @@ For further details about the existing tweezer apparatus <a href="https://www.co
 <tr>
   <td>
 	<br>
+      	<h5><a id="molrydTh">Theory of control and entanglement of ultracold polar molecules with Rydberg atoms </a></h5><br>
+QLM is the home to pioneering experimental activities in ultracold molecules, and quantum optics with Rydberg atoms; we also have a strong tradition of close interaction of theory and experiment, mutually reinforcing and supporting both. This project parallels the experimental project “Enhancing Molecular Control with Rydberg Atoms,” and will focus on exploring new avenues for generating multi-particle entanglement between ultracold dipolar RbCs molecules, with potential applications in quantum information processing. There is therefore the potential to both provide theoretical support to a new line of experimental activity, and stimulate future experimental directions with more blue-skies investigations of the possibilities offered by combining QLM expertise in ultracold molecules and Rydberg quantum optics, within a single experimental setup.  <br>
+
+This project is supported by a new <a href='https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Z534055/1'> UKRI research grant</a>. <br>
+
+For further details about the existing experimental setup <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-a-gardiner/">Prof. Simon Gardiner</a>.<br><br>
+
+
+<a href="#proj">Back to table</a>
+      
+</td>
+  </tr>
+<tr>
+  <td>
+	<br>
       	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
 Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics. <br><br>
 
@@ -200,7 +235,7 @@ For further details about the existing tweezer apparatus <a href="https://www.co
 
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt=" " /></td>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Experimental setup used to create optical tweezers for Rb and Cs" /></td>
 </td>
   </tr>
 
