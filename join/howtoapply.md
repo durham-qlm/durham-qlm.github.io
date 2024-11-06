@@ -9,7 +9,7 @@ A PhD in physics provides you with problem solving and analytical skills which c
  
 We recruit yearly for PhD students to join our group, research places are available across the experimental and theory teams. For further information contact team leaders or <a href="mailto:xnkr87@durham.ac.uk"> Dr. Hannah Williams</a> (PG Admissions Tutor - QLM).
 
-the QLM PG Open Day will take place on Monday 9th December. Book on [Here](https://forms.office.com/e/kb1w8pQaDm).
+The QLM PG Open Day will take place on Monday 9th December. Book on [Here](https://forms.office.com/e/kb1w8pQaDm).
  
 ## How to apply:
               
