@@ -158,6 +158,10 @@ This 4-year project is funded by The Royal Society. <br><br>
 For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
 
 <a href="#proj">Back to table</a>
+	<td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/AgHCL.png" alt="Fluorescence spectra captured from a Ag hollow cathode lamp" /></td>
+</td>
+  </tr>
+
       
 </td>
   </tr>
