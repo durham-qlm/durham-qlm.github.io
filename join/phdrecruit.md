@@ -4,7 +4,7 @@ title: Join QLM
 subtitle: Opportunities to join as graduate students
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDs Nov 23a.jpg" alt="PhD students Novemeber 2023" align = "centre"
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDs2024.jpg" alt="PhD students October 2024" align = "centre"
   />
  _Current PhD students in the QLM group_<br>
   
@@ -18,7 +18,7 @@ Each week begins with our group meeting, when each team member is given the oppo
 external speakers. These is also the opportunity to travel and attend international conferences and meet researchers from around the world. These are just some of the 
 opportunities and benefits available to members of the group. <br>
 
-We have a selection of funded PhD projects available for an October 2024 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
+We have a selection of PhD projects available for an October 2025 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
 
 <h2><a id="proj">Available Projects</a></h2>
 
@@ -32,17 +32,23 @@ We have a selection of funded PhD projects available for an October 2024 start (
      <tr><td>
 	<a href="#tenk">Collaboration with the National Quantum Computing Centre on 3D atomic arrays</a>
     </td></tr>
-     <tr><td>
-	<a href="#nqc">Two-species Rydberg arrays with the National Quantum Computing Centre</a>
-    </td></tr>
 <tr><td>
 	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
+	</td></tr>
+	<tr><td>
+		<a href='#qsense'>EPSRC ICASE Studentship on Quantum Sensors</a>
 	</td></tr>
 	<tr><td>
 	<a href="#spindynamics">Quantum spin dynamics with ultracold polar molecules</a>
 	</td></tr>
 	<tr><td>
+	<a href="#RQO">Rydberg Quantum Optics</a>	
+	</td></tr>
+	<tr><td>
 	<a href="#molryd">Enhancing molecular control using Rydberg atoms </a>
+	</td></tr>
+	<tr><td>
+		<a href="#molrydTh">Theory of control and entanglement of ultracold polar molecules with Rydberg atoms</a>
 	</td></tr>
 <tr><td>
 	<a href="#tweezers">Tweezers generation II </a>
@@ -124,27 +130,6 @@ For further details about this position please contact <a href="mailto:m.p.a.jon
 </td>
   </tr>
 
-
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="nqc">Two-species Rydberg arrays with the National Quantum Computing Centre</a></h5><br>
-Quantum computing platforms based upon neutral atoms confined in optical tweezers have seen significant growth and success in recent years with the demonstration of high-fidelity gates, long coherence times and a route to scalability. Despite this several important challenges need to be overcome to realise a universal fault-tolerant quantum computer. Examples include (i) mid-circuit readout with negligible crosstalk for quantum error correction (ii) refilling of array defects due to loss of atoms during preparation and processing, critical for device scaling and (iii) development of high-fidelity multi-qubit gates for more efficient processing. <br><br>
-
-This project will contribute to the development of the next-generation architecture for neutral atom quantum computing based upon two-species Rydberg arrays. The use of two atomic species, rather than the single species employed in most experiments, enables independent control and crosstalk-free measurement of the two species, facilitating the mid-circuit qubit operations needed for quantum error correction. This project will use our established Rb-Cs tweezer experiment to produce 2D dual-species atom arrays, demonstrate controlled inter-species interactions using Rydberg Förster resonances, and address mature research topics in error correction including mid-circuit ancilla measurement.
-
-This 4-year studentship is sponsored by the National Quantum Computing Centre National Quantum Computing Centre - www.nqcc.ac.uk
-
-For further details about the tweezer experiment <a href="https://www.cornishlabs.uk/tweezers">click here</a>. <br><br> 
-
-For further details about this position please contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/c-s-adams/">Prof Stuart Adams</a> <br><br>
-
-<a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/two_species_rydberg.png" alt="Two Species Rydberg" /></td>
-</td>
-  </tr>
-
 <tr>
   <td>
 	<br>
@@ -165,6 +150,20 @@ For more information, please contact <a href="https://durham-qlm.uk/members/curr
       
 </td>
   </tr>
+<tr>
+  <td>
+	<br>
+      	<h5><a id="qsense">EPSRC ICASE Studentship on Quantum Sensors</a></h5><br>
+Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
+ 
+This 4-year Ph.D. project is sponsored by Leonardo UK Ltd, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
+<br>
+
+<br><a href=https://durham-qlm.uk/research/tech/terahertz/>Further information available here</a> or contact <a href=mailto:k.j.weatherill@durham.ac.uk>Prof. Weatherill</a>.<br><br>
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
+</td>
+
 
 <tr>
   <td>
@@ -181,7 +180,21 @@ For further details about the RbCs quantum gas microscope experiment <a href="ht
 </td>
   </tr>
 
+<tr>
+  <td>
+	<br>
+      	<h5><a id="RQO">Rydberg Quantum Optics</a></h5><br>
+The goal of Rydberg quantum optics is to exploit the strong interactions between highly-excited Rydberg atoms to modify the properties of light at both the level of single photons and few photon coherent states. The applications are wide ranging from fast read-out of qubits in quantum computing to quantum optimisation problems like graph colouring, and complex system dynamics such a synchronisation and time crystals. The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light.
 
+The project is supported by funding from UKRI, Leverhulme and ESA. In addition, we benefit from an extended network of international collaborators.
+
+
+For further details about the Rydberg Quantum Optics experiment <a href="https://durham-qlm.uk/research/rydberg/photonics/">click here</a>, or for further information contact  <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>. <br><br>
+
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RQO.png" alt="A fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms." /></td>
+</td>
+  </tr>
 
 
 
@@ -204,14 +217,29 @@ For further details about the existing tweezer apparatus <a href="https://www.co
 <tr>
   <td>
 	<br>
-      	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
-Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics. <br><br>
+      	<h5><a id="molrydTh">Theory of control and entanglement of ultracold polar molecules with Rydberg atoms </a></h5><br>
+QLM is the home to pioneering experimental activities in ultracold molecules, and quantum optics with Rydberg atoms; we also have a strong tradition of close interaction of theory and experiment, mutually reinforcing and supporting both. This project parallels the experimental project “Enhancing Molecular Control with Rydberg Atoms,” and will focus on exploring new avenues for generating multi-particle entanglement between ultracold dipolar RbCs molecules, with potential applications in quantum information processing. There is therefore the potential to both provide theoretical support to a new line of experimental activity, and stimulate future experimental directions with more blue-skies investigations of the possibilities offered by combining QLM expertise in ultracold molecules and Rydberg quantum optics, within a single experimental setup.  <br>
 
-For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/alexander-guttridge/">Dr. Alex Guttridge</a>.<br><br>
+This project is supported by a new <a href='https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Z534055/1'> UKRI research grant</a>. <br>
+
+For further details about the existing experimental setup <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-a-gardiner/">Prof. Simon Gardiner</a>.<br><br>
 
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt=" " /></td>
+      
+</td>
+  </tr>
+<tr>
+  <td>
+	<br>
+      	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
+Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics. <br><br>
+
+For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="mailto:xnkr87@durham.ac.uk"> Dr. Hannah Williams</a>.<br><br>
+
+
+<a href="#proj">Back to table</a>
+      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Experimental setup used to create optical tweezers for Rb and Cs" /></td>
 </td>
   </tr>
 
