@@ -232,6 +232,8 @@ For further details about the existing experimental setup <a href="https://www.c
       	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
 Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics. <br><br>
 
+This project is partially funded by <a herf="https://www.pasqal.com/">Pasqal</a> a world-leading neutral-atom quantum computing company based in France. As part of this project you will have the opportunity to spend time in their Paris labs.<br>
+
 For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="mailto:xnkr87@durham.ac.uk"> Dr. Hannah Williams</a>.<br><br>
 
 
