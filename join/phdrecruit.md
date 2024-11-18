@@ -153,10 +153,10 @@ For more information, please contact <a href="https://durham-qlm.uk/members/curr
       	<h5><a id="qsense">EPSRC ICASE Studentship on Quantum Sensors</a></h5><br>
 Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
  
-This 4-year Ph.D. project is sponsored by Leonardo UK Ltd, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
+This 4-year Ph.D. project is sponsored by <a href="https://uk.leonardo.com">Leonardo UK Ltd</a>, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
 <br>
 
-<br><a href=https://durham-qlm.uk/research/tech/terahertz/>Further information available here</a> or contact <a href=mailto:k.j.weatherill@durham.ac.uk>Prof. Weatherill</a>.<br><br>
+Further information available <a href="https://durham-qlm.uk/research/tech/terahertz/">here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.<br><br>
 <a href="#proj">Back to table</a>
       <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
 </td>
