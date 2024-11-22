@@ -20,6 +20,8 @@ opportunities and benefits available to members of the group. <br>
 
 We have a selection of PhD projects available for an October 2025 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
 
+If you would like to visit the QLM we are having an open day on **Monday 9th December**, please register your attendance <a href="https://forms.office.com/e/kb1w8pQaDm">here</a>.<br>
+
 <h2><a id="proj">Available Projects</a></h2>
 
 <table>
