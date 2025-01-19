@@ -46,8 +46,6 @@ Summer term
 |12/06/2024|12pm-1pm|OCW017|First year talk|Ryuji Moriya    |Durham QLM|
 |19/06/2024|12pm-1pm|OCW017|First year talk|Tom Hepworth    |Durham QLM|
 
-<a href="/events/seminars_past"> A list of past seminars from Michaelmas and Epiphany 2023-2024 can be found here. </a>
-
 
 
 
