@@ -11,11 +11,10 @@ Epiphany term
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
 |22/01/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Brianna Heazlewood"> Controlling the properties of ions and radicals at low temperatures </a>|Brianna Heazlewood |University of Liverpool |
-|05/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Epiphany/Stephen Hogan"> Atomic beam sources and quantum sensors for absolute neutrino mass and antimatter gravity </a>|Stephen Hogan |University College London (UCL)|
-|12/02/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2024 Epiphany/Anne Curtis"> Optical atomic clocks: progress towards a new SI second and tests of fundamental physics
- </a>|Anne Curtis |National Physical Laboratory (NPL)|
-|19/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Epiphany/Aaron Reinhard">  </a>|Aaron Reinhard |Kenyon College|
-|26/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2024 Epiphany/Alex Guttridge">  </a>|Alex Guttridge |Durham University, QLM|
+|05/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Stephen Hogan"> Atomic beam sources and quantum sensors for absolute neutrino mass and antimatter gravity </a>|Stephen Hogan |University College London (UCL)|
+|12/02/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Epiphany/Anne Curtis"> Optical atomic clocks: progress towards a new SI second and tests of fundamental physics </a>|Anne Curtis |National Physical Laboratory (NPL)|
+|19/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Aaron Reinhard">  </a>|Aaron Reinhard |Kenyon College|
+|26/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Alex Guttridge">  </a>|Alex Guttridge |Durham University, QLM|
 
 
 Past seminars can be found here: 
