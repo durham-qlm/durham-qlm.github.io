@@ -100,13 +100,16 @@ We hope that you will join us and become a part of the QLM!<br>
       	<h5><a id="DualQD">DualQD: Dual-species tweezer arrays for next-generation quantum devices</a></h5><br>
  In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.
     <br><br>
-    This dual-species approach is combined with a flexible trapping architecture, combining individually controlled atoms with mesoscopic ensembles—collections of many atoms confined within a single trap. By harnessing collective quantum effects, these ensembles enable improved detection schemes and can realise novel quantum cooling schemes. You will explore techniques to generate useful entanglement in this system investigating both short-range collisional interactions and long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics.
+    This dual-species approach is combined with a flexible trapping architecture, combining individually controlled atoms with mesoscopic ensembles—collections of many atoms confined within a single trap. By harnessing collective quantum effects, these ensembles 
+enable improved detection methods and novel quantum cooling techniques. You will explore techniques to generate useful entanglement in this system investigating both short-range collisional interactions and long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics.
     <br><br>
     This 4-year project is funded by The Royal Society. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications. They will have the opportunity to engage with the Institute for Quantum Computing at the University of Waterloo as part of our <a href="https://www.durham.ac.uk/news-events/latest-news/2025/01/grant-award-enables-durham-physicists-to-lead-international-quantum-projects-/">UK-Canada quantum research collaboration</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
     <br><br>
     <a href="#proj">Back to table</a>
+   </td>
+
    <td width="300" align="center">
     <figure>
       <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.jpg" alt="Dual QD" />
@@ -122,7 +125,8 @@ We hope that you will join us and become a part of the QLM!<br>
 The terahertz (THz) frequency band lies between the infrared and microwave regions of the electromagnetic spectrum. Because THz radiation is non-ionising and passes through materials such as paper, cloth, and   plastics, it finds applications including security screening, biomedical imaging, and production-line monitoring. The THz region has traditionally been a difficult frequency range to work in because it falls between ranges of electronic and photonic devices - This is known as the ‘terahertz gap’ and although significant progress has been made to close this gap, applications are still limited by the low power output of THz sources and the low speed and sensitivity of THz detectors. In Durham, we have recently developed a new technology for terahertz imaging that uses Rydberg atoms to convert terahertz radiation to optical fluorescence. This has allowed unprecedented speed and sensitivity in image acquisition. This experimental Ph.D. project will push our technology to the next level by using laser pulse sequences to allow very short exposure images. This will allow very fast phenomena, such as shockwaves, to be studied in optically opaque media. The work is linked to the National Quantum Technology Hub programme and Industrial partners.<br>
 <br><a href="https://durham-qlm.uk/research/tech/terahertz/">Further information available here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.<br><br>
 	    <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" />
 </td>
   </tr> 
 
@@ -135,7 +139,8 @@ The terahertz (THz) frequency band lies between the infrared and microwave regio
   The objective of this project is to analyse the spectrum of Rb vapour in large magnetic fields (we have our own 1.5 Tesla permanent magnet with different polarization states. The goals of the project are: (i) a     complete characterization of the spectroscopy of Rb vapour in large magnetic fields with tightly focussed fields; (ii) to investigate the interaction of atoms with topological light; (iii) explore the     possibilities of producing next generation sensors based on the interaction of structured light with atomic media.<br>
 <br><a href="https://durham-qlm.uk/research/vapours/magnets/">Further information available here</a> or contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Hughes</a>.<br><br>
 	  <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/vector light.PNG" alt="Structured light fields." /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/vector light.PNG" alt="Structured light fields." />
 </td>
 </tr>
 
@@ -153,7 +158,8 @@ For further details about the ultracold strontium experiment click <a href="http
 For further details about this position please contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof Matt Jones</a>.
 <br><br>
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/sr_lattice.jpg" alt="Sr Lattice" /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/sr_lattice.jpg" alt="Sr Lattice" />
 </td>
   </tr>
 
@@ -170,7 +176,8 @@ This 4-year project is funded by The Royal Society. <br><br>
 For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
 
 <a href="#proj">Back to table</a>
-	<td width=300 height=800 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/AgHCL.png" alt="Fluorescence spectra captured from a Ag hollow cathode lamp" /></td>
+</td>
+	<td width="300" height="800" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/AgHCL.png" alt="Fluorescence spectra captured from a Ag hollow cathode lamp" />
 </td>
   </tr>
       
@@ -185,7 +192,8 @@ This 4-year Ph.D. project is sponsored by <a href="https://uk.leonardo.com">Leon
 
 Further information available <a href="https://durham-qlm.uk/research/tech/terahertz/">here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.<br><br>
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" />
 </td>
 
 
@@ -200,7 +208,8 @@ As part of our team, you will join our established RbCs quantum gas microscope e
 For further details about the RbCs quantum gas microscope experiment <a href="https://www.cornishlabs.uk/microscope">click here</a>, or for further information contact  <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RbCsQGM_pretty_picture.png" alt="Single Cs atoms detected in our quantum gas microscope" /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RbCsQGM_pretty_picture.png" alt="Single Cs atoms detected in our quantum gas microscope" />
 </td>
   </tr>
 
@@ -216,7 +225,8 @@ The project is supported by funding from UKRI, Leverhulme and ESA. In addition, 
 For further details about the Rydberg Quantum Optics experiment <a href="https://durham-qlm.uk/research/rydberg/photonics/">click here</a>, or for further information contact  <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>. <br><br>
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RQO.png" alt="A fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms." /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RQO.png" alt="A fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms." />
 </td>
   </tr>
 
@@ -234,7 +244,8 @@ For further details about the existing tweezer apparatus <a href="https://www.co
 
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Rydberg-Mol.png" alt=" " /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Rydberg-Mol.png" alt=" " />
 </td>
   </tr>
 
@@ -267,7 +278,8 @@ For further details about the existing tweezer apparatus <a href="https://www.co
 
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Experimental setup used to create optical tweezers for Rb and Cs" /></td>
+</td>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Experimental setup used to create optical tweezers for Rb and Cs" />
 </td>
   </tr>
 
@@ -281,8 +293,9 @@ For further details about the existing Cs-Yb project <a href="https://www.cornis
 
 
 <a href="#proj">Back to table</a>
-      <td width=300 align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb_glass_cell_oct_2023.jpg" alt=" " /></td>
 </td>
-  </tr>
+      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb_glass_cell_oct_2023.jpg" alt=" " />
+</td>
+</tr>
 
 </table>
