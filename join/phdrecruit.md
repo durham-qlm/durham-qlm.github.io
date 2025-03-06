@@ -25,6 +25,9 @@ If you would like to visit the QLM we are having an open day on **Monday 9th Dec
 <h2><a id="proj">Available Projects</a></h2>
 
 <table>
+<tr> <td>
+	<a href="#DualQD">Dual-species tweezer arrays for next-generation quantum devices</a>
+  </td></tr>
   <tr> <td>
 	<a href="#terahertz">High Speed Terahertz Imaging using Rydberg Atoms</a>
   </td></tr>
@@ -90,6 +93,28 @@ We hope that you will join us and become a part of the QLM!<br>
 
 
 <table border=0>
+
+ <tr>
+  <td>
+	<br>
+      	<h5><a id="DualQD">DualQD: Dual-species tweezer arrays for next-generation quantum devices</a></h5><br>
+ In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.
+    <br><br>
+    This dual-species approach is combined with a flexible trapping architecture, combining individually controlled atoms with mesoscopic ensembles—collections of many atoms confined within a single trap. By harnessing collective quantum effects, these ensembles enable improved detection schemes and can realise novel quantum cooling schemes. You will explore techniques to generate useful entanglement in this system investigating both short-range collisional interactions and long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics.
+    <br><br>
+    This 4-year project is funded by The Royal Society. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications. They will have the opportunity to engage with the Institute for Quantum Computing at the University of Waterloo as part of our <a href="https://www.durham.ac.uk/news-events/latest-news/2025/01/grant-award-enables-durham-physicists-to-lead-international-quantum-projects-/">UK-Canada quantum research collaboration</a>.
+    <br><br>
+    For further details about the position please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
+    <br><br>
+    <a href="#proj">Back to table</a>
+   <td width="300" align="center">
+    <figure>
+      <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.jpg" alt="Dual QD" />
+      <figcaption>Quantum sensors and quantum computers constructed from two atomic species</figcaption>
+    </figure>
+  </td>
+</tr>
+
   <tr>
     <td>
 	<br>
