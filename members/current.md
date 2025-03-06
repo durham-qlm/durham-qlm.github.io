@@ -14,6 +14,7 @@ subtitle: Current members of the Durham QLM group
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
 |   |[Dr. Philip Gregory](gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
+|   |[Dr. Alexander Guttridge](https://www.durham.ac.uk/staff/alexander-guttridge/)|
 |   |[Prof. Jeremy Hutson](https://www.durham.ac.uk/staff/j-m-hutson/)|
 |	|[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/)|
 |	|[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
@@ -23,7 +24,6 @@ subtitle: Current members of the Durham QLM group
 |Research Associates:   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 |   |[Dr. Tobias Franzen](https://www.durham.ac.uk/staff/tobias-franzen/)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
-|   |[Dr. Alexander Guttridge](https://www.durham.ac.uk/staff/alexander-guttridge/)|
 |   |[Dr. Matthew Hill](https://www.durham.ac.uk/staff/matthew-hill2/)|
 |   |[Dr. Matthew Jamieson](https://www.durham.ac.uk/staff/matthew-j-jamieson/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
