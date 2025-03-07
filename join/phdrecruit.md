@@ -112,8 +112,8 @@ enable improved detection methods and novel quantum cooling techniques. You will
 
    <td width="300" align="center">
     <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.jpg" alt="Dual QD" />
-      <figcaption>Quantum sensors and quantum computers constructed from two atomic species</figcaption>
+      <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" />
+      <figcaption>Dual-species arrays as a platform for both quantum computing and quantum sensing.</figcaption>
     </figure>
   </td>
 </tr>
