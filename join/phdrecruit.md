@@ -115,7 +115,7 @@ enable improved detection methods and novel quantum cooling techniques. You will
       <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" />
 	    <center>
       <figcaption>Dual-species arrays as a platform for both quantum computing and quantum sensing.</figcaption>
-	 <\center>
+	    </center>
     </figure>
   </td>
 </tr>
