@@ -110,10 +110,12 @@ enable improved detection methods and novel quantum cooling techniques. You will
     <a href="#proj">Back to table</a>
    </td>
 
-   <td width="300" align="center">
+   <td align="center">
     <figure>
       <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" />
+	    <center>
       <figcaption>Dual-species arrays as a platform for both quantum computing and quantum sensing.</figcaption>
+	 <\center>
     </figure>
   </td>
 </tr>
