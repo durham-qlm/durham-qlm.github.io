@@ -69,13 +69,14 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 - [Aaron Reinhard](https://www.kenyon.edu/directory/aaron-reinhard/) (Leverhulme Visiting Professor)
 - [Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/) (PDRA)
 - [Oliver Hughes](https://www.durham.ac.uk/staff/oliver-d-hughes/) (RA)
-- [Karen Wadenpfuhl]() (PhD student)
+- [Karen Wadenpfuhl](https://durham-repository.worktribe.com/person/2726600/karen-wadenpfuhl) (PhD student)
 
 <br>
 
-## Selected Publications
+## Selected Publications and Preprints
 
-1. K. Wadenpfuhl and C.S. Adams: *Emergence of Synchronization in a Driven-Dissipative Hot Rydberg Vapor*, [PRL **131**, 143002 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002)
-2. N.L.R. Spong, Y. Jiao, O.D.W. Hughes, K.J. Weatherill, I. Lesanovsky and C.S. Adams: *Collectively encoded Rydberg Qubit*, [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604)
-3. H. Busche, P. Huillery, S.W. Ball, T. Ilieva, M.P.A. Jones, and C.S. Adams: *Contactless nonlinear optics mediated by long-range Rydberg interactions*, [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058)
-4. N. Sibalic, J.D. Pritchard, C.S. Adams and K.J. Weatherill: *ARC: An open-source library for calculating properties of alkali Rydberg atoms*, [Comp. Phys. Comm. **220**, 319-331 (2017)](https://www.sciencedirect.com/science/article/pii/S0010465517301972)
+- K. Wadenpfuhl and C.S. Adams: *Unravelling the Structures in the van der Waals Interactions of Alkali Rydberg Atoms*, [arXiv:2412.14861 (2025)](https://arxiv.org/pdf/2412.14861)
+- K. Wadenpfuhl and C.S. Adams: *Emergence of Synchronization in a Driven-Dissipative Hot Rydberg Vapor*, [PRL **131**, 143002 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002)
+- N.L.R. Spong, Y. Jiao, O.D.W. Hughes, K.J. Weatherill, I. Lesanovsky and C.S. Adams: *Collectively encoded Rydberg Qubit*, [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604)
+- H. Busche, P. Huillery, S.W. Ball, T. Ilieva, M.P.A. Jones, and C.S. Adams: *Contactless nonlinear optics mediated by long-range Rydberg interactions*, [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058)
+- N. Sibalic, J.D. Pritchard, C.S. Adams and K.J. Weatherill: *ARC: An open-source library for calculating properties of alkali Rydberg atoms*, [Comp. Phys. Comm. **220**, 319-331 (2017)](https://www.sciencedirect.com/science/article/pii/S0010465517301972)

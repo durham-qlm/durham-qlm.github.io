@@ -20,40 +20,17 @@ opportunities and benefits available to members of the group. <br>
 
 We have a selection of PhD projects available for an October 2025 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
 
-If you would like to visit the QLM we are having an open day on **Monday 9th December**, please register your attendance <a href="https://forms.office.com/e/kb1w8pQaDm">here</a>.<br>
-
 <h2><a id="proj">Available Projects</a></h2>
 
 <table>
 <tr> <td>
 	<a href="#DualQD">Dual-species tweezer arrays for next-generation quantum devices</a>
   </td></tr>
-  <tr> <td>
-	<a href="#terahertz">High Speed Terahertz Imaging using Rydberg Atoms</a>
-  </td></tr>
-    <tr><td>
-    	<a href="#vlight">Vector Light project</a>
-    </td></tr>
-     <tr><td>
-	<a href="#tenk">Collaboration with the National Quantum Computing Centre on 3D atomic arrays</a>
-    </td></tr>
-<tr><td>
-	<a href="#odd">Overwhelmingly dipolar diatomic (ODD) molecules </a>
-	</td></tr>
-	<tr><td>
-		<a href='#qsense'>EPSRC ICASE Studentship on Quantum Sensors</a>
-	</td></tr>
 	<tr><td>
 	<a href="#spindynamics">Quantum spin dynamics with ultracold polar molecules</a>
 	</td></tr>
 	<tr><td>
-	<a href="#RQO">Rydberg Quantum Optics</a>	
-	</td></tr>
-	<tr><td>
 	<a href="#molryd">Enhancing molecular control using Rydberg atoms </a>
-	</td></tr>
-	<tr><td>
-		<a href="#molrydTh">Theory of control and entanglement of ultracold polar molecules with Rydberg atoms</a>
 	</td></tr>
 <tr><td>
 	<a href="#tweezers">Tweezers generation II </a>
@@ -120,85 +97,6 @@ enable improved detection methods and novel quantum cooling techniques. You will
   </td>
 </tr>
 
-  <tr>
-    <td>
-	<br>
-	<h5><a id="terahertz">High Speed Terahertz Imaging using Rydberg Atoms.</a></h5> <br>
-The terahertz (THz) frequency band lies between the infrared and microwave regions of the electromagnetic spectrum. Because THz radiation is non-ionising and passes through materials such as paper, cloth, and   plastics, it finds applications including security screening, biomedical imaging, and production-line monitoring. The THz region has traditionally been a difficult frequency range to work in because it falls between ranges of electronic and photonic devices - This is known as the ‘terahertz gap’ and although significant progress has been made to close this gap, applications are still limited by the low power output of THz sources and the low speed and sensitivity of THz detectors. In Durham, we have recently developed a new technology for terahertz imaging that uses Rydberg atoms to convert terahertz radiation to optical fluorescence. This has allowed unprecedented speed and sensitivity in image acquisition. This experimental Ph.D. project will push our technology to the next level by using laser pulse sequences to allow very short exposure images. This will allow very fast phenomena, such as shockwaves, to be studied in optically opaque media. The work is linked to the National Quantum Technology Hub programme and Industrial partners.<br>
-<br><a href="https://durham-qlm.uk/research/tech/terahertz/">Further information available here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.<br><br>
-	    <a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" alt="Durham university logo created from terahertz-induced fluorescence from caesium Rydberg atoms" />
-</td>
-  </tr> 
-
- 
-<tr>
-  <td>
-	<br>
-	<h5><a id="vlight">Vector light project.</a></h5><br>
-	The Durham Quantum Light and Matter group is internationally leading on experiments in the field of spectroscopy of atomic vapours.   Most treatments of the propagation of light through a medium assume that the     polarisation vector is two dimensional, i.e. restricted to the transverse plane. Recent study has shown that far more interesting and useful three-dimensional structures can be obtained by tightly focussing a       laser beam. We have shown in Durham that using shaped light enables the production of topologically non-trivial polarization. <br>
-  The objective of this project is to analyse the spectrum of Rb vapour in large magnetic fields (we have our own 1.5 Tesla permanent magnet with different polarization states. The goals of the project are: (i) a     complete characterization of the spectroscopy of Rb vapour in large magnetic fields with tightly focussed fields; (ii) to investigate the interaction of atoms with topological light; (iii) explore the     possibilities of producing next generation sensors based on the interaction of structured light with atomic media.<br>
-<br><a href="https://durham-qlm.uk/research/vapours/magnets/">Further information available here</a> or contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Hughes</a>.<br><br>
-	  <a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/vector light.PNG" alt="Structured light fields." />
-</td>
-</tr>
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="tenk">TENK+: Next generation architectures for neutral atom quantum computers beyond 10,000 atoms</a></h5><br>
-This 4-year studentship is sponsored by the National Quantum Computing Centre National Quantum Computing Centre - www.nqcc.ac.uk
-<br><br>
-The aim is to develop a new approach to creating three-dimensional arrays of ultra-cold strontium atoms, which can be addressed and read out individually, forming the qubits of a quantum computer. Currently, quantum computers based on two-dimensional atomic arrays (like the one produce in Durham and shown in the picture) are one of the platforms for quantum computation, with several companies now offering machines of ~100-1000 qubits for sale. However scaling to ~10,000 qubits will require new technologies, and an attractive approach is to use the third spatial dimension as the arrays can be made more compact, and the connectivity between qubits is improved. You will collaborate with the group of Dr Aidan Arnold and with the NQCC to develop custom optics for implementation in an existing strontium laser cooling experiment at Durham There will be the opportunity for visit, training and short placements at both locations.
-<br><br>
-	  
-For further details about the ultracold strontium experiment click <a href="https://durham-qlm.uk/research/rydberg/strontium/">here</a>.
-<br><br>
-For further details about this position please contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof Matt Jones</a>.
-<br><br>
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/sr_lattice.jpg" alt="Sr Lattice" />
-</td>
-  </tr>
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="odd">Overwhelmingly dipolar diatomic (ODD) molecules </a></h5><br>
-Ultracold polar molecules have important applications across the fields of quantum computation, quantum simulation, quantum chemistry, and the precision measurement of fundamental constants. One important feature of polar molecules is that they possess electric dipole moments that can be used to engineer long-range many-body entanglements, while cooling the molecules down to ultracold temperatures allows the study of these quantum effects free from thermal noise. <br><br>
-
-In this project, you will join our team focused on producing ultracold RbAg and CsAg molecules. These molecules, containing silver (Ag), possess much larger dipole moments than are currently available in competing experiments. This will enable robust entangling operations to be performed more quickly and with less sensitivity to experimental noise. Following the roadmap developed on our highly-successful RbCs experiments, you will study and learn to control collisions between Ag and Rb/Cs atoms via interspecies Feshbach resonances, learn to associate pairs of atoms to form molecules in an ultracold atom mixture, and develop the techniques to transfer these molecules to their internal ground state. <br><br>
-
-This 4-year project is funded by The Royal Society. <br><br>
-
-For more information, please contact <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
-
-<a href="#proj">Back to table</a>
-</td>
-	<td width="300" height="800" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/AgHCL.png" alt="Fluorescence spectra captured from a Ag hollow cathode lamp" />
-</td>
-  </tr>
-      
-<tr>
-  <td>
-	<br>
-      	<h5><a id="qsense">EPSRC ICASE Studentship on Quantum Sensors</a></h5><br>
-Radio Frequency (RF) sensors based on highly-excited ‘Rydberg’ atoms offer very high sensitivity and a huge operational frequency range spanning kHz to THz. In this project we will build upon our recent work (Allinson et al. arXiv:2311.11935) to use the higher orbital angular momentum (OAM) states of Rydberg atoms to access lower RF frequencies in both hot and cold atomic samples. We will also perform proof of principle measurements of RF polarisation and angle of arrival using these higher OAM states.
- 
-This 4-year Ph.D. project is sponsored by <a href="https://uk.leonardo.com">Leonardo UK Ltd</a>, a leading aerospace company and one of the biggest suppliers of defence and security equipment to the UK MoD. At Durham, the student will perform atomic and optical physics experiments using state of the art equipment. They will help devise and build bespoke optical setups to achieve optimum sensitivity of the Rydberg-atom-based detectors. Furthermore, the student will engage closely with Leonardo over the four-year period with regular meetings and at least three months’ worth of placements at their Luton site. 
-<br>
-
-Further information available <a href="https://durham-qlm.uk/research/tech/terahertz/">here</a> or contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Weatherill</a>.<br><br>
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RFRydberg.jpg" alt="Rydberg atoms can be used to detect incoming radio waves" />
-</td>
-
-
 <tr>
   <td>
 	<br>
@@ -218,25 +116,6 @@ For further details about the RbCs quantum gas microscope experiment <a href="ht
 <tr>
   <td>
 	<br>
-      	<h5><a id="RQO">Rydberg Quantum Optics</a></h5><br>
-The goal of Rydberg quantum optics is to exploit the strong interactions between highly-excited Rydberg atoms to modify the properties of light at both the level of single photons and few photon coherent states. The applications are wide ranging from fast read-out of qubits in quantum computing to quantum optimisation problems like graph colouring, and complex system dynamics such a synchronisation and time crystals. The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light.
-
-The project is supported by funding from UKRI, Leverhulme and ESA. In addition, we benefit from an extended network of international collaborators.
-
-
-For further details about the Rydberg Quantum Optics experiment <a href="https://durham-qlm.uk/research/rydberg/photonics/">click here</a>, or for further information contact  <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>. <br><br>
-
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RQO.png" alt="A fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms." />
-</td>
-  </tr>
-
-
-
-<tr>
-  <td>
-	<br>
       	<h5><a id="molryd">Enhancing molecular control using Rydberg atoms </a></h5><br>
 We have pioneered a new approach to forming ultracold RbCs molecules. We take single atoms of Rb and Cs confined in separate optical tweezers, cool them to motional ground state of their respective traps and then carefully combine them to form a molecule in the rovibrational ground state. In this project you will construct an array of strongly interacting ultracold molecules and Rydberg atoms confined in optical tweezers. You will learn how to engineer resonant dipole-dipole interactions between individual atoms and molecules by tuning the energy difference between a pair of Rydberg levels to match the spacing of a rotational transition in the molecule. You will then harness this interaction to address two of the key challenges in the field of ultracold molecules: (1) to perform non-destructive detection and state sensitive readout of the molecule, and (2) to realise fast high-fidelity entangling operations between molecules. <br><br>
 
@@ -251,21 +130,6 @@ For further details about the existing tweezer apparatus <a href="https://www.co
 </td>
   </tr>
 
-<tr>
-  <td>
-	<br>
-      	<h5><a id="molrydTh">Theory of control and entanglement of ultracold polar molecules with Rydberg atoms </a></h5><br>
-QLM is the home to pioneering experimental activities in ultracold molecules, and quantum optics with Rydberg atoms; we also have a strong tradition of close interaction of theory and experiment, mutually reinforcing and supporting both. This project parallels the experimental project “Enhancing Molecular Control with Rydberg Atoms,” and will focus on exploring new avenues for generating multi-particle entanglement between ultracold dipolar RbCs molecules, with potential applications in quantum information processing. There is therefore the potential to both provide theoretical support to a new line of experimental activity, and stimulate future experimental directions with more blue-skies investigations of the possibilities offered by combining QLM expertise in ultracold molecules and Rydberg quantum optics, within a single experimental setup.  <br>
-
-This project is supported by a new <a href='https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Z534055/1'> UKRI research grant</a>. <br>
-
-For further details about the existing experimental setup <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-a-gardiner/">Prof. Simon Gardiner</a>.<br><br>
-
-
-<a href="#proj">Back to table</a>
-      
-</td>
-  </tr>
 <tr>
   <td>
 	<br>
