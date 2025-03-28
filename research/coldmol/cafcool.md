@@ -27,7 +27,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
 
 <table style="border-collapse: collapse; border: none;">
         <tr style="border: none;">
-            <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Escape the lab 2025.png" alt="CaF team in February 2025" width = 300 px
+            <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Escape_the_lab_2025.jpg" alt="CaF team in February 2025" width = 300 px
   /><br>
   CaF team Oct 2023 (AJM, AB, RH, BH, HJW)
 </td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
