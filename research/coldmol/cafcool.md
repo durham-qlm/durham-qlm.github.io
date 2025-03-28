@@ -29,7 +29,7 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
         <tr style="border: none;">
             <td style="border: none;"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Escape_the_lab_2025.jpg" alt="CaF team in February 2025" width = 300 px
   /><br>
-  CaF team Oct 2023 (AJM, AB, RH, BH, HJW)
+  CaF team Feb 2025 (AJM, AB, RH, BH, HJW)
 </td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex J. Matthies (they/them)  --  PDRA  <br>
 Miss Bethan Humphreys (she/her)  --  PhD student  <br>
