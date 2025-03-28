@@ -48,6 +48,12 @@ Mr Andrew Elwood  (he/him)  --  MSci student
 <details open>
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
+  <summary><b><font size="+1">2025</font></b></summary>  
+  <b>March:</b> We have submitted our first <a href = "https://arxiv.org/abs/2503.21663">paper!</a> DiPolMol-Py: A Python package for calculations for 2Σ ground-state molecules,<br>
+  <b>January:</b> The whole team head to Imperial College for the first UK laser cooling molecules workshop.
+  </details>
+  
+  <details>
   <summary><b><font size="+1">2024</font></b></summary>
     <b>October:</b> Rebecca joins the group for her PhD, and Tom starts his Master's project. Welcome to the team both! Alex spends three weeks visiting cold molecule labs in the USA. <br>
     <b>September:</b> Alex and Hannah attend <a href = 'https://ccmi2024.ist.ac.at/'>CCMI</a> near Vienna, Alex presents a poster and Hannah gives an invited talk.<br>
