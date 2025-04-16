@@ -20,7 +20,9 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 ## Recent Papers
 
-- <span style="color:blue">**NEW**</span> **Simultaneous multi-band radio-frequency detection using high-orbital-angular-momentum states in a Rydberg-atom receiver** - Gianluca Allinson _et al._ 2023 [arXiv](https://arxiv.org/abs/2311.11935){:target="_blank"}
+- <span style="color:blue">**NEW**</span> - 
+
+- **Simultaneous multi-band radio-frequency detection using high-orbital-angular-momentum states in a Rydberg-atom receiver** - Gianluca Allinson _et al._ 2024 [Phys. Rev. Research. 6 023317](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.6.023317){:target="_blank"}
 
 - **A practical guide to terahertz imaging using thermal atomic vapour.** - Lucy A Downes _et al._ 2023 [New J. Phys. 25 035002](https://iopscience.iop.org/article/10.1088/1367-2630/acb80c/meta){:target="_blank"}
 
@@ -33,6 +35,7 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 |[Dr. Matthew Jamieson](https://www.durham.ac.uk/staff/matthew-j-jamieson/)|
 |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
+|[Dr. Anthonin Delphin](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |[Mr Gianluca Allinson ](https://www.durham.ac.uk/staff/gianluca-allinson/)|
 |[Mr. Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
 |[Mr. James Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
