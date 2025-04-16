@@ -20,6 +20,8 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 ## Recent Papers
 
+- <span style="color:blue">**NEW**</span> - **Determination of Quantum Defects and Core Polarizability of Atomic Cesium via Terahertz and Radio-Frequency Spectroscopy in Thermal Vapor** - Gianluca Allinson _et al._ [arXiv](https://arxiv.org/pdf/2502.20961){:target="_blank"}
+
 - <span style="color:blue">**NEW**</span> - **Continuous time ultra-high frequency (UHF) sensing using ultra-cold Rydberg atoms** - Matthew Jamieson _et al._ [arXiv](https://arxiv.org/pdf/2504.00212){:target="_blank"}
 
 - **Simultaneous multi-band radio-frequency detection using high-orbital-angular-momentum states in a Rydberg-atom receiver** - Gianluca Allinson _et al._ 2024 [Phys. Rev. Research. 6 023317](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.6.023317){:target="_blank"}
