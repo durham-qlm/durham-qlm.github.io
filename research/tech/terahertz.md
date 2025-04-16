@@ -28,6 +28,10 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 - **A practical guide to terahertz imaging using thermal atomic vapour.** - Lucy A Downes _et al._ 2023 [New J. Phys. 25 035002](https://iopscience.iop.org/article/10.1088/1367-2630/acb80c/meta){:target="_blank"}
 
+## Funding
+
+ - **Quantum Technology Hub for Sensing, Imaging and Timing (QuSIT)** [Qusit](https://www.birmingham.ac.uk/news/2024/new-hub-focussing-on-quantum-sensing-imaging-and-timing-to-be-launched-as-part-of-160m-investment){:target="_blank"}
+
 ## Team members
 
 |**Name**|
