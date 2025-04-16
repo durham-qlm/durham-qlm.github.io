@@ -30,9 +30,9 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 ## Funding
 
- - **EPSRC Quantum Technology Research Hub for Sensing, Imaging and Timing (QuSIT)** [EP/Z533166/1](https://gtr.ukri.org/projects?ref=EP%2FZ533166%2F1){:target="_blank"}
+ - **EPSRC: Quantum Technology Research Hub for Sensing, Imaging and Timing (QuSIT)** [EP/Z533166/1](https://gtr.ukri.org/projects?ref=EP%2FZ533166%2F1){:target="_blank"}
 
-- **EPSRC High-speed Terahertz Imaging using Rydberg Atoms & Quantum Cascade Lasers** [EP/W033054/1](https://gtr.ukri.org/projects?ref=EP%2FW033054%2F1){:target="_blank"}
+- **EPSRC: High-speed Terahertz Imaging using Rydberg Atoms & Quantum Cascade Lasers** [EP/W033054/1](https://gtr.ukri.org/projects?ref=EP%2FW033054%2F1){:target="_blank"}
 
 
 ## Team members
