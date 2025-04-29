@@ -10,7 +10,7 @@ Easter Term
 
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
-|07/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Louis Lafforgue"> Control and Scattering Properties in Dipolar Spin Mixtures</a>|Louis Lafforgue |University of Innsbruck |
+|07/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Louis Lafforgue">Control and scattering properties in dipolar spin mixtures</a>|Louis Lafforgue |University of Innsbruck |
 |14/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Jacob Blackmore"> Title TBC </a>|Jacob Blackmore |University of Oxford |
 |21/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Jamie Gallagher"> Title TBC </a>|Jamie Gallagher | |
 |28/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Ifan Hughes"> Title TBC </a>|Ifan Hughes | Durham University|
