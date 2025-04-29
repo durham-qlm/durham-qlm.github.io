@@ -6,17 +6,14 @@ subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the 
  
 ## 2024-2025 Seminars
 
-Epiphany term
+Easter Term
 
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
-|22/01/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Brianna Heazlewood"> Controlling the properties of ions and radicals at low temperatures </a>|Brianna Heazlewood |University of Liverpool |
-|05/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Stephen Hogan"> Atomic beam sources and quantum sensors for absolute neutrino mass and antimatter gravity </a>|Stephen Hogan |University College London (UCL)|
-|12/02/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Epiphany/Anne Curtis"> Optical atomic clocks: progress towards a new SI second and tests of fundamental physics </a>|Anne Curtis |National Physical Laboratory (NPL)|
-|19/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Aaron Reinhard"> Coherent control of three-atom Rydberg states: Research at an American liberal arts college </a>|Aaron Reinhard |Kenyon College - Leverhulme Visiting Professor at Durham University|
-|12/03/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Alex Guttridge">  Dual-species tweezer arrays for multifunctional quantum devices
- </a>|Alex Guttridge |Durham University, QLM|
-
+|07/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Louis Lafforgue"> Title TBC </a>|Louis Lafforgue |University of Innsbruck |
+|14/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Jacob Blackmore"> Title TBC </a>|Jacob Blackmore |University of Oxford |
+|21/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Jamie Gallagher"> Title TBC </a>|Jamie Gallagher | |
+|28/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Easter/Ifan Hughes"> Title TBC </a>|Ifan Hughes | Durham University|
 
 Past seminars can be found here: 
 
