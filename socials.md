@@ -6,5 +6,5 @@ subtitle:
 
 ## 2023 Socials
 <script type="module" src="https://cdn.jsdelivr.net/npm/bsky-embed/dist/bsky-embed.es.js" async></script>
-<bsky-embed feed="at://did:plc:rfrzhalcrvmrn6v3ycwrim44/app.bsky.feed.generator/aaaopomsq22gw&limit=30"></bsky-embed>
+<bsky-embed feed="at://did:plc:rfrzhalcrvmrn6v3ycwrim44/app.bsky.feed.generator/aaaopomsq22gw"></bsky-embed>
 
