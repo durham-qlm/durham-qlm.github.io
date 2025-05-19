@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QLM seminars, Easter term
+title: QLM seminars, Summer term
 subtitle: 14/05/2025, 12pm-1pm, Ph8
 ---
 
