@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QLM seminars, Summer term
-subtitle: 07/05/2025, 12pm-1pm, Ph8
+subtitle: 19/05/2025, 12pm-1pm, Ph8
 ---
 
 ## Jamie Gallagher
