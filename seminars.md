@@ -13,7 +13,7 @@ Easter Term
 |07/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Louis Lafforgue">Control and scattering properties in dipolar spin mixtures</a>|Louis Lafforgue |University of Innsbruck |
 |14/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Jacob Blackmore"> Networked quantum computing with trapped ions </a>|Jacob Blackmore |University of Oxford |
 |21/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Jamie Gallagher"> Lasting impression: Engagement and EDI </a>|Jamie Gallagher | |
-|28/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Ifan Hughes"> Title TBC </a>|Ifan Hughes | Durham University|
+|28/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Ifan Hughes"> If we shadows have offended: atoms, big magnets and polarized light </a>|Ifan Hughes | Durham University, QLM|
 
 Past seminars can be found here: 
 
