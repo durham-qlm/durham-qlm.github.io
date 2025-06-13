@@ -20,9 +20,9 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 ## Recent Papers
 
-- <span style="color:blue">**NEW**</span> - **Virtually structured illumination for terahertz super-resolution imaging** - J. P. Fleming _et. al._ [arXiv](https://arxiv.org/pdf/2504.12092){:target="_blank"}
-
 - <span style="color:blue">**NEW**</span> - **Continuous time ultra-high frequency (UHF) sensing using ultra-cold Rydberg atoms** - Matthew Jamieson _et. al._ [arXiv](https://arxiv.org/pdf/2504.00212){:target="_blank"}
+
+- **Virtually structured illumination for terahertz super-resolution imaging** - J. P. Fleming _et. al._ 2025 [Opt. Express 33, 26509](https://doi.org/10.1364/OE.563675){:target="_blank"}
 
 - **Determination of Quantum Defects and Core Polarizability of Atomic Cesium via Terahertz and Radio-Frequency Spectroscopy in Thermal Vapor** - Gianluca Allinson _et. al._ 2025 [Phys. Rev. A. 111, 062802](https://doi.org/10.1103/PhysRevA.111.062802){:target="_blank"}
 
