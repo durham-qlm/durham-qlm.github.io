@@ -31,10 +31,12 @@ If you are interested in joining the team or finding out more, please contact m.
 [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (Principal investigator) <br>
 [Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (Co-investigator) <br>
 [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Reseracher co-investigator) <br>
-[Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/) (PhD student) <br>
-[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) 
+[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) <br>
+Madeleine Fisher (PhD student) 
+
 ## Former members 
-[Dr. Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/) (PhD student) <br>
+[Dr. Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/) (Former PhD student) <br>
+[Dr. Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/) (Former PhD student) <br>
 [Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Postdoctoral Research Assistant)
 
 ## Collaborators
@@ -49,7 +51,7 @@ If you are interested in joining the team or finding out more, please contact m.
 ## Publications
 [1] Microwave-optical spectroscopy of Rydberg excitons in the ultrastrong driving regime <br>
 *Brewin, A., Gallagher, L. A., Pritchett, J. D., Wong, H. Q., Potvliege, R. M., Clark, S. J., & Jones, M.* <br>
-[*arXiv preprint arXiv:2406.18674 (2024)*](https://arxiv.org/pdf/2406.18674)
+[*New J. Phys. 26 113018 (2024)*](https://iopscience.iop.org/article/10.1088/1367-2630/ad8c74)
 
 [2] Giant microwave–optical Kerr nonlinearity via Rydberg excitons in cuprous oxide <br>
 *Pritchett, J.D., Gallagher, L.A., Brewin, A., Wong, H.Q., Langbein, W., Lynch, S.A., Adams, C.S. and Jones, M.* <br>
