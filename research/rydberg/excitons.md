@@ -46,7 +46,7 @@ Madeleine Fisher (PhD student)
 [Prof. Simon Doyle](https://profiles.cardiff.ac.uk/staff/doylesm) 
 
 ### University of St Andrews
-[Dr Hamid Ohadi](https://www.st-andrews.ac.uk/physics-astronomy/people/ho35/)
+[Dr Hamid Ohadi](https://research-portal.st-andrews.ac.uk/en/persons/hamid-ohadi)
 
 ## Publications
 [1] Microwave-optical spectroscopy of Rydberg excitons in the ultrastrong driving regime <br>
