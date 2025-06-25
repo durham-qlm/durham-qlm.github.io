@@ -21,6 +21,7 @@ subtitle: Current members of the Durham QLM group
 |	|[Prof. Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/)|
 |	|[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/)|
 |	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) ([Group page](saw))|
+|   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
 |Research Associates:   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 |   |[Dr. Tobias Franzen](https://www.durham.ac.uk/staff/tobias-franzen/)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
@@ -29,7 +30,6 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |   |Dr. Alex Matthies|
 |   |[Dr. Jonathan Mortlock](https://www.durham.ac.uk/staff/jonathan-m-mortlock/)|
-|   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
 |   |[Dr. Jack Segal](https://www.durham.ac.uk/staff/jack-d-segal/)|
 |Research Students:   |[Gianluca Allinson](https://www.durham.ac.uk/staff/gianluca-allinson/)|
 |   |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
