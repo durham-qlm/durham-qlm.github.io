@@ -50,7 +50,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Jack Briscoe](https://www.durham.ac.uk/staff/jack-d-briscoe/)|
 |   |[Chris Cumming](https://www.durham.ac.uk/staff/chris-d-cumming/)|
 |   |[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/)|
-|   |[Rebeccas Hedley](https://www.durham.ac.uk/staff/rebecca-hedley/)|
+|   |[Rebecca Hedley](https://www.durham.ac.uk/staff/rebecca-hedley/)|
 |   |[Tom Hepworth](https://www.durham.ac.uk/staff/tom-hepworth/)|
 |   |[David Lowit](https://www.durham.ac.uk/staff/david-lowit/)|
 |   |[Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/)|
