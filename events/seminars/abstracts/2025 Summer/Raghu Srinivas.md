@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QLM seminars, Summer term
-subtitle: 16/07/2025, 12pm-1pm, Ph8
+subtitle: 16/07/2025, 10:30am-11:30am, Ph8
 ---
 
 ## Raghu Srinivas (University of Oxford)
