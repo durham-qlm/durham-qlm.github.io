@@ -22,7 +22,7 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 
 - <span style="color:blue">**NEW**</span> - **Temporally-multiplexed dual-frequency terahertz imaging at kilohertz frame rates** - Lucy A. Downes _et. al._ [arXiv](https://arxiv.org/pdf/2507.11232){:target="_blank"}
 
-- <span style="color:blue">**NEW**</span> - **Continuous time ultra-high frequency (UHF) sensing using ultra-cold Rydberg atoms** - Matthew Jamieson _et. al._ [arXiv](https://arxiv.org/pdf/2504.00212){:target="_blank"}
+**Continuous time ultra-high frequency (UHF) sensing using ultra-cold Rydberg atoms** - Matthew Jamieson _et. al._ 2025 [Phys. Rev. Appl. 24, 034022](https://doi.org/10.1103/2vxb-czvz){:target="_blank"}
 
 - **Virtually structured illumination for terahertz super-resolution imaging** - J. P. Fleming _et. al._ 2025 [Opt. Express 33, 26509](https://doi.org/10.1364/OE.563675){:target="_blank"}
 
