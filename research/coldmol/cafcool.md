@@ -32,14 +32,14 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
   CaF team Feb 2025 (AJM, AB, RH, BH, HJW)
 </td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Alex J. Matthies (they/them)  --  PDRA  <br>
-Miss Bethan Humphreys (she/her)  --  PhD student  <br>
+Dr. Bethan Humphreys (she/her)  --  PhD student  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
-Miss Rebecca Hedley (she/her) -- PhD student <br>
-Mr Tom Philo (he/him) -- MSci student <br></td></tr> 
+Miss Rebecca Hedley (she/her) -- PhD student <br></td></tr> 
 </table>
   
 <details>
   <summary><b><font size="+1">Former members</font></b></summary>
+Mr Tom Philo (he/him) -- MSci student <br>
 Mr Keelan Sloan  (he/him)  --  MSci student  <br>
 Mr Andrew Elwood  (he/him)  --  MSci student  
 </details>
@@ -48,8 +48,14 @@ Mr Andrew Elwood  (he/him)  --  MSci student
 <details open>
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
-  <summary><b><font size="+1">2025</font></b></summary>  
-  <b>March:</b> We have submitted our first <a href = "https://arxiv.org/abs/2503.21663">paper!</a> DiPolMol-Py: A Python package for calculations for 2Σ ground-state molecules,<br>
+  <summary><b><font size="+1">2025</font></b></summary>
+    <b>September:</b> Hannah returns to work. Bethan and Hannah attend the EPSRC Quantum Technologies Future Leaders Event.<br>
+    <b>August:</b> Our paper <i>DiPolMol-Py: A Python package for calculations for 2Σ ground-state molecules</i> has been published <a href='https://doi.org/10.1016/j.cpc.2025.109813'> here</a>.<br>
+    <b>July:</b> Archie presents a poster at <a href='https://ecamp15.org/'>ECAMP15</a> and Becca presents a poster at <a href='https://yao.iqoqi.at/'>YAO</a>, both in Innsbruck.<br>
+    <b>June:</b> Tom graduates, congratulations and best of luck in the future! Bethan presents a poster at <a href='https://www.icols2025.it/'>ICOLS2025</a> on the island of Elba and Alex presents a poster at the <a href='https://www.ultracold-molecules-2025.pl/'> Workshop on Ultracold Molecules </a> in Warsaw.<br>
+    <b>May:</b> Bethan passes her viva! Congratulations, and welcome back as a PDRA Dr. Humphreys!!<br>
+    <b>April:</b> Hannah begins maternity leave!<br>
+  <b>March:</b> Becca attends <a href='https://www.nottingham.ac.uk/conference/fac-sci/physics/women-in-physics/'>PG Women in Physics </a>. We submit our first <a href = "https://arxiv.org/abs/2503.21663">paper!</a> DiPolMol-Py: A Python package for calculations for 2Σ ground-state molecules, and Bethan submits her PhD thesis.<br>
   <b>January:</b> The whole team head to Imperial College for the first UK laser cooling molecules workshop.
   </details>
   
