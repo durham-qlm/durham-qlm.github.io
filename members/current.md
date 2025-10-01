@@ -12,6 +12,8 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. David Carty](https://www.durham.ac.uk/staff/david-carty/)|
 |	|[Prof. Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/)|
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
+|   |[Dr. Tobias Franzen](https://www.durham.ac.uk/staff/tobias-franzen/)|
+|   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
 |   |[Dr. Philip Gregory](gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
 |   |[Dr. Alexander Guttridge](https://www.durham.ac.uk/staff/alexander-guttridge/)|
@@ -26,8 +28,6 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Arpita Das](https://www.durham.ac.uk/staff/arpita-das/)|
 |   |[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
-|   |[Dr. Tobias Franzen](https://www.durham.ac.uk/staff/tobias-franzen/)|
-|   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |   |[Dr. James Gill-Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
 |   |[Dr. Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
