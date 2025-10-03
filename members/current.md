@@ -8,7 +8,7 @@ subtitle: Current members of the Durham QLM group
 |Head of Section:	|[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
 |Research Project Coordinator:	|[Lisa Qiao](https://www.durham.ac.uk/staff/liang-qiao/)|
 |Research Computing Support:	|[Samuel Bentum](https://www.durham.ac.uk/staff/samuel-bentum/)|
-|Staff:	|[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|    
+|Staff:	|[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
 |   |[Dr. David Carty](https://www.durham.ac.uk/staff/david-carty/)|
 |	|[Prof. Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/)|
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
@@ -25,6 +25,7 @@ subtitle: Current members of the Durham QLM group
 |	|[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/)|
 |	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) ([Group page](saw))|
 |Research Associates:   |[Dr. Carlos Bracamontes](https://www.durham.ac.uk/staff/carlos-bracamontes/)|
+| |[Dr Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/)|
 |   |[Dr. Arpita Das](https://www.durham.ac.uk/staff/arpita-das/)|
 |   |[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
@@ -34,6 +35,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Benjamin Maddox](https://www.durham.ac.uk/staff/benjamin-p-maddox/)|
 |   |Dr. Alex Matthies|
 |   |[Dr. Jonathan Mortlock](https://www.durham.ac.uk/staff/jonathan-m-mortlock/)|
+| |[Dr Navraj Poudel]|
 |   |[Dr. Adarsh Raghuram](https://www.durham.ac.uk/staff/adarsh-p-raghuram/)|
 |   |[Dr. Caleb Rich](https://www.durham.ac.uk/staff/caleb-j-rich/)|
 |   |[Dr. Daniel Ruttley](https://www.durham.ac.uk/staff/daniel-k-ruttley/)|
@@ -47,15 +49,27 @@ subtitle: Current members of the Durham QLM group
 |   |[Francesca Blondell](https://www.durham.ac.uk/staff/francesca-m-blondell/)|
 |   |[Joe Bloomer](https://www.durham.ac.uk/staff/joe-t-bloomer/)|
 |   |[Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
+| |[Anuprava Boshki](https://www.durham.ac.uk/staff/anuprava-bokshi/)|
 |   |[Jack Briscoe](https://www.durham.ac.uk/staff/jack-d-briscoe/)|
+| |[Piers Bryn](https://www.durham.ac.uk/staff/piers-t-bryn/)|
+| |[Mina Buchvarova]|
 |   |[Chris Cumming](https://www.durham.ac.uk/staff/chris-d-cumming/)|
+| |[Ikenna Eze](https://www.durham.ac.uk/staff/ikenna-a-eze/)|
 |   |[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/)|
 |   |[Rebecca Hedley](https://www.durham.ac.uk/staff/rebecca-hedley/)|
 |   |[Tom Hepworth](https://www.durham.ac.uk/staff/tom-hepworth/)|
+| |[Colin Hung](https://www.durham.ac.uk/staff/colin-l-hung/)|
+| |[Lena Klar]|
+| |[Thomas Leitch](https://www.durham.ac.uk/staff/thomas-w-leitch/)|
+| |[Zhejun Li]|
 |   |[David Lowit](https://www.durham.ac.uk/staff/david-lowit/)|
+| |[Rob Mellor](https://www.durham.ac.uk/staff/robert-mellor/)|
 |   |[Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/)|
+| |[Thomas Notman]|
 |   |[Saif-ullah Salim](https://www.durham.ac.uk/staff/saif-ullah-k-salim/)|
+| |[Niamh Speakman]|
 |   |[Li Tao](https://www.durham.ac.uk/staff/li-tao/)|
 |   |[Karen Wadenpfuhl](https://www.durham.ac.uk/staff/karen-wadenpfuhl/)|
 |   |[Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
-|   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)|
+| |[Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/)|
+|   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)<br /|
