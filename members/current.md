@@ -72,4 +72,4 @@ subtitle: Current members of the Durham QLM group
 |   |[Karen Wadenpfuhl](https://www.durham.ac.uk/staff/karen-wadenpfuhl/)|
 |   |[Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
 | |[Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/)|
-|   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)<br /|
+|   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)|
