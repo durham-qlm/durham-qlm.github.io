@@ -25,21 +25,23 @@ subtitle: Current members of the Durham QLM group
 |	|[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/)|
 |	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) ([Group page](saw))|
 |Research Associates:   |[Dr. Carlos Bracamontes](https://www.durham.ac.uk/staff/carlos-bracamontes/)|
-| |[Dr Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/)|
+| |[Dr. Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/)|
 |   |[Dr. Arpita Das](https://www.durham.ac.uk/staff/arpita-das/)|
 |   |[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
+| |[Dr. Sujit Garain](https://www.durham.ac.uk/staff/sujit-garain/)|
 |   |[Dr. James Gill-Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
 |   |[Dr. Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |   |[Dr. Benjamin Maddox](https://www.durham.ac.uk/staff/benjamin-p-maddox/)|
 |   |Dr. Alex Matthies|
 |   |[Dr. Jonathan Mortlock](https://www.durham.ac.uk/staff/jonathan-m-mortlock/)|
-| |Dr Navraj Poudel|
+| |Dr. Navraj Poudel|
 |   |[Dr. Adarsh Raghuram](https://www.durham.ac.uk/staff/adarsh-p-raghuram/)|
 |   |[Dr. Caleb Rich](https://www.durham.ac.uk/staff/caleb-j-rich/)|
 |   |[Dr. Daniel Ruttley](https://www.durham.ac.uk/staff/daniel-k-ruttley/)|
 |   |[Dr. Jack Segal](https://www.durham.ac.uk/staff/jack-d-segal/)|
+| |[Dr. Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
 |Research Students:   |[Gianluca Allinson](https://www.durham.ac.uk/staff/gianluca-allinson/)|
 |   |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
 |   |[Toonyawat Angkhanawin](https://www.durham.ac.uk/staff/toonyawat-angkhanawin/)|
@@ -70,6 +72,6 @@ subtitle: Current members of the Durham QLM group
 | |Niamh Speakman|
 |   |[Li Tao](https://www.durham.ac.uk/staff/li-tao/)|
 |   |[Karen Wadenpfuhl](https://www.durham.ac.uk/staff/karen-wadenpfuhl/)|
-|   |[Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
+| |Carlin Stewart-Wiese|
 | |[Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/)|
 |   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)|
