@@ -52,7 +52,7 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 
 ## Join us
 
-We have currently have a funded PhD student position for a 2026 start as well as a postdoc position available.
+We currently have a funded PhD student position for a 2026 start as well as a postdoc position available.
  If you are interested, please get in touch with [tobias.franzen@durham.ac.uk](tobias.franzen@durham.ac.uk). I'm looking forward to getting to know you and discussing details. 
 
 ## Collaborators
