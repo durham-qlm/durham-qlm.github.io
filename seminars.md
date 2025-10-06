@@ -6,7 +6,7 @@ subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the 
  
 ## 2025-2026 Seminars
 
-Easter Term
+Michaelmas Term
 
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
