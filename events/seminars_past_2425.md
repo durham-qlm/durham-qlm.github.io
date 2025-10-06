@@ -28,6 +28,17 @@ Epiphany term
 |19/02/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Aaron Reinhard"> Coherent control of three-atom Rydberg states: Research at an American liberal arts college </a>|Aaron Reinhard |Kenyon College - Leverhulme Visiting Professor at Durham University|
 |12/03/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Epiphany/Alex Guttridge">  Dual-species tweezer arrays for multifunctional quantum devices </a>|Alex Guttridge |Durham University, QLM|
 
+Easter term
+
+|Date  |Time |Location  |Title   |Speaker    |Institution    |
+|:---  | :----: | :----:  | :--------:      | :------:      |           --: |
+|07/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Louis Lafforgue">Control and scattering properties in dipolar spin mixtures</a>|Louis Lafforgue |University of Innsbruck |
+|14/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Jacob Blackmore"> Networked quantum computing with trapped ions </a>|Jacob Blackmore |University of Oxford |
+|21/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Jamie Gallagher"> Lasting impression: Engagement and EDI </a>|Jamie Gallagher | |
+|28/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Ifan Hughes"> If we shadows have offended: atoms, big magnets and polarized light </a>|Ifan Hughes | Durham University, QLM|
+|16/07/2025|10:30am-11:30am|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Raghu Srinivas"> Quantum Adventures with Trapped Ions: Clocks, Springs, and Qubits </a>|Raghu Srinivas |University of Oxford|
+|16/07/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Paul Warburton"> Quantum Annealing – Beyond the Transverse-Field Ising Model </a>|Paul Warburton |UCL|
+
 
 
 

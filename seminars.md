@@ -4,18 +4,22 @@ title: QLM Seminars
 subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the current term are listed here.
 ---
  
-## 2024-2025 Seminars
+## 2025-2026 Seminars
 
 Easter Term
 
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
-|07/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Louis Lafforgue">Control and scattering properties in dipolar spin mixtures</a>|Louis Lafforgue |University of Innsbruck |
-|14/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Jacob Blackmore"> Networked quantum computing with trapped ions </a>|Jacob Blackmore |University of Oxford |
-|21/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Jamie Gallagher"> Lasting impression: Engagement and EDI </a>|Jamie Gallagher | |
-|28/05/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Ifan Hughes"> If we shadows have offended: atoms, big magnets and polarized light </a>|Ifan Hughes | Durham University, QLM|
-|16/07/2025|10:30am-11:30am|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Raghu Srinivas"> Quantum Adventures with Trapped Ions: Clocks, Springs, and Qubits </a>|Raghu Srinivas |University of Oxford|
-|16/07/2025|12pm-1pm|Ph8|<a href="/events/seminars/abstracts/2025 Summer/Paul Warburton"> Quantum Annealing – Beyond the Transverse-Field Ising Model </a>|Paul Warburton |UCL|
+|10/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Mike Holynski">Title TBA</a>|Mike Holynski |University of Birmingham |
+|15/10/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Summer/Luca Donini"> Title TBA </a>|Luca Donini |University of Cambridge |
+|22/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Tobias Franzen"> Title TBA </a>|Tobias Franzen |Durham University, QLM |
+|29/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Yansheng Zhang"> Title TBA </a>|Yansheng Zhang |University of Cambridge|
+|5/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Liam Gallagher"> Title TBA </a>|Liam Gallagher |Durham University, QLM|
+|12/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Nick Spong"> Title TBA </a>|Nick Spong |NQCC|
+|19/11/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Summer/Alex Jenkins"> Title TBA </a>|Alex Jenkins |University of Cambridge|
+|26/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/David Welnitz"> Title TBA </a>|David Welnitz |Julich Institute|
+|3/12/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Ryan Doran"> Title TBA </a>|Ryan Doran |Newcastle University|
+
 
 Past seminars can be found here: 
 
