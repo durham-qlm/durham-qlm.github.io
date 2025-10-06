@@ -12,4 +12,4 @@ We have a range of experimental and theoretical projects on Quantum Technologies
 |[Breath-Gas Sensing in Real Time for Treating Diabetic Ketoacidosis](/research/tech/breath)|   |
 |[Structured Quantum Devices](/research/tech/structured)|  |
 |[THz Sensing and Imaging](/research/tech/terahertz)|  |
-|[Telecom-wavelength quantum networking between arrays of Yb atoms](/research/tech/networking) | [![](/research/tech/networking/networking.png)](/research/tech/networking)|
+|[Telecom-wavelength quantum networking between arrays of Yb atoms](/research/tech/quantum-networking) | [![](/research/tech/quantum-networking/networking.png)](/research/tech/quantum-networking)|

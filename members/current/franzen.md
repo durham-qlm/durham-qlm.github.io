@@ -13,9 +13,9 @@ I am an EPSRC Quantum Technologies Career acceleration fellow currently focusing
 
 <table>
 <tr><td>
-<a href = "/research/tech/networking"> <img src="/research/tech/networking/networking.png" alt="Quantum networking"/></a>
+<a href = "/research/quantum-tech/networking"> <img src="/research/quantum-tech/networking/networking.png" alt="Quantum networking"/></a>
 </td><td>
-<a href = "/research/tech/networking">Telecom-wavelength quantum networking between arrays of Yb atoms </a> <br/></td></tr><tr>
+<a href = "/research/quantum-tech/networking">Telecom-wavelength quantum networking between arrays of Yb atoms </a> <br/></td></tr><tr>
 <td><img src="/research/coldmol/csyb/img/Yb_MOT.jpg" alt="CsYb" width=200/></td><td><a href="https://www.cornishlabs.uk/csyb"> CsYb: mixtures and molecules</a> <br/> with Simon Cornish</td></tr>
 </table>
 
@@ -28,7 +28,7 @@ I am an EPSRC Quantum Technologies Career acceleration fellow currently focusing
 Tobias Franzen earned his PhD from HHU Düsseldorf (Germany), where we worked on optical lattice clocks and on a new setup for investigations on ultracold Rb-Yb mixtures. He then joined Durham University to work with Simon Cornish on ultracold CsYb mixtures and molecules. Tobias has recently been awarded an EPSRC quantum technologies career acceleration fellowship to work on quantum networking between arrays of neutral ytterbium atoms. Outside of work he can be found working on his van, hill walking and attending metal concerts.
 
 ## Links
-* [Telecom-wavelength quantum networking between arrays of Yb atoms](/research/tech/networking)
+* [Telecom-wavelength quantum networking between arrays of Yb atoms](/research/tech/quantum-networking)
 * [Google scholar](https://scholar.google.com/citations?user=_Doo0okAAAAJ&hl=en&oi=ao)
 * [Durham University staff page](https://www.durham.ac.uk/staff/tobias-franzen/)
 
