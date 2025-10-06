@@ -46,7 +46,7 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 |   |   | 
 |----|----|
 |[![](/members/current/franzen/franzen_s.jpg)](/members/current/franzen)|[Dr. Tobias Franzen (he/him)](/members/current/franzen) <br/>(PI)<br/> [tobias.franzen@durham.ac.uk](tobias.franzen@durham.ac.uk)
-|  |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/) <br/>(QLM Chief Experimental Officer)|  |
+|  |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/) <br/>(QLM Chief Experimental Officer)|  
 
 
 
