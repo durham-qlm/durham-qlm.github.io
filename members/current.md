@@ -29,6 +29,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Arpita Das](https://www.durham.ac.uk/staff/arpita-das/)|
 |   |[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
+| |[Dr. Sujit Garain](https://www.durham.ac.uk/staff/sujit-garain/)|
 |   |[Dr. James Gill-Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
 |   |[Dr. Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
