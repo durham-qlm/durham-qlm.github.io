@@ -8,7 +8,7 @@ We are an experimental research group at Durham QLM with the goal of realising q
 
 
 ## Arrays of single atoms
-![](quantum-networking/tweezer.png)
+![Schematic depiction of optical tweezers and level scheme for Yb](quantum-networking/tweezer.png)
 
 Single atoms are an ideal platform for the observation of quantum behaviour and for many applications in quantum technologies. Using extremely tightly focussed laser beams, so called optical tweezers, we can trap and manipulate single atoms in an ultra-high vacuum. This allows us to create arrays of many perfectly identical quantum systems, almost perfectly isolated from the environment.
  Additional laser beams and magnetic fields give us near perfect control over the motional and internal state of each atom.
@@ -22,7 +22,7 @@ Finally, a telecom wavelength transition directly connecting to the metastable s
 
 
 ## Quantum networking
-![](quantum-networking/networking.png)
+![Schematic depiction of a network formed by Yb atoms connected through optical fibres.](quantum-networking/networking.png)
 
 A promising approach to scaling up quantum systems is through connecting several systems to form a larger, more powerful system - quantum networking.
 However to maintain the quantum behaviour of the entire system, the connection between nodes needs to be quantum as well. This requires keeping interactions with the (classical) environment extremely low, while allowing strong interactions between the qubits and the connection - a formidable challenge, particularly for long connections. Fortunately, optical fibres that are already widely deployed for telecommunication make possible to transfer photons in the telecom wavelength range (1.3μm - 1.6μm) over tens and hundreds of kilometers with very low loss.
@@ -35,7 +35,7 @@ Possible applications of this technology include
 
 
 ## Low SWaP systems
-![](quantum-networking/swap.png)
+![Symbolic illustration of size, weight and power and complex laser systems](quantum-networking/swap.png)
 Quantum networking and many other quantum technologies become vastly more powerful the simpler and smaller we can make each individual device. Today many quantum science setups fill rooms and require several people to operate. We are thus particularly interested in ways to simplify and shrink our setups. 
 
 For example the wavelengths required to work with Yb atoms so far have been a barrier to its more widespread adoption, requiring several different laser technologies, often lacking in robustness while filling several optical tables. We are working on streamlining this by developing modular rack-mounted systems with a single laser technology covering all required wavelengths.
