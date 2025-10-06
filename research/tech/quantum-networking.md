@@ -33,6 +33,15 @@ Possible applications of this technology include
 * Quantum enhanced comparisons between remote atomic clocks
 * Building more powerful quantum computers by connecting multiple quantum processing units in a network - just like today's classical supercomputers are built from many processing nodes
 
+## Remote entanglement generation
+![Schematic illustration of entanglement generation by bell state measurements](quantum-networking/entanglement.png)
+Entanglement is at the core of many quantum effects and applications, such as quantum computing. The core building block of quantum network is thus a way to generate entanglement between two nodes.
+
+We can achieve this by performing a joint measurement on our two nodes: Our goal is to detect that the two nodes are in different states ↑ and ↓ without gaining **any** information on which node is in which state. We'll realise this using a protocol where each atom emits a photon into the optical fibre if and only if it is in the ↑ state. We'll then combine photons from both nodes using a beamsplitter, ensuring they are indistinguishable in every respect, before detecting them on single-photon detectors. This will allow us to generate entanglement between single atoms that are only connected by optical fibres - and potentially separated by hundreds of kilometres. 
+
+
+
+
 
 ## Low SWaP systems
 ![Symbolic illustration of size, weight and power and complex laser systems](quantum-networking/swap.png)
@@ -52,7 +61,7 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 
 ## Join us
 
-We have currently have a funded PhD student position for a 2026 start as well as a postdoc position available.
+We have a funded PhD student position for a 2026 start as well as a postdoc position available.
  If you are interested, please get in touch with [tobias.franzen@durham.ac.uk](tobias.franzen@durham.ac.uk). I'm looking forward to getting to know you and discussing details. 
 
 ## Collaborators
