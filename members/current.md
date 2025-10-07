@@ -12,7 +12,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. David Carty](https://www.durham.ac.uk/staff/david-carty/)|
 |	|[Prof. Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/)|
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
-|   |[Dr. Tobias Franzen](https://www.durham.ac.uk/staff/tobias-franzen/)|
+|   |[Dr. Tobias Franzen](franzen)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
 |   |[Dr. Philip Gregory](gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
