@@ -54,7 +54,7 @@ subtitle: Current members of the Durham QLM group
 | |[Anuprava Boshki](https://www.durham.ac.uk/staff/anuprava-bokshi/)|
 |   |[Jack Briscoe](https://www.durham.ac.uk/staff/jack-d-briscoe/)|
 | |[Piers Bryn](https://www.durham.ac.uk/staff/piers-t-bryn/)|
-| |Mina Buchvarova|
+| |[Mina Buchvarova](https://www.durham.ac.uk/staff/mina-buchvarova/)|
 |   |[Chris Cumming](https://www.durham.ac.uk/staff/chris-d-cumming/)|
 | |[Ikenna Eze](https://www.durham.ac.uk/staff/ikenna-a-eze/)|
 |   |[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/)|
