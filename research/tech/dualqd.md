@@ -33,7 +33,7 @@ Once isolated we can control the interactions between atoms by preparing them in
 
 ## Team
 
-[Dr Alex Guttridge](/members/current/guttridge.md) (Principal Investigator) 
+[Dr. Alex Guttridge](/members/current/guttridge.md) (Principal Investigator) 
 
 [Mr. Colin Hung](https://www.durham.ac.uk/staff/colin-l-hung/) (PhD Student)
 
