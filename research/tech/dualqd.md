@@ -1,4 +1,4 @@
-  ---
+---
 layout: page
 title: "DualQD"
 subtitle: "Dual-species tweezer arrays for next-generation quantum devices"
