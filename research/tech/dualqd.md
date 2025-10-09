@@ -1,12 +1,12 @@
 ---
 layout: page
-title: DualQD: Dual-species tweezer arrays for next-generation quantum devices
-subtitle: Optical tweezer arrays of Cs and Yb atoms
+title: "DualQD: Dual-species tweezer arrays for next-generation quantum devices"
+subtitle: "Optical tweezer arrays of Cs and Yb atoms"
 ---
 
 ![DualQD Project](/DualQD/DualQD_2.png)
 
-### Overview
+## Overview
 
 We aim to create a dual-species tweezer array platform that allows atom-by-atom assembly of scalable quantum systems. By harnessing the complementary strengths of caesium and ytterbium, we will explore new architectures for quantum computing, sensing, and fundamental physics.
 
