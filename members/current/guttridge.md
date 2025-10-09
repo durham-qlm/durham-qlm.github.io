@@ -4,7 +4,7 @@ title: QLM member
 subtitle:
 ---
 
-![Dr Alex Guttridge](/members/current/guttridge/guttridge.jpg)
+![Dr Alex Guttridge](/members/current/guttridge/Alex_headshot.jpg)
 
 ### Dr Alex Guttridge  
 **Royal Society University Research Fellow**  
