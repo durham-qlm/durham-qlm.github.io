@@ -16,7 +16,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
 |   |[Dr. Philip Gregory](gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
-|   |[Dr. Alexander Guttridge](https://www.durham.ac.uk/staff/alexander-guttridge/)|
+|   |[Dr. Alexander Guttridge](guttridge)|
 |   |[Prof. Jeremy Hutson](https://www.durham.ac.uk/staff/j-m-hutson/)|
 |	|[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/)|
 |   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|

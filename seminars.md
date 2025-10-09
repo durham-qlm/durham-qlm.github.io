@@ -11,7 +11,7 @@ Michaelmas Term
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
 |10/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Michael Holynski">Title TBA</a>|Mike Holynski |University of Birmingham |
-|15/10/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Summer/Luca Donini"> Title TBA </a>|Luca Donini |University of Cambridge |
+|15/10/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Summer/Luca Donini"> Frustrated physics in triangular and kagome optical lattices at negative absolute temperature </a>|Luca Donini |University of Cambridge |
 |22/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Tobias Franzen"> Title TBA </a>|Tobias Franzen |Durham University, QLM |
 |29/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Yansheng Zhang"> Title TBA </a>|Yansheng Zhang |University of Cambridge|
 |5/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Summer/Liam Gallagher"> Title TBA </a>|Liam Gallagher |Durham University, QLM|
