@@ -6,38 +6,11 @@ subtitle:
 
 ![Dr Alex Guttridge](/members/current/guttridge/Alex_headshot_s.jpg)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+### Dr Alex Guttridge  
 
-<style>
-  .staff-card {
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 20px;
-    margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  }
-  .staff-card h3 {
-    margin-top: 0;
-  }
-  .staff-card p {
-    margin-bottom: 10px;
-  }
-  .staff-links a {
-    margin-right: 15px;
-    font-size: 1.5em; /* Make icons bigger */
-    color: #333;
-  }
-</style>
+**Royal Society University Research Fellow**  
 
-<div class="staff-card">
-  <h3>Dr Alex Guttridge</h3>
-  <p><strong>Royal Society University Research Fellow</strong></p>
-  <div class="staff-links">
-    <a href="mailto:alexander.guttridge@durham.ac.uk" title="Email"><i class="fas fa-envelope"></i></a>
-    <a href="https://www.durham.ac.uk/staff/alexander-guttridge/" title="Staff Page"><i class="fas fa-university"></i></a>
-    <a href="https://orcid.org/0000-0001-9886-5739" title="ORCID Profile"><i class="fab fa-orcid"></i></a>
-  </div>
-</div>
+[Email](mailto:alexander.guttridge@durham.ac.uk) | [Staff Page](https://www.durham.ac.uk/staff/alexander-guttridge/) | [Google Scholar](https://scholar.google.com/citations?user=eoAbbbIAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-9886-5739)
 
 ---
 
@@ -58,7 +31,7 @@ Outside of research, I co-organise [Quantum on the Clock](https://www.iop.org/ph
 ## Research Vision
 
 In my group, we aim to exploit advanced quantum engineering techniques to explore new frontiers in fundamental science and quantum technology. Our approach combines two distinct atomic species in dual-species optical tweezer arrays.
-By assigning specialised roles to each species—such as data qubits, ancillas, or sensors—we can realise simplified yet scalable architectures for quantum computing, sensing, and simulation.This strategy allows us to achieve precise control of delicate quantum states while maintaining the flexibility needed to tackle the next generation of challenges in quantum science.
+By assigning specialised roles to each species—such as data qubits, ancillas, or sensors—we can realise simplified yet scalable architectures for quantum computing, sensing, and simulation. This strategy allows us to achieve precise control of delicate quantum states while maintaining the flexibility needed to tackle the next generation of challenges in quantum science.
 
 ---
 
@@ -76,7 +49,9 @@ By assigning specialised roles to each species—such as data qubits, ancillas, 
 
 We are always looking for motivated students and researchers interested in experimental quantum science.  
 Interested students see [here](/join/phdrecruit.md) for our current opportunities.
+
 We also welcome approaches from postdoctoral researchers interested in applying for independent research fellowships to be hosted in Durham. For example the [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/) and the [Marie Skłodowska-Curie Postoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
+
 Interested applicants should contact [Alex Guttridge](mailto:alexander.guttridge@durham.ac.uk).
 
 ---
