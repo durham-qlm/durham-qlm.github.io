@@ -42,8 +42,7 @@ By assigning specialised roles to each species—such as data qubits, ancillas, 
 - **[DualQD: Dual-species tweezer arrays for next-generation quantum devices](/research/tech/dualqd.md)**  
   Developing a two-species optical tweezer platform to build programmable quantum systems atom by atom.  
   
-- [Enhancing molecular control using Rydberg atoms and Quantum-enhanced sensing with atoms and molecules](https://www.cornishlabs.uk/tweezers)
-  Collaboration with Prof. Simon Cornish using the ultracold molecules in optical tweezer platform. Current projects are: exploring how to use Rydberg atoms to enhance the control of ultracold polar molecule in optical tweezers and developing the "generation after next" quantum sensor arrays using atoms and molecules in optical tweezers.
+- [Enhancing molecular control using Rydberg atoms Quantum-enhanced sensing with atoms and molecules](https://www.cornishlabs.uk/tweezers) (Collaboration with Prof. Simon Cornish using the ultracold molecules in optical tweezer platform). Current projects are: exploring how to use Rydberg atoms to enhance the control of ultracold polar molecule in optical tweezers and developing "generation after next" quantum sensor arrays using atoms and molecules in optical tweezers.
 
 ---
 
