@@ -6,9 +6,38 @@ subtitle:
 
 ![Dr Alex Guttridge](/members/current/guttridge/Alex_headshot_s.jpg)
 
-### Dr Alex Guttridge  
-**Royal Society University Research Fellow**  
-[alexander.guttridge@durham.ac.uk](mailto:alexander.guttridge@durham.ac.uk)  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<style>
+  .staff-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  .staff-card h3 {
+    margin-top: 0;
+  }
+  .staff-card p {
+    margin-bottom: 10px;
+  }
+  .staff-links a {
+    margin-right: 15px;
+    font-size: 1.5em; /* Make icons bigger */
+    color: #333;
+  }
+</style>
+
+<div class="staff-card">
+  <h3>Dr Alex Guttridge</h3>
+  <p><strong>Royal Society University Research Fellow</strong></p>
+  <div class="staff-links">
+    <a href="mailto:alexander.guttridge@durham.ac.uk" title="Email"><i class="fas fa-envelope"></i></a>
+    <a href="https://www.durham.ac.uk/staff/alexander-guttridge/" title="Staff Page"><i class="fas fa-university"></i></a>
+    <a href="https://orcid.org/0000-0001-9886-5739" title="ORCID Profile"><i class="fab fa-orcid"></i></a>
+  </div>
+</div>
 
 ---
 
