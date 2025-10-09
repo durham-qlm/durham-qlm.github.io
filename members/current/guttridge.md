@@ -43,7 +43,7 @@ In my group, we aim to exploit advanced quantum engineering techniques to explor
 
 ## Current Projects
 
-- **[DualQD: Dual-species tweezer arrays for next-generation quantum devices](/research/tech/dualqd.md)**
+- **[DualQD: Dual-species tweezer arrays for next-generation quantum devices](/research/tech/dualqd)**
 
     Developing a two-species optical tweezer platform to build programmable quantum systems atom by atom.
   
@@ -59,7 +59,7 @@ Beyond my group’s core research, I contribute to a range of national and inter
 
 We are always looking for motivated students and researchers interested in experimental quantum science. 
 
-**We are currently recruiting for my DualQD project**. Interested students please see [here](/join/phdrecruit.md) for our current opportunities.
+**We are currently recruiting for my DualQD project**. Interested students please see [here](/join/phdrecruit) for our current opportunities.
 
 We also welcome approaches from postdoctoral researchers interested in applying for independent research fellowships to be hosted in Durham. For example the [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/) and the [Marie Skłodowska-Curie Postoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
