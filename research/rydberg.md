@@ -11,3 +11,4 @@ Within QLM, multiple groups utilise the versatility of Rydberg systems. Our rese
 - [Rydberg Photonics](/research/rydberg/photonics)
 - [THz Imaging](https://durham-qlm.uk/research/tech/terahertz/)
 - [atoms and molecules in tweezers](https://www.cornishlabs.uk/tweezers)
+- [Dual-species Rydberg Systems](/research/tech/dualqd)
