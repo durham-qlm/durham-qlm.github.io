@@ -84,7 +84,7 @@
   link:
     url: https://doi.org/10.1103/PhysRevResearch.4.043072
     display: _Phys. Rev. Research_ **4**, 043072 (2022)
-  highlight: 1
+  highlight: 0
   lab: csyb
 
 - title: "Feshbach spectroscopy of Cs atom pairs in optical tweezers"
@@ -169,3 +169,12 @@
     url: https://doi.org/10.1063/1.4945795
     display: _Rev. Sci. Instrum._ **87**, 043109 (2016)
   lab: csyb
+
+- title: "Photoassociation of Ultracold CsYb Molecules and Determination of Interspecies Scattering Lengths"
+  authors: A. Guttridge
+  link:
+    url: https://link.springer.com/book/10.1007/978-3-030-21201-8
+    display: _Springer, Cham_ (2019)
+  lab: csyb
+  highlight: 1
+  description: PhD thesis describing the first realisation of ultracold mixtures of Cs and Yb atoms and measurement of their interactions.
