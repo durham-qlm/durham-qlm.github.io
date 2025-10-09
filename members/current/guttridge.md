@@ -4,7 +4,7 @@ title: QLM member
 subtitle:
 ---
 
-![Dr Alex Guttridge](/members/current/guttridge/Alex_headshot.jpg)
+![Dr Alex Guttridge](/members/current/guttridge/Alex_headshot_s.jpg)
 
 ### Dr Alex Guttridge  
 **Royal Society University Research Fellow**  
@@ -23,12 +23,14 @@ This dual-species approach gives us a versatile new toolbox for investigating th
 Beyond my group’s core research, I contribute to a range of national and international collaborations using individually controlled atoms and molecules for quantum science. I lead an [international collaboration with the University of Waterloo](https://www.durham.ac.uk/news-events/latest-news/2025/01/grant-award-enables-durham-physicists-to-lead-international-quantum-projects-/) focused on quantum sensing, and I am a co-investigator on the EPSRC Programme grant *Quantum many-body physics with ultracold polar molecules* and the project *Enhancing molecular control using Rydberg atoms*.
 
 Outside of research, I co-organise [Quantum on the Clock](https://www.iop.org/physics-community/special-interest-groups/qqq-group/quantum-clock), a UK-wide video competition designed to inspire 16-18 year olds to pursue physics degrees and consider careers in quantum science. Outside of work, I enjoy playing a variety of sports like football, table tennis, and volleyball—though with varying levels of competitiveness!
+
 ---
 
 ## Research Vision
 
 In my group, we aim to exploit advanced quantum engineering techniques to explore new frontiers in fundamental science and quantum technology. Our approach combines two distinct atomic species in dual-species optical tweezer arrays.
 By assigning specialised roles to each species—such as data qubits, ancillas, or sensors—we can realise simplified yet scalable architectures for quantum computing, sensing, and simulation.This strategy allows us to achieve precise control of delicate quantum states while maintaining the flexibility needed to tackle the next generation of challenges in quantum science.
+
 ---
 
 ## Current Projects
@@ -52,7 +54,17 @@ Interested applicants should contact [Alex Guttridge](mailto:alexander.guttridge
 
 ## Selected Publications
 
-To be added
+{% assign featured = site.data.guttridge_publist | where: "highlight", 1 %}
+{% assign paper_counter = featured.size %}
+
+{% for publi in featured %}
+**[{{ paper_counter }}] {{ publi.title }}**  
+*{{ publi.authors }}*  
+<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>  
+{{ publi.description }}  
+<br><br>
+{% assign paper_counter = paper_counter | minus: 1 %}
+{% endfor %}
 
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=eoAbbbIAAAAJ&hl=en)
 
