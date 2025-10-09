@@ -4,13 +4,15 @@ title: QLM member
 subtitle:
 ---
 
-![Dr Alex Guttridge](/members/current/guttridge/Alex_headshot_s.jpg)
+### Dr. Alex Guttridge (he/him)  
 
-### Dr Alex Guttridge  
 
-**Royal Society University Research Fellow**  
+<p style="text-align: center;">
+  <img src="/members/current/guttridge/Alex_headshot_s.jpg" alt="Dr Alex Guttridge" width="250" />
+</p>
 
 [Email](mailto:alexander.guttridge@durham.ac.uk) | [Staff Page](https://www.durham.ac.uk/staff/alexander-guttridge/) | [Google Scholar](https://scholar.google.com/citations?user=eoAbbbIAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0001-9886-5739)
+
 
 ---
 
@@ -37,22 +39,23 @@ By assigning specialised roles to each species—such as data qubits, ancillas, 
 
 ## Current Projects
 
-- **[DualQD: Dual-species tweezer arrays for next-generation quantum devices](/projects/current/dualqd.html)**  
+- **[DualQD: Dual-species tweezer arrays for next-generation quantum devices](/research/tech/dualqd.md)**  
   Developing a two-species optical tweezer platform to build programmable quantum systems atom by atom.  
   
-- *Enhancing molecular control using Rydberg atoms*  
-  EPSRC-funded collaboration to integrate Rydberg physics with ultracold molecule control.  
+- [Enhancing molecular control using Rydberg atoms and Quantum-enhanced sensing with atoms and molecules](https://www.cornishlabs.uk/tweezers)
+  Collaboration with Prof. Simon Cornish using the ultracold molecules in optical tweezer platform. Current projects are: exploring how to use Rydberg atoms to enhance the control of ultracold polar molecule in optical tweezers and developing the "generation after next" quantum sensor arrays using atoms and molecules in optical tweezers.
 
 ---
 
 ## Opportunities
 
-We are always looking for motivated students and researchers interested in experimental quantum science.  
-Interested students see [here](/join/phdrecruit.md) for our current opportunities.
+We are always looking for motivated students and researchers interested in experimental quantum science. 
+
+**We are currently recruiting for my DualQD project**. Interested students please see [here](/join/phdrecruit.md) for our current opportunities.
 
 We also welcome approaches from postdoctoral researchers interested in applying for independent research fellowships to be hosted in Durham. For example the [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/) and the [Marie Skłodowska-Curie Postoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
-Interested applicants should contact [Alex Guttridge](mailto:alexander.guttridge@durham.ac.uk).
+Interested applicants should contact [Dr. Alex Guttridge](mailto:alexander.guttridge@durham.ac.uk).
 
 ---
 
