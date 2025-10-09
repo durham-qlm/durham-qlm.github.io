@@ -4,7 +4,7 @@ title: "DualQD: Dual-species tweezer arrays for next-generation quantum devices"
 subtitle: "Optical tweezer arrays of Cs and Yb atoms"
 ---
 
-![DualQD Project](/DualQD/DualQD_2.png)
+![DualQD Project](reseaarch/tech/DualQD/DualQD_2.png)
 
 ## Overview
 
