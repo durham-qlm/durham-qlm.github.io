@@ -10,7 +10,7 @@ Michaelmas Term
 
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
-|10/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Michael Holynski">Title TBA</a>|Mike Holynski |University of Birmingham |
+|10/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Michael Holynski">Quantum sensing, imaging and timing</a>|Mike Holynski |University of Birmingham |
 |15/10/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Michaelmas/Luca Donini"> Frustrated physics in triangular and kagome optical lattices at negative absolute temperature </a>|Luca Donini |University of Cambridge |
 |22/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Tobias Franzen"> Title TBA </a>|Tobias Franzen |Durham University, QLM |
 |29/10/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Yansheng Zhang"> Title TBA </a>|Yansheng Zhang |University of Cambridge|
