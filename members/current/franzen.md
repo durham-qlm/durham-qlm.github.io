@@ -13,9 +13,9 @@ I am an EPSRC Quantum Technologies Career acceleration fellow currently focusing
 
 <table>
 <tr><td>
-<a href = "/research/quantum-tech/quantum-networking"> <img src="/research/quantum-tech/quantum-networking/networking.png" alt="Quantum networking"/></a>
+<a href = "/research/tech/quantum-networking"> <img src="/research/tech/quantum-networking/networking.png" alt="Quantum networking"/></a>
 </td><td>
-<a href = "/research/quantum-tech/quantum-networking">Telecom-wavelength quantum networking between arrays of Yb atoms </a> <br/></td></tr><tr>
+<a href = "/research/tech/quantum-networking">Telecom-wavelength quantum networking between arrays of Yb atoms </a> <br/></td></tr><tr>
 <td><img src="/research/coldmol/csyb/img/Yb_MOT.jpg" alt="CsYb" width=200/></td><td><a href="https://www.cornishlabs.uk/csyb"> CsYb: mixtures and molecules</a> <br/> with Simon Cornish</td></tr>
 </table>
 
