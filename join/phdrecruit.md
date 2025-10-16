@@ -14,11 +14,20 @@ including permanent staff, research fellows, research associates and PhD student
 Each graduate cohort receives training in skills required to excel in the program. This includes lecture courses in atom-light interactions and advanced data analysis, 
 and experimental skills workshops on CAD design and optics. Students and postdoctoral researchers are all given a desk in the shared office enabling easy sharing of ideas and problem solving. <br>
 
-Each week begins with our group meeting, when each team member is given the opportunity to share updates from their project. During term time we host weekly seminars from 
+Each week begins with our group meeting, when each team member is given the opportunity to share updates from their project. During term time we host weekly <a href="https://durham-qlm.uk/seminars/">seminars</a> from 
 external speakers. These is also the opportunity to travel and attend international conferences and meet researchers from around the world. These are just some of the 
 opportunities and benefits available to members of the group. <br>
 
-We have a selection of PhD projects available for an October 2025 start (listed below). In addition we support the application to <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">scholarships</a>. Futher information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>.<br>
+There are different mechanisms for funding a PhD, most common are:<br>
+<b>Funded</b> (the source of funding is already attached to the project).<br>
+<b>Competition funded</b> (the project is in competition for funding with other projects).<br>
+<b>External scholarships</b> (the student is in competition for funding, a list of scholarships can be found <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">here</a>).<br>
+
+If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>. It is also possible to self-fund, please discuss this option directly with the supervisor.<br>
+
+We have a selection of PhD projects available for an October 2026 start (listed below). If you are interested in any of these projects please contact the relevant supervisor directly, and register <a href="https://forms.office.com/e/QME9a3m98W">here</a> to attend our open day on <b>November 26th</b> (11am-4pm). Registration deadline 21st November.<br>
+
+
 
 <h2><a id="proj">Available Projects</a></h2>
 
@@ -41,31 +50,6 @@ We have a selection of PhD projects available for an October 2025 start (listed 
 </table>
 
 
-<!-- 
-<h2><a id="proj">Previous Projects</a></h2>
-
-<table>
-<tr><td> <a href="https://durham-qlm.uk/research/coldmol/cafcool/"> Laser cooling molecules for quantum simulation.</a>
-</td></tr>
-  <tr><td>
-    	<a href="https://www.cornishlabs.uk/rbcs">Simulating quantum magnetism and synthetic dimensions using ultracold molecules in magic traps.</a>
-    </td></tr>
-    <tr><td>
-	<a href="https://www.cornishlabs.uk/microscope">Many-body physics of polar molecules in a quantum gas microscope.</a>
-    </td></tr>
-    <tr><td>
-    	<a href="https://www.cornishlabs.uk/tweezers">Quantum computation using ultracold molecules and Rydberg atoms in optical tweezers.</a>
-    </td></tr>
-    <tr><td>
-    	<a href="https://durham-qlm.uk/research/rydberg/excitons/">Quantum Networks with Rydberg excitons.</a>
-    </td></tr>
-	<tr><td><a href="https://www.cornishlabs.uk/csyb">Quantum degenerate mixtures of Cs and Yb: quantum droplets and polar molecules.</a>
-</td></tr>
-	<tr><td>Ultracold mixtures of caesium and silver for the association of very dipolar molecules.
-</td></tr>
-</table>
--->
-
 We hope that you will join us and become a part of the QLM!<br>
 
 
@@ -75,12 +59,12 @@ We hope that you will join us and become a part of the QLM!<br>
   <td>
 	<br>
       	<h5><a id="DualQD">DualQD: Dual-species tweezer arrays for next-generation quantum devices</a></h5><br>
- In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.
-    <br><br>
-    This dual-species approach is combined with a flexible trapping architecture, combining individually controlled atoms with mesoscopic ensembles—collections of many atoms confined within a single trap. By harnessing collective quantum effects, these ensembles 
-enable improved detection methods and novel quantum cooling techniques. You will explore techniques to generate useful entanglement in this system investigating both short-range collisional interactions and long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics.
-    <br><br>
-    This 4-year project is funded by The Royal Society. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications. They will have the opportunity to engage with the Institute for Quantum Computing at the University of Waterloo as part of our <a href="https://www.durham.ac.uk/news-events/latest-news/2025/01/grant-award-enables-durham-physicists-to-lead-international-quantum-projects-/">UK-Canada quantum research collaboration</a>.
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" align = "right"/>
+	   
+ In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.<br>
+ 
+You will explore techniques to generate useful entanglement in this system investigating long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics. <br>
+The project is supported by the supervisor’s Royal Society University Research Fellowship. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications. "
     <br><br>
     For further details about the position please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
     <br><br>
@@ -88,12 +72,7 @@ enable improved detection methods and novel quantum cooling techniques. You will
    </td>
 
    <td align="center">
-    <figure>
-      <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" />
-	    <center>
-      <figcaption>Dual-species arrays as a platform for both quantum computing and quantum sensing.</figcaption>
-	    </center>
-    </figure>
+   
   </td>
 </tr>
 
