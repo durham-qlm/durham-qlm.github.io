@@ -59,7 +59,7 @@ We hope that you will join us and become a part of the QLM!<br>
   <td>
 	<br>
       	<h5><a id="DualQD">DualQD: Dual-species tweezer arrays for next-generation quantum devices</a></h5><br>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" width="100" align = "right"/>
 	   
  In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.<br>
  
@@ -72,7 +72,7 @@ The project is supported by the supervisor’s Royal Society University Research
    </td>
 
 </tr>
-<\table>
+</table>
 
 <table border=0>
 <tr>
