@@ -71,11 +71,10 @@ The project is supported by the supervisor’s Royal Society University Research
     <a href="#proj">Back to table</a>
    </td>
 
-   <td align="center">
-   
-  </td>
 </tr>
+<\table>
 
+<table border=0>
 <tr>
   <td>
 	<br>
