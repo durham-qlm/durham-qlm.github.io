@@ -1,31 +1,29 @@
 ---
 layout: page
-title: PhD opportunities
-subtitle: How to apply for a PhD
+title: Applying for a PhD
+subtitle: Procedure and FAQs
 ---
-## PhD opportunities
- 
-A PhD in physics provides you with problem solving and analytical skills which can be applied to a range of careers. A PhD from the QLM group will provide you with expert training in AMO and quantum physics.
- 
-We recruit yearly for PhD students to join our group, research places are available across the experimental and theory teams. For further information contact team leaders or <a href="mailto:k.j.weatherill@durham.ac.uk"> Prof. Kevin Weatherill</a> (PG Admissions Tutor - QLM).
 
-
- 
 ## How to apply:
               
-1. Contact team leader to express interest and organise informal discussion/lab visit.
-2. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )
+1. Contact a project lead - projects are listed <a href="https://durham-qlm.uk/join/phdrecruit/">here</a>.
+2. Register to attend the Open Day on <b>November 26th</b> <a href="https://forms.office.com/e/QME9a3m98W">here</a>.
+3. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )
              
 ## FAQs
 
-### Can I visit in advance of applying?
-Visits (virtual or in person) to the group are encouraged for all potential PhD students to meet supervisors, other students and visit labs. By contacting a team leader you will be given the opportunity to learn about all projects on offer.
+### What is the application deadline?
+Different funding streams have different deadlines. In order to be considered for <b>all studentships please apply by December 15th</b>.
+### What if I can't make the Open Day?
+Visits (virtual or in person) to the group are strongly encouraged for all potential PhD students to meet supervisors, other students and visit labs. If you are unable to attend the open day please contact the supervisor.
 ### When can I expect to hear about a successful application?
 This is highly dependent on the funding scheme and when the application is received. Generally offers are not made until after February.
 ### Do I need to write a research proposal?
 You are not expected to propose your own research topic. The proposal should be written based on discussion with potential supervisor.
 ### Do I need to identify a supervisor?
 Whilst not necessary, it is advisable to make contact with a potential supervisor before submitting your application.
-
 ### What funding scheme do I select?
-This depends on your situation, all students are eligibile to DTP studentships (although the number of places available for overseas candidates is limited). Various scholarship schemes are available for both home, and overseas candidates. These may have strict (early) deadlines so if you are interested in one of these schemes then discuss the options available with potential supervisor.
+Please check with the supervisor as this is project specific.
+### 
+### Further queries
+Please contact <a href="mailto:hannah.williams4@durham.ac.uk"> Dr. Hannah Williams</a> (PG Admissions Tutor - QLM).
