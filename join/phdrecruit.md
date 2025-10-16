@@ -7,7 +7,10 @@ subtitle: Opportunities to join as graduate students
 <img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDs2024.jpg" alt="PhD students October 2024" align = "centre"
   />
  _Current PhD students in the QLM group_<br>
-  
+
+<h2>Page under construction!</h2>
+
+  <br>
 When you join Durham Quantum Light and Matter (QLM) as a PhD or Master by research student, you’ll become a member of a friendly research section home to almost 50 members, 
 including permanent staff, research fellows, research associates and PhD students. <br>
 
@@ -64,7 +67,7 @@ We hope that you will join us and become a part of the QLM!<br>
  In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.<br>
  
 You will explore techniques to generate useful entanglement in this system investigating long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics. <br>
-The project is supported by the supervisor’s Royal Society University Research Fellowship. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications. "
+The project is supported by the supervisor’s Royal Society University Research Fellowship. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications.
     <br><br>
     For further details about the position please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
     <br><br>
