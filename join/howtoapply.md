@@ -11,7 +11,8 @@ subtitle: Procedure and FAQs
 3. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )
              
 ## FAQs
-
+### Can I get paid to do a PhD?
+Yes! The vast majority of our students receive funding to complete their studies. This means your fees to the university are covered and you will receive a tax-free yearly stipend of £20,780. You will also have the opportunity to earn more via teaching.
 ### What is the application deadline?
 Different funding streams have different deadlines. In order to be considered for <b>all studentships please apply by December 15th</b>.
 ### What if I can't make the Open Day?
