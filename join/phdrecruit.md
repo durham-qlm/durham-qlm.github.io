@@ -40,6 +40,9 @@ If you join a project through any of these routes your university fees will be c
 	<a href="#CsYb">Atomic clocks, optical lattices and ultracold molecules</a>
 </td></tr>
 <tr> <td>
+	<a href="#MolBEC">Bose-Einstein condensation of polar molecules</a>
+</td></tr>
+<tr> <td>
 	<a href="#Light">Visualizing strongly-focused 3D light fields in an atomic vapour.</a>
 </td></tr>
 	<tr> <td>
@@ -161,6 +164,22 @@ This studentship is generously funded by a donation from Durham University alumn
 Ultracold polar molecules offer a wide range of exciting research directions spanning ultracold chemistry, precision measurement, quantum simulation and quantum computation. Numerous applications stem from the long-range dipolar interactions and rich internal structure of vibration and rotation. Enormous progress has been made in assembling pairs of alkali atoms to form bialkali molecules – including by our group in Durham using Rb and Cs. However, there is a need to diversify the range of molecules available. In this project you will use an existing and unique state-of-the-art experiment to form CsYb molecules. By combining an alkali atom (Cs) with closed-shell atom (Yb) you will form a molecule that has both an electric dipole moment and a magnetic dipole moment. Your strategy will be to utilize the metastable clock states in Yb where our theoretical work predicts relatively broad collision resonances with Cs that can be used to form molecules. You will also use a magic wavelength optical lattice and learn how to prepare Cs-Yb atom pairs in this lattice. Converting the atom pairs into molecules will realise a new and exciting platform for quantum simulation of many-body physics.
 	  <br><br>
 Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb">here</a>.
+    <br><br>
+    For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk"> Prof. Simon Cornish</a>.
+    <br><br>
+    <a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="MolBEC">Bose-Einstein condensation of polar molecules</a></h5><br>
+	  	<h6>Funded (UK only)</h6>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/BEC.jpg" width="350" align = "right"/>
+Bose-Einstein condensates of ultracold polar molecules have very recently emerged as an exciting new form of quantum matter characterized by strong dipolar interactions. This opens up many possibilities for studying novel quantum fluids and for preparing defect free arrays of molecules in optical lattices. In this project, you will join a team of researchers building a new state-of-the-art experimental apparatus to produce and study molecular Bose-Einstein condensates. The apparatus will incorporate a high-resolution imaging system capable of detecting single molecules and single sites of an optical lattice, placing it at the forefront of an exciting field. You will be trained in the state-of-the-art experimental techniques in laser-cooling, optical trapping of ultracold gases, formation of molecules and modern quantum physics – skills that are highly transferable. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
+	  <br><br>
+Details about this new project can be found <a href="https://www.cornishlabs.uk/molecularbec">here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk"> Prof. Simon Cornish</a>.
     <br><br>
