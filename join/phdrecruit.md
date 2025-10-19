@@ -250,7 +250,7 @@ Arrays of single atoms trapped in optical tweezers and lattices offer exciting p
 	  <br><br>
 In this experimental project you will work on implementing this architecture in our existing CsYb apparatus, a first in the UK. By trapping single atoms in optical lattices at a magic wavelength you will form large arrays of qubits with second-scale coherence times, rearrange them at will using optical tweezers, and explore the possibilities of the omg-architecture.
 	  <br><br>
-For details on the existing Cs-Yb apparatus, see: <a="https://www.cornishlabs.uk/csyb">https://www.cornishlabs.uk/csyb</a>. 
+Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb">here</a>. 
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a>.
     <br><br>
