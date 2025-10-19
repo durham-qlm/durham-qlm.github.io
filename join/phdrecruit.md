@@ -245,7 +245,7 @@ Find out more about this project <a="https://durham-qlm.uk/research/coldmol/cafc
 	<br>
       	<h5><a id="Omg">Omg – Yb qubit arrays</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/YbMOT.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/YbMOT.jpg" width="350" align = "right"/>
 Arrays of single atoms trapped in optical tweezers and lattices offer exciting possibilities for quantum computing and quantum simulation. While currently most experiments choose alkali atoms for their relatively simple structure, it has emerged that species with more complicated structures are beneficial for many applications – an approach we are already pursuing with great success in our experiment with molecules. Ytterbium atoms feature a so-called omg (optical, metastable, ground state) architecture with three different possible qubit encodings – offering additional structure at greatly reduced experimental complexity compared to molecules. Combinations of these encodings can solve many challenges in neutral atom quantum computing, like the separation between storage and computation qubits and mid-circuit readout, which is essential for many error correction schemes.
 	  <br><br>
 In this experimental project you will work on implementing this architecture in our existing CsYb apparatus, a first in the UK. By trapping single atoms in optical lattices at a magic wavelength you will form large arrays of qubits with second-scale coherence times, rearrange them at will using optical tweezers, and explore the possibilities of the omg-architecture.
@@ -263,7 +263,7 @@ For details on the existing Cs-Yb apparatus, see: <a="https://www.cornishlabs.uk
 	<br>
       	<h5><a id="RbCsTw">Quantum computing with atoms and molecules in optical tweezers</a></h5><br>
 	  	<h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" width="350" align = "right"/>
 Neutral atoms and molecules prepared in optical tweezers offer many exciting opportunities for quantum computing and quantum simulation. Most experiments work with either atoms or molecules. However, in this project, you will utilise both species to develop a new hybrid approach to quantum computing. Using an established world-leading optical tweezer apparatus, you will construct an array of strongly interacting molecules and Rydberg atoms. You will learn how to engineer strong dipole-dipole interactions between individual atoms and molecules and then harness this interaction to address two of the key challenges in the field of ultracold molecules: (1) to perform non-destructive detection and state sensitive readout of the molecule, and (2) to realise fast high-fidelity entangling operations between molecules. These techniques will unlock the many advantages of molecules for quantum science and technology stemming from their rich internal structure.
 	<br><br>
 For further details about the existing tweezer apparatus, see: <a="https://www.cornishlabs.uk/tweezers">https://www.cornishlabs.uk/tweezers</a>. 
