@@ -157,7 +157,7 @@ This studentship is generously funded by a donation from Durham University alumn
 	<br>
       	<h5><a id="CsYb">Atomic clocks, optical lattices and ultracold molecules</a></h5><br>
 	  	<h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb_glass_cell_oct_2023.jpg" width="350" align = "right"/>
 Ultracold polar molecules offer a wide range of exciting research directions spanning ultracold chemistry, precision measurement, quantum simulation and quantum computation. Numerous applications stem from the long-range dipolar interactions and rich internal structure of vibration and rotation. Enormous progress has been made in assembling pairs of alkali atoms to form bialkali molecules – including by our group in Durham using Rb and Cs. However, there is a need to diversify the range of molecules available. In this project you will use an existing and unique state-of-the-art experiment to form CsYb molecules. By combining an alkali atom (Cs) with closed-shell atom (Yb) you will form a molecule that has both an electric dipole moment and a magnetic dipole moment. Your strategy will be to utilize the metastable clock states in Yb where our theoretical work predicts relatively broad collision resonances with Cs that can be used to form molecules. You will also use a magic wavelength optical lattice and learn how to prepare Cs-Yb atom pairs in this lattice. Converting the atom pairs into molecules will realise a new and exciting platform for quantum simulation of many-body physics.
 	  <br><br>
 Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb">here</a>.
