@@ -279,7 +279,7 @@ Details about the existing tweezer apparatus can be found <a href="https://www.c
 	<br>
       	<h5><a id="Weather">Advanced space weather forecasting through atomic line filter development</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Weather.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Weather.jpeg" width="350" align = "right"/>
 Adverse solar weather presents a major threat to critical infrastructure and the global economy. Mitigating this risk requires advanced space weather forecasts, which depends on accurately measuring the magnetic field strength within the solar atmosphere.
 	<br><br>
 The Quantum Light and Matter Group at Durham University is a founding member of the SAMNET program, which is designed to provide real-time forecasting capabilities through a global network of solar telescopes. These telescopes are equipped with magneto-optical filters. The filters use a thermal atomic vapour (currently potassium) to measure solar magnetic fields. The next generation of these solar telescopes will exploit the properties of thermal vapours of other atomic species, which require further study and modelling. 
