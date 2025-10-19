@@ -229,7 +229,7 @@ For further details about the existing tweezer apparatus click <a href="https://
 	<br>
       	<h5><a id="CaF">Optical arrays of CaF molecules for quantum simulation</a></h5><br>
 	  	<h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.jpg" width="350" align = "right"/>
 Cold, controlled molecules promise to provide a versatile platform for investigating quantum phenomena. In this project you will be joining an experimental team working on laser cooling calcium monofluoride molecules. The aim of the PhD will be to demonstrate interactions between individually trapped molecules. This is a highly experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology. 
 	<br><br>
 Find out more about this project <a href="https://durham-qlm.uk/research/coldmol/cafcool/molecules">here</a>.
