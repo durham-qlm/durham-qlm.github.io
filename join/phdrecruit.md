@@ -126,7 +126,7 @@ For further details about the project can be found <a href="https://durham-qlm.u
 	<br>
       	<h5><a id="MLforBEC">Machine learning techniques for improved experimental workflows in atomtronics</a></h5><br>
 	  	<h6>Competition Funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/MLforBEC.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/MLforBEC.pdf" width="350" align = "right"/>
 	Bose-Einstein condensates (BECs) play a key role in emerging quantum technologies because they display quantum behaviour on a macroscopic scale. Realising their full potential in applications depends on the precise characterisation of their initial state, including their temperature and chemical potential. This presents a major challenge, as conventional measurement techniques are inherently destructive.<br><br>
 	  
 We have recently developed a machine learning (ML) approach that could help overcomes this limitation, enabling rapid and non-destructive estimation of these key BEC properties. Our work suggest that machine learning can help to overcome these limitations in ultra-cold atom thermometry. This project involves developing these computational methods further which may lead to integration into experimental workflows. You will be trained in techniques that will enhance measurement precision and directly support the development of next-generation quantum devices, such as atom interferometers and other atomtronic applications. 
@@ -192,7 +192,7 @@ Details about this new project can be found <a href="https://www.cornishlabs.uk/
 	<br>
       	<h5><a id="Light">Visualizing strongly-focused 3D light fields in an atomic vapour</a></h5><br>
 	  	<h6>Competition Funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Light.png" width="350" align = "right"/>
 Strongly focused structured light generates highly confined vectorial electromagnetic field distributions, which may feature a polarization component along the optical axis. Despite statements found in some optics textbooks that light is a transverse wave, the real picture is more complicated. Axial components exist but manipulating and detecting such 3D light fields is challenging. Vector light can, however, be mapped onto atomic polarizations, making electric dipole transitions an ideal candidate to sense such 3D light configurations.
 	  <br><br>
 In this project you will join a team that is internationally leading on experiments in the field of spectroscopy of atomic vapours. The project is in collaboration with Glasgow University that provide world-leading expertise on shaped and structured light.
@@ -210,13 +210,13 @@ You will be trained in the state-of-the-art techniques of atomic and quantum phy
 	<br>
       	<h5><a id="Pasqal">Next generation optical tweezers</a></h5><br>
 	  	<h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" width="350" align = "right"/>
 Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. 
 	  <br><br>
 The use of two atomic species, rather than the single species employed in most experiments, enables independent control and crosstalk-free measurement of the two species, facilitating the mid-circuit qubit operations needed for quantum error correction. Additionally, the setup can also be used to create arrays of RbCs molecules. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics for these different systems.
 	  <br><br>
 This 4-year project is partly funded by Pasqal a world-leading neutral-atom quantum computing company based in France. As part of this project you will have the opportunity to spend time in their Paris labs. <br><br>
-For further details about the existing tweezer apparatus click <a="https://www.cornishlabs.uk/tweezers">here</a>.	   
+For further details about the existing tweezer apparatus click <a href="https://www.cornishlabs.uk/tweezers">here</a>.	   
     <br><br>
     For further details about the position please contact <a href="mailto:hannah.williams4@durham.ac.uk"> Dr. Hannah Williams</a>.
     <br><br>
@@ -229,10 +229,10 @@ For further details about the existing tweezer apparatus click <a="https://www.c
 	<br>
       	<h5><a id="CaF">Optical arrays of CaF molecules for quantum simulation</a></h5><br>
 	  	<h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.png" width="350" align = "right"/>
 Cold, controlled molecules promise to provide a versatile platform for investigating quantum phenomena. In this project you will be joining an experimental team working on laser cooling calcium monofluoride molecules. The aim of the PhD will be to demonstrate interactions between individually trapped molecules. This is a highly experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology. 
 	<br><br>
-Find out more about this project <a="https://durham-qlm.uk/research/coldmol/cafcool/molecules">here</a>.
+Find out more about this project <a href="https://durham-qlm.uk/research/coldmol/cafcool/molecules">here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
     <br><br>
@@ -279,7 +279,7 @@ Details about the existing tweezer apparatus can be found <a href="https://www.c
 	<br>
       	<h5><a id="Weather">Advanced space weather forecasting through atomic line filter development</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Weather.png" width="350" align = "right"/>
 Adverse solar weather presents a major threat to critical infrastructure and the global economy. Mitigating this risk requires advanced space weather forecasts, which depends on accurately measuring the magnetic field strength within the solar atmosphere.
 	<br><br>
 The Quantum Light and Matter Group at Durham University is a founding member of the SAMNET program, which is designed to provide real-time forecasting capabilities through a global network of solar telescopes. These telescopes are equipped with magneto-optical filters. The filters use a thermal atomic vapour (currently potassium) to measure solar magnetic fields. The next generation of these solar telescopes will exploit the properties of thermal vapours of other atomic species, which require further study and modelling. 
@@ -297,7 +297,7 @@ This project will build on our Group’s extensive work on modelling atom-light 
 	<br>
       	<h5><a id="LatTw">A hybrid lattice-tweezer approach to quantum computing</a></h5><br>
 	  	<h6>Competition funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/LatTw.png" width="350" align = "right"/>
 Optical tweezer arrays are quickly being established as a powerful platform for quantum computing and simulation due to the high levels of control they offer. Optical lattices promise to enable larger connectivity and increased evolution speed due to the close spacing of the lattice sites. In this project we are building a new experiment combining optical tweezers with lattices to explore a hybridized digital-analog approach to quantum computing. In this project you will learn technical skills in vacuum and laser systems as well as control software, data analysis and atomic physics theory.
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk"> Prof. Simon Cornish</a>.
@@ -311,7 +311,7 @@ Optical tweezer arrays are quickly being established as a powerful platform for 
 	<br>
       	<h5><a id="Cup">Optical interface for superconducting qubits via Rydberg excitons</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Cup.png" width="350" align = "right"/>
 Superconducting qubits are a leading platform for quantum information processing (QIP), with commercial players such as IBM and Google reaching > 1000 qubits. However there is currently no viable technology for the long-distance networking of superconducting quantum computers.
 	<br><br>
 At Durham (together with Cardiff University) we are pioneering a new approach based on Rydberg excitons – highly excited states of electron-hole pairs in a bulk semiconductor. These Rydberg excitons couple strongly to microwave and optical signals, which can be sent down an optical fibre to form a network. We have already demonstrated microwave-optical conversion at 4K [Gallagher et al., Phys. Rev. Res. 4, 013031 (2022)], and the highest microwave-optical nonlinearity of any material [Pritchett et al., APL Photonics 9, 031303 (2024)]. In this project you will extend these techniques to couple Rydberg excitons to superconducting quantum circuits. You will explore their integration with optical fibres and waveguides, and optimize the conversion process to approach the quantum regime required for future networks. 
@@ -377,75 +377,5 @@ Ultracold polar molecules have many applications, in particular for quantum simu
 </tr>
 
 
-
-</table>
-
-<table border=0>
-<tr>
-  <td>
-	<br>
-      	<h5><a id="spindynamics">Quantum spin dynamics with ultracold polar molecules</a></h5><br>
-Understanding quantum systems of many interacting particles is one of the greatest challenges in modern physics. In this project, you will study an artificial quantum system constructed by loading ultracold RbCs molecules into an optical lattice. Dipolar interactions can be precisely engineered between the molecules generating quantum entanglement and coherent many-body states, and the resulting dynamics observed using a quantum gas microscope that enables the detection of the position and state of individual molecules in the array. <br><br> 
-
-As part of our team, you will join our established RbCs quantum gas microscope experiment. This project will extend our current capabilities by implementing a rotationally-magic trap for the molecules that enables highly coherent spins to be encoded into the rotational states of the molecules. You will study of a range of tunable spin models in experiments, and have opportunities to collaborate with world-renowned local and international theory partners. <br><br>
-
-For further details about the RbCs quantum gas microscope experiment <a href="https://www.cornishlabs.uk/microscope">click here</a>, or for further information contact  <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://durham-qlm.uk/members/current/gregory/">Dr. Philip Gregory</a>. <br><br>
-
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RbCsQGM_pretty_picture.png" alt="Single Cs atoms detected in our quantum gas microscope" />
-</td>
-  </tr>
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="molryd">Enhancing molecular control using Rydberg atoms </a></h5><br>
-We have pioneered a new approach to forming ultracold RbCs molecules. We take single atoms of Rb and Cs confined in separate optical tweezers, cool them to motional ground state of their respective traps and then carefully combine them to form a molecule in the rovibrational ground state. In this project you will construct an array of strongly interacting ultracold molecules and Rydberg atoms confined in optical tweezers. You will learn how to engineer resonant dipole-dipole interactions between individual atoms and molecules by tuning the energy difference between a pair of Rydberg levels to match the spacing of a rotational transition in the molecule. You will then harness this interaction to address two of the key challenges in the field of ultracold molecules: (1) to perform non-destructive detection and state sensitive readout of the molecule, and (2) to realise fast high-fidelity entangling operations between molecules. <br><br>
-
-This project is supported by a new UKRI research grant. <br><br>
-
-For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://www.durham.ac.uk/staff/alexander-guttridge/">Dr. Alex Guttridge</a>.<br><br>
-
-
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Rydberg-Mol.png" alt=" " />
-</td>
-  </tr>
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="tweezers">Tweezers generation II </a></h5><br>
-Single atom trapping and control with optical tweezers has become a major research theme throughout the world and many quantum startup companies are using this approach to develop platforms for quantum computation. In Durham we have an experiment that can trap single atoms of Rb and Cs in separate species-specific optical tweezers and then carefully combine them to form a molecule. The original apparatus is capable of forming up to 5 molecules in a linear array. In this project you will contribute to the construction of a second-generation apparatus aiming to produce interleaved 2D arrays of over 500 Rb and Cs atoms. <br>
-
- The use of two atomic species, rather than the single species employed in most experiments, enables independent control and crosstalk-free measurement of the two species, facilitating the mid-circuit qubit operations needed for quantum error correction. Additionally, the setup can also be used to create arrays of RbCs molecules.  You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics for these different systems.<br><br>
-
-This 4-year project is partly funded by <a href="https://www.pasqal.com/">Pasqal</a> a world-leading neutral-atom quantum computing company based in France. As part of this project you will have the opportunity to spend time in their Paris labs.<br>
-
-For further details about the existing tweezer apparatus <a href="https://www.cornishlabs.uk/tweezers">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="mailto:xnkr87@durham.ac.uk"> Dr. Hannah Williams</a>.<br><br>
-
-
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" alt="Experimental setup used to create optical tweezers for Rb and Cs" />
-</td>
-  </tr>
-
-<tr>
-  <td>
-	<br>
-      	<h5><a id="CsYb">Leveraging Yb clock states to form CsYb molecules in optical lattices </a></h5><br>
-Ultracold polar molecules offer a wide range of exciting research directions spanning ultracold chemistry, precision measurement, quantum simulation and quantum computation. Numerous applications stem from the long-range dipolar interactions and rich internal structure of vibration and rotation. Enormous progress has been made in assembling pairs of alkali atoms to form bialkali molecules – including by our group in Durham using Rb and Cs. However, there is a need to diversify the range of molecules available. In this project you will use an existing state-of-the-art experiment to form CsYb molecules. By combining an alkali atom (Cs) with closed-shell atom (Yb) you will form a molecule that has both an electric dipole moment and a magnetic dipole moment. Your strategy will be to the metastable clock states in Yb where our theoretical work predicts relatively broad collision resonances with Cs that can be used to form molecules. You will also use a magic wavelength optical lattice and learn how to prepare Cs-Yb atom pairs in this lattice. Converting the atom pairs into molecules will realise a new and exciting platform for quantum simulation of many-body physics. <br><br>
-
-For further details about the existing Cs-Yb project <a href="https://www.cornishlabs.uk/csyb">click here</a>. For further information about the project contact <a href="https://www.durham.ac.uk/staff/s-l-cornish/">Prof. Simon Cornish</a> or <a href="https://jmhutson.webspace.durham.ac.uk/">Prof. Jeremy Hutson</a>.<br><br>
-
-
-<a href="#proj">Back to table</a>
-</td>
-      <td width="300" align=center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb_glass_cell_oct_2023.jpg" alt=" " />
-</td>
-</tr>
 
 </table>
