@@ -70,7 +70,7 @@ If you join a project through any of these routes your university fees will be c
 	<a href="#Finance">Quantum walks, graphs, climate, and finance</a>
 </td></tr>
 <tr> <td>
-	<a href="#Micro">Quantum spin dynamics with ultracold polar molecules</a>
+	<a href="#Micro">Quantum spin dynamics with ultracold polar molecules under the microscope</a>
 </td></tr>
 <tr> <td>
 	<a href="#ODD">ODD: Overwhelmingly dipolar diatomics</a>
