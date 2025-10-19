@@ -192,7 +192,7 @@ Details about this new project can be found <a href="https://www.cornishlabs.uk/
 	<br>
       	<h5><a id="Light">Visualizing strongly-focused 3D light fields in an atomic vapour</a></h5><br>
 	  	<h6>Competition Funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Light.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Light.jpg" width="350" align = "right"/>
 Strongly focused structured light generates highly confined vectorial electromagnetic field distributions, which may feature a polarization component along the optical axis. Despite statements found in some optics textbooks that light is a transverse wave, the real picture is more complicated. Axial components exist but manipulating and detecting such 3D light fields is challenging. Vector light can, however, be mapped onto atomic polarizations, making electric dipole transitions an ideal candidate to sense such 3D light configurations.
 	  <br><br>
 In this project you will join a team that is internationally leading on experiments in the field of spectroscopy of atomic vapours. The project is in collaboration with Glasgow University that provide world-leading expertise on shaped and structured light.
@@ -311,7 +311,7 @@ Optical tweezer arrays are quickly being established as a powerful platform for 
 	<br>
       	<h5><a id="Cup">Optical interface for superconducting qubits via Rydberg excitons</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Cup.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Cup.jpg" width="350" align = "right"/>
 Superconducting qubits are a leading platform for quantum information processing (QIP), with commercial players such as IBM and Google reaching > 1000 qubits. However there is currently no viable technology for the long-distance networking of superconducting quantum computers.
 	<br><br>
 At Durham (together with Cardiff University) we are pioneering a new approach based on Rydberg excitons – highly excited states of electron-hole pairs in a bulk semiconductor. These Rydberg excitons couple strongly to microwave and optical signals, which can be sent down an optical fibre to form a network. We have already demonstrated microwave-optical conversion at 4K [Gallagher et al., Phys. Rev. Res. 4, 013031 (2022)], and the highest microwave-optical nonlinearity of any material [Pritchett et al., APL Photonics 9, 031303 (2024)]. In this project you will extend these techniques to couple Rydberg excitons to superconducting quantum circuits. You will explore their integration with optical fibres and waveguides, and optimize the conversion process to approach the quantum regime required for future networks. 
