@@ -226,7 +226,7 @@ Find out more about this project <a="https://durham-qlm.uk/research/coldmol/cafc
 	<br>
       	<h5><a id="Omg">Omg – Yb qubit arrays</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/YbMOT.png" width="350" align = "right"/>
 Arrays of single atoms trapped in optical tweezers and lattices offer exciting possibilities for quantum computing and quantum simulation. While currently most experiments choose alkali atoms for their relatively simple structure, it has emerged that species with more complicated structures are beneficial for many applications – an approach we are already pursuing with great success in our experiment with molecules. Ytterbium atoms feature a so-called omg (optical, metastable, ground state) architecture with three different possible qubit encodings – offering additional structure at greatly reduced experimental complexity compared to molecules. Combinations of these encodings can solve many challenges in neutral atom quantum computing, like the separation between storage and computation qubits and mid-circuit readout, which is essential for many error correction schemes.
 	  <br><br>
 In this experimental project you will work on implementing this architecture in our existing CsYb apparatus, a first in the UK. By trapping single atoms in optical lattices at a magic wavelength you will form large arrays of qubits with second-scale coherence times, rearrange them at will using optical tweezers, and explore the possibilities of the omg-architecture.
@@ -328,9 +328,9 @@ References: <br>
 <tr>
   <td>
 	<br>
-      	<h5><a id="Micro">Quantum spin dynamics with ultracold polar molecules</a></h5><br>
+      	<h5><a id="Micro">Quantum spin dynamics with ultracold polar molecules under the microscope</a></h5><br>
 	  	<h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/microscope_molecules_lattice.png" width="350" align = "right"/>
 Understanding quantum materials containing many interacting particles is one of the greatest challenges in modern physics. A promising way to address this challenge is to construct an artificial quantum system and use it to simulate the properties of a more complex system found in nature – an approach known as quantum simulation. In this project, you will use arrays of ultracold polar molecules confined in optical lattices as a quantum simulator. Using microwave fields to control the internal state of the molecules, you will encode spins in the molecules and engineer dipolar interactions between them. Using these techniques, you will generate and study models of quantum magnetism and exotic many-body phenomena. To detect entanglement, correlations and dynamics in the system, you will use a novel quantum gas microscope that enables the detection of both the position and state of individual molecules in the lattice.
 	  <br><br>
 You will join a team of researchers working on our established RbCs quantum gas microscope experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, ultracold gases and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners.
