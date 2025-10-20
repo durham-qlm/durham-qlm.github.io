@@ -112,7 +112,7 @@ In this experimental project you will work on building one of the UK’s first a
 	  <br><br>
 This studentship is generously funded by a donation from Durham University alumni Dr. Rodney and Dr. Frances Stubbs.   
 	<br><br>
-Further details about the project can be found <a href="https://durham-qlm.uk/research/tech/quantum-networking/" target="_blank>here</a>, for more information please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a>.
+Further details about the project can be found <a href="https://durham-qlm.uk/research/tech/quantum-networking/" target="_blank">here</a>, for more information please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a>.
 	<br><br>
 	<a href="#proj">Back to table</a>
    </td>
