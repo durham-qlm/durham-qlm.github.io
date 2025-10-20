@@ -8,18 +8,15 @@ subtitle: Opportunities to join as graduate students
   />
  _Current PhD students in the QLM group_<br>
 
-<h2>Page under construction!</h2>
 
-  <br>
-
-We have a selection of PhD projects available for an October 2026 start (listed below). If you are interested in any of these projects please contact the relevant supervisor directly, and register <a href="https://forms.office.com/e/QME9a3m98W">here</a> to attend our open day on <b>November 26th</b> (11am-4pm). Registration deadline 21st November.<br>
+We have a selection of PhD projects available for an October 2026 start (listed below). If you are interested in any of these projects please contact the relevant supervisor directly, and register <a href="https://forms.office.com/e/QME9a3m98W" target="_blank">here</a> to attend our open day on <b>November 26th</b> (11am-4pm). Registration deadline 21st November.<br>
 
 There are different mechanisms for funding a PhD, most common are:<br>
 <b>Funded</b> (the source of funding is already attached to the project).<br>
 <b>Competition funded</b> (the project is in competition for funding with other projects).<br>
-<b>External scholarships</b> (the student is in competition for funding, a list of scholarships can be found <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/">here</a>).<br>
+<b>External scholarships</b> (the student is in competition for funding, a list of scholarships can be found <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/" target="_blank">here</a>).<br>
 
-If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/">here</a>. It is also possible to self-fund, please discuss this option directly with the supervisor.<br>
+If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/" target="_blank">here</a>. It is also possible to self-fund, please discuss this option directly with the supervisor.<br>
 
 <h2><a id="proj">Available Projects</a></h2>
 
