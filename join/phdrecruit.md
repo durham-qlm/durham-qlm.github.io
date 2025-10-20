@@ -92,7 +92,7 @@ We hope that you will join us and become a part of the QLM!<br>
 You will explore techniques to generate useful entanglement in this system investigating long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics. <br><br>
 The project is supported by the supervisor’s Royal Society University Research Fellowship. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications.
     <br><br>
-    For further details about the position please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
+    For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/dualqd/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
     <br>
 	<br>
     <a href="#proj">Back to table</a>
@@ -112,7 +112,7 @@ In this experimental project you will work on building one of the UK’s first a
 	  <br><br>
 This studentship is generously funded by a donation from Durham University alumni Dr. Rodney and Dr. Frances Stubbs.   
 	<br><br>
-Further details about the project can be found <a href="https://durham-qlm.uk/research/tech/quantum-networking/">here</a>, for more information please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a>.
+Further details about the project can be found <a href="https://durham-qlm.uk/research/tech/quantum-networking/" target="_blank>here</a>, for more information please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a>.
 	<br><br>
 	<a href="#proj">Back to table</a>
    </td>
@@ -160,7 +160,7 @@ This studentship is generously funded by a donation from Durham University alumn
 	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb_glass_cell_oct_2023.jpg" width="350" align = "right"/>
 Ultracold polar molecules offer a wide range of exciting research directions spanning ultracold chemistry, precision measurement, quantum simulation and quantum computation. Numerous applications stem from the long-range dipolar interactions and rich internal structure of vibration and rotation. Enormous progress has been made in assembling pairs of alkali atoms to form bialkali molecules – including by our group in Durham using Rb and Cs. However, there is a need to diversify the range of molecules available. In this project you will use an existing and unique state-of-the-art experiment to form CsYb molecules. By combining an alkali atom (Cs) with closed-shell atom (Yb) you will form a molecule that has both an electric dipole moment and a magnetic dipole moment. Your strategy will be to utilize the metastable clock states in Yb where our theoretical work predicts relatively broad collision resonances with Cs that can be used to form molecules. You will also use a magic wavelength optical lattice and learn how to prepare Cs-Yb atom pairs in this lattice. Converting the atom pairs into molecules will realise a new and exciting platform for quantum simulation of many-body physics.
 	  <br><br>
-Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb">here</a>.
+Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb" target="_blank>here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk"> Prof. Simon Cornish</a>.
     <br><br>
@@ -176,7 +176,7 @@ Details about the existing Cs-Yb project can be found <a href="https://www.corni
 	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/BEC.jpg" width="350" align = "right"/>
 Bose-Einstein condensates of ultracold polar molecules have very recently emerged as an exciting new form of quantum matter characterized by strong dipolar interactions. This opens up many possibilities for studying novel quantum fluids and for preparing defect free arrays of molecules in optical lattices. In this project, you will join a team of researchers building a new state-of-the-art experimental apparatus to produce and study molecular Bose-Einstein condensates. The apparatus will incorporate a high-resolution imaging system capable of detecting single molecules and single sites of an optical lattice, placing it at the forefront of an exciting field. You will be trained in the state-of-the-art experimental techniques in laser-cooling, optical trapping of ultracold gases, formation of molecules and modern quantum physics – skills that are highly transferable. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
 	  <br><br>
-Details about this new project can be found <a href="https://www.cornishlabs.uk/molecularbec">here</a>.
+Details about this new project can be found <a href="https://www.cornishlabs.uk/molecularbec" target="_blank>here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk"> Prof. Simon Cornish</a>.
     <br><br>
@@ -213,7 +213,7 @@ Single atom trapping and control with optical tweezers has become a major resear
 The use of two atomic species, rather than the single species employed in most experiments, enables independent control and crosstalk-free measurement of the two species, facilitating the mid-circuit qubit operations needed for quantum error correction. Additionally, the setup can also be used to create arrays of RbCs molecules. You will explore combining the tweezer array with optical lattices, firstly to enhance the efficiency of producing molecules and secondly to transfer the atoms or molecules into a the lattice to study tunnelling and many-body dynamics for these different systems.
 	  <br><br>
 This 4-year project is partly funded by Pasqal a world-leading neutral-atom quantum computing company based in France. As part of this project you will have the opportunity to spend time in their Paris labs. <br><br>
-For further details about the existing tweezer apparatus click <a href="https://www.cornishlabs.uk/tweezers">here</a>.	   
+For further details about the existing tweezer apparatus click <a href="https://www.cornishlabs.uk/tweezers" target="_blank>here</a>.	   
     <br><br>
     For further details about the position please contact <a href="mailto:hannah.williams4@durham.ac.uk"> Dr. Hannah Williams</a>.
     <br><br>
@@ -229,7 +229,7 @@ For further details about the existing tweezer apparatus click <a href="https://
 	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.jpg" width="350" align = "right"/>
 Cold, controlled molecules promise to provide a versatile platform for investigating quantum phenomena. In this project you will be joining an experimental team working on laser cooling calcium monofluoride molecules. The aim of the PhD will be to demonstrate interactions between individually trapped molecules. This is a highly experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology. 
 	<br><br>
-Find out more about this project <a href="https://durham-qlm.uk/research/coldmol/cafcool/molecules">here</a>.
+Find out more about this project <a href="https://durham-qlm.uk/research/coldmol/cafcool/molecules" target="_blank>here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
     <br><br>
@@ -247,7 +247,7 @@ Arrays of single atoms trapped in optical tweezers and lattices offer exciting p
 	  <br><br>
 In this experimental project you will work on implementing this architecture in our existing CsYb apparatus, a first in the UK. By trapping single atoms in optical lattices at a magic wavelength you will form large arrays of qubits with second-scale coherence times, rearrange them at will using optical tweezers, and explore the possibilities of the omg-architecture.
 	  <br><br>
-Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb">here</a>. 
+Details about the existing Cs-Yb project can be found <a href="https://www.cornishlabs.uk/csyb" target="_blank>here</a>. 
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a>.
     <br><br>
@@ -263,7 +263,7 @@ Details about the existing Cs-Yb project can be found <a href="https://www.corni
 	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" width="350" align = "right"/>
 Neutral atoms and molecules prepared in optical tweezers offer many exciting opportunities for quantum computing and quantum simulation. Most experiments work with either atoms or molecules. However, in this project, you will utilise both species to develop a new hybrid approach to quantum computing. Using an established world-leading optical tweezer apparatus (see image), you will construct an array of strongly interacting molecules and Rydberg atoms. You will learn how to engineer strong dipole-dipole interactions between individual atoms and molecules and then harness this interaction to address two of the key challenges in the field of ultracold molecules: (1) to perform non-destructive detection and state sensitive readout of the molecule, and (2) to realise fast high-fidelity entangling operations between molecules. These techniques will unlock the many advantages of molecules for quantum science and technology stemming from their rich internal structure.
 	<br><br>
-Details about the existing tweezer apparatus can be found <a href="https://www.cornishlabs.uk/tweezers">here</a>. 
+Details about the existing tweezer apparatus can be found <a href="https://www.cornishlabs.uk/tweezers" target="_blank>here</a>. 
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk"> Prof. Simon Cornish</a>.
     <br><br>
@@ -351,7 +351,7 @@ Understanding quantum materials containing many interacting particles is one of 
 	  <br><br>
 You will join a team of researchers working on our established RbCs quantum gas microscope experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, ultracold gases and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners.
 	  <br><br>
-Details about the existing RbCs quantum gas microscope experiment can be found <a href="https://www.cornishlabs.uk/microscope">here</a>.
+Details about the existing RbCs quantum gas microscope experiment can be found <a href="https://www.cornishlabs.uk/microscope" target="_blank>here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a>.
     <br><br>
