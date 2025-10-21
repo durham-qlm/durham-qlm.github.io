@@ -313,7 +313,7 @@ Superconducting qubits are a leading platform for quantum information processing
 	<br><br>
 At Durham (together with Cardiff University) we are pioneering a new approach based on Rydberg excitons – highly excited states of electron-hole pairs in a bulk semiconductor. These Rydberg excitons couple strongly to microwave and optical signals, which can be sent down an optical fibre to form a network. We have already demonstrated microwave-optical conversion at 4K [Gallagher et al., Phys. Rev. Res. 4, 013031 (2022)], and the highest microwave-optical nonlinearity of any material [Pritchett et al., APL Photonics 9, 031303 (2024)]. In this project you will extend these techniques to couple Rydberg excitons to superconducting quantum circuits. You will explore their integration with optical fibres and waveguides, and optimize the conversion process to approach the quantum regime required for future networks. 
     <br><br>
-    For further details about the position please contact <a href="m.p.a.jones@durham.ac.uk"> Prof. Matthew Jones</a>.
+    For further details about the position please contact <a href="mailto:m.p.a.jones@durham.ac.uk"> Prof. Matthew Jones</a>.
     <br><br>
     <a href="#proj">Back to table</a>
    </td>
@@ -329,7 +329,7 @@ In this project we shall look at applications of quantum physics to topics in fi
 	  <br><br>
 Quantum walks (QWs) are particularly interesting in that they can exhibit both positive and negative feedback resulting in very different probability distributions to classical random walks [2,3]. In particular, after a few steps there is a higher probability of wide departures from the mean, and hence the prediction of extreme events. Our recent focus has been on studying quantum walks in the context of sudden market crashes [4].
 	<br><br>
-    For further details about the position please contact <a href="c.s.adams@durham.ac.uk"> Prof. Stuart Adams</a>.
+    For further details about the position please contact <a href="mailto:c.s.adams@durham.ac.uk"> Prof. Stuart Adams</a>.
     <br><br>
 References: <br>
 [1] Graph Coloring via Quantum Optimization on a Rydberg-Qudit Atom Array, Toonyawat Angkhanawin, Aydin Deger, Jonathan D. Pritchard, C. Stuart Adams, https://arxiv.org/abs/2504.08598 <br>
@@ -367,7 +367,7 @@ Details about the existing RbCs quantum gas microscope experiment can be found <
 	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
 Ultracold polar molecules have many applications, in particular for quantum simulation and the realisation of novel quantum phases. Perhaps the most important feature of these molecules is their dipole moment that can be used to engineer controlled interactions over long range. We are developing a new experiment to prepare an ultracold mixture of silver (Ag) and rubidium (Rb) atoms. Using this apparatus, we will study collisions between the two atomic species, and by controlling those collisions associate atoms to form rubidium-silver (RbAg) molecules. These molecules are of great current interest as they possess a very large dipole moment, and would enable long-range dipolar interactions to be engineered in the ultracold gas that are 1-2 orders of magnitude greater than are accessible in current experiments.  
     <br><br>
-    For further details about the position please contact <a href="p.d.gregory@durham.ac.uk">Dr. Phil Gregory</a>.
+    For further details about the position please contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Phil Gregory</a>.
     <br><br>
     <a href="#proj">Back to table</a>
    </td>
