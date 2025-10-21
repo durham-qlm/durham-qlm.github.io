@@ -123,7 +123,7 @@ Further details about the project can be found <a href="https://durham-qlm.uk/re
 	<br>
       	<h5><a id="MLforBEC">Machine learning techniques for improved experimental workflows in atomtronics</a></h5><br>
 	  	<h6>Competition Funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/MLforBEC.pdf" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/MLforBEC.jpg" width="350" align = "right"/>
 	Bose-Einstein condensates (BECs) play a key role in emerging quantum technologies because they display quantum behaviour on a macroscopic scale. Realising their full potential in applications depends on the precise characterisation of their initial state, including their temperature and chemical potential. This presents a major challenge, as conventional measurement techniques are inherently destructive.<br><br>
 	  
 We have recently developed a machine learning (ML) approach that could help overcomes this limitation, enabling rapid and non-destructive estimation of these key BEC properties. Our work suggest that machine learning can help to overcome these limitations in ultra-cold atom thermometry. This project involves developing these computational methods further which may lead to integration into experimental workflows. You will be trained in techniques that will enhance measurement precision and directly support the development of next-generation quantum devices, such as atom interferometers and other atomtronic applications. 
