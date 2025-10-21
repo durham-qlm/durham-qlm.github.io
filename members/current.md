@@ -33,6 +33,7 @@ subtitle: Current members of the Durham QLM group
 | |[Dr. Sujit Garain](https://www.durham.ac.uk/staff/sujit-garain/)|
 |   |[Dr. James Gill-Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
 |   |[Dr. Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
+| |[Dr. Ruth Le Sueur](https://www.durham.ac.uk/staff/c-r-lesueur/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |   |[Dr. Benjamin Maddox](https://www.durham.ac.uk/staff/benjamin-p-maddox/)|
 |   |Dr. Alex Matthies|
