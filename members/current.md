@@ -4,6 +4,7 @@ title: Members
 subtitle: Current members of the Durham QLM group
 ---
 <center><img width=800 src="/assets/img/QLM Group Photp 2024.jpg" alt="Group photo, May 2024" /></center>
+<br/>
 
 |Role|	Name (with link to Departmental page)|
 |---|---|
