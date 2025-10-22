@@ -3,8 +3,8 @@ layout: page
 title: Members 
 subtitle: Current members of the Durham QLM group
 ---
-
 <center><img width=800 src="/assets/img/QLM Group Photp 2024.jpg" alt="Group photo, May 2024" /></center>
+
 |Role|	Name (with link to Departmental page)|
 |---|---|
 |Head of Section:	|[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
