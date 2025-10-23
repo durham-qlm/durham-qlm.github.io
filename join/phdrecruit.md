@@ -9,7 +9,7 @@ subtitle: Opportunities to join as graduate students
  _Current PhD students in the QLM group_<br>
 
 
-We have a selection of PhD projects available for an October 2026 start (listed below). If you are interested in any of these projects please contact the relevant supervisor directly, and register <a href="https://forms.office.com/e/QME9a3m98W" target="_blank">here</a> to attend our open day on <b>November 26th</b> (11am-4pm). Registration deadline 21st November.<br>
+We have a selection of PhD projects available for an October 2026 start (listed below). If you are interested in any of these projects please contact the relevant supervisor directly, and <b>register <a href="https://forms.office.com/e/QME9a3m98W" target="_blank">here</a> to attend our open day on November 26th</b> (11am-4pm). Registration deadline 21st November.<br>
 
 There are different mechanisms for funding a PhD, most common are:<br>
 <b>Funded</b> (the source of funding is already attached to the project).<br>
