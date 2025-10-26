@@ -54,15 +54,15 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 
 |   |   | 
 |----|----|
-|[![](/members/current/franzen/franzen_s.jpg)](/members/current/franzen)|[Dr. Tobias Franzen (he/him)](/members/current/franzen) <br/>(PI)<br/> [tobias.franzen@durham.ac.uk](tobias.franzen@durham.ac.uk)
+|[![](/members/current/franzen/franzen_s.jpg)](/members/current/franzen)|[Dr. Tobias Franzen (he/him)](/members/current/franzen) <br/>(PI)<br/> [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk)
 |  |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/) <br/>(QLM Chief Experimental Officer)|  
 
 
 
 ## Join us
 
-We have a funded PhD student position for a 2026 start as well as a postdoc position available.
- If you are interested, please get in touch with [tobias.franzen@durham.ac.uk](tobias.franzen@durham.ac.uk). I'm looking forward to getting to know you and discussing details. 
+We have a funded PhD student position for a 2026 start (see details [here](/join/phdrecruit)) as well as a postdoc position available.
+ If you are interested, please get in touch with [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk). I'm looking forward to getting to know you and discussing details. 
 
 ## Collaborators
 
