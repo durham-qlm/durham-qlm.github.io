@@ -3,7 +3,7 @@ layout: page
 title: A QLM student experience
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDs2024.jpg" alt="PhD students October 2024" align = "centre"
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDsOct25.jpg" alt="PhD students October 2024" align = "centre"
   />
  _Current PhD students in the QLM group_<br>
 
