@@ -26,12 +26,12 @@ This is an important part of the application and should discuss your motivation 
 ### References:
 Two academic references required. You should contact them directly, early warning to referees is advisable.
 ### Funding:
-nless self-funding, please select PGR-SCOPE from the dropdown list. No scholarship documentation is required.
+If you are applying for a <b>funded or competition funded</b> PhD opportunity, please select <i>PGR-SCOPE</i> from the dropdown list. No scholarship documentation is required.
 ### Research proposal:
 Studying for a PhD in the QLM you will be working on an existing project. Please use the project description and any discussion with the supervisor to write your proposal, note that you will still be considered for all projects and may be required to write an updated proposal if we believe you are best suited to a different project.
 
 ### When can I expect to hear about a successful application?
 Once we have received your application you will be considered for interview. The first round of interviews will be announced shortly after the application deadline. The result of the interview will be communicated to you within three weeks.
-### 
+ 
 ### Further queries
 Please contact <a href="mailto:hannah.williams4@durham.ac.uk"> Dr. Hannah Williams</a> (PG Admissions Tutor - QLM).
