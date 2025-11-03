@@ -69,7 +69,7 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 - [Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/) (PDRA)
 - [Karen Wadenpfuhl](https://durham-repository.worktribe.com/person/2726600/karen-wadenpfuhl) (PhD student)
 - [Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/) (PhD student)
-- [Philipp Koehler] (visiting Master's student)
+- Philipp Koehler (visiting Master's student)
 
 <br>
 
