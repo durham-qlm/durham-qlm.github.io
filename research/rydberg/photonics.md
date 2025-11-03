@@ -56,7 +56,7 @@ The project is supported by funding from UKRI, Leverhulme and ESA. In addition, 
 
 For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
-|![](photonics/img/setup.png)|
+|![](photonics/img/setup.jpeg)|
 |:--:| 
 |The figure shows our science chamber and the surrounding optics. THz radiation is coupled into the vacuum chamber via the cage system and parabolic mirror. With this THz source, we can drive transitions between Rydberg states with high difference in principal quantum number n.|
 
