@@ -44,7 +44,7 @@ More recently, our group has co-discovered the emergence of synchronisation in a
 
 ## Do You Want To Join Us?
 
-As one can see, we are interested in enhancing our understanding of the fundamentals of atom-photon interactions, but we always also have potential applications in mind. Our research is therefore very varied and versatile, group members have a certain freedom to explore their personal interests within the capabilities of the group. We are looking for people who are motivated to pursue their projects in a warm and welcoming group with a lot of background knowledge and expertise at hand. We welcome applications for PhD and postdoc positions (see below), and we particularly encourage members of marginalised and underrepresented groups to consider applying with us. Please get in touch with Stuart Adams (c.s.adams@durham.ac.uk), we are happy to answer your questions and get to know you!
+As you can see, we are interested in enhancing our understanding of the fundamentals of atom-photon interactions, but we always also have potential applications in mind. Our research is therefore very varied and versatile, group members have a certain freedom to explore their personal interests within the capabilities of the group. We are looking for people who are motivated to pursue their projects in a warm and welcoming group with a lot of background knowledge and expertise at hand. We welcome applications for PhD and postdoc positions (see below), and we particularly encourage members of marginalised and underrepresented groups to consider applying with us. Please get in touch with Stuart Adams (c.s.adams@durham.ac.uk), we are happy to answer your questions and get to know you!
 
 <br>
 
@@ -56,9 +56,9 @@ The project is supported by funding from UKRI, Leverhulme and ESA. In addition, 
 
 For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
-|![](photonics/img/waveguide-array.png)|
+|![](photonics/img/setup.png)|
 |:--:| 
-|The figure shows a fibre waveguide array coupling light in and out of an ensemble of ultra-cold atoms. The red laser excites some atoms to highly-excited Rydberg states (violet spheres) and thereby maps their strong interactions back onto the light.|
+|The figure shows our science chamber and the surrounding optics. THz radiation is coupled into the vacuum chamber via the cage system and parabolic mirror. With this THz source, we can drive transitions between Rydberg states with high difference in principal quantum number n.|
 
 <br>
 
@@ -66,16 +66,16 @@ For further details please contact Stuart Adams (c.s.adams@durham.ac.uk)
 
 - [Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (PI)
 - [Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/) (co-investigator)
-- [Aaron Reinhard](https://www.kenyon.edu/directory/aaron-reinhard/) (Leverhulme Visiting Professor)
 - [Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/) (PDRA)
-- [Oliver Hughes](https://www.durham.ac.uk/staff/oliver-d-hughes/) (RA)
 - [Karen Wadenpfuhl](https://durham-repository.worktribe.com/person/2726600/karen-wadenpfuhl) (PhD student)
+- [Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/) (PhD student)
+- [Philipp Koehler] (visiting Master's student)
 
 <br>
 
 ## Selected Publications and Preprints
 
-- K. Wadenpfuhl and C.S. Adams: *Unravelling the Structures in the van der Waals Interactions of Alkali Rydberg Atoms*, [arXiv:2412.14861 (2025)](https://arxiv.org/pdf/2412.14861)
+- K. Wadenpfuhl and C.S. Adams: *Unravelling the Structures in the van der Waals Interactions of Alkali Rydberg Atoms*, [PRA **111**, 062803 (2025)](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.111.062803)
 - K. Wadenpfuhl and C.S. Adams: *Emergence of Synchronization in a Driven-Dissipative Hot Rydberg Vapor*, [PRL **131**, 143002 (2023)](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.131.143002)
 - N.L.R. Spong, Y. Jiao, O.D.W. Hughes, K.J. Weatherill, I. Lesanovsky and C.S. Adams: *Collectively encoded Rydberg Qubit*, [PRL **127**, 063604 (2021)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.063604)
 - H. Busche, P. Huillery, S.W. Ball, T. Ilieva, M.P.A. Jones, and C.S. Adams: *Contactless nonlinear optics mediated by long-range Rydberg interactions*, [Nature Physics **13**, 655-658 (2017)](https://www.nature.com/articles/nphys4058)
