@@ -17,7 +17,7 @@ Michaelmas Term
 |5/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Tobias Franzen"> Towards quantum networking with arrays of Yb atoms </a>|Tobias Franzen |Durham University, QLM|
 |12/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Nick Spong"> Neutral Atom Quantum Computing: Progress, Challenges & UK National Labs </a>|Nick Spong |NQCC|
 |19/11/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Michaelmas/Alex Jenkins"> Cold-atom analogues for vacuum decay </a>|Alex Jenkins |University of Cambridge|
-|26/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/David Wellnitz"> Spin-motion coupled dynamics of ultra cold molecule </a>|David Wellnitz |Julich Institute|
+|26/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/David Wellnitz"> Spin-motion coupled dynamics of ultracold molecules </a>|David Wellnitz |Julich Institute|
 |3/12/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Ryan Doran"> Title TBA </a>|Ryan Doran |Newcastle University|
 
 
