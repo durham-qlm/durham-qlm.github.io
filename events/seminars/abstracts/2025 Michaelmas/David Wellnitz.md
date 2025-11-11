@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QLM seminars, Michaelmas term
-subtitle: 19/11/2025, 12pm-1pm, W103
+subtitle: 26/11/2025, 12pm-1pm, OCW017
 ---
 
 ## David Wellnitz (Julich Institute)
