@@ -229,7 +229,7 @@ For further details about the existing tweezer apparatus click <a href="https://
 	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.jpg" width="350" align = "right"/>
 Cold, controlled molecules promise to provide a versatile platform for investigating quantum phenomena. In this project you will be joining an experimental team working on laser cooling calcium monofluoride molecules. The aim of the PhD will be to demonstrate interactions between individually trapped molecules. This is a highly experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology. 
 	<br><br>
-Find out more about this project <a href="https://durham-qlm.uk/research/coldmol/cafcool/molecules" target="_blank">here</a>.
+Find out more about this project <a href="https://durham-qlm.uk/research/coldmol/cafcool" target="_blank">here</a>.
     <br><br>
     For further details about the position please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
     <br><br>
