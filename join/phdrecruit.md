@@ -364,7 +364,7 @@ Details about the existing RbCs quantum gas microscope experiment can be found <
 	<br>
       	<h5><a id="ODD">ODD: Overwhelmingly dipolar diatomics</a></h5><br>
 	  	<h6>Competition funded (Worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/**.png" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/ODD.jpg" width="350" align = "right"/>
 Ultracold polar molecules have many applications, in particular for quantum simulation and the realisation of novel quantum phases. Perhaps the most important feature of these molecules is their dipole moment that can be used to engineer controlled interactions over long range. We are developing a new experiment to prepare an ultracold mixture of silver (Ag) and rubidium (Rb) atoms. Using this apparatus, we will study collisions between the two atomic species, and by controlling those collisions associate atoms to form rubidium-silver (RbAg) molecules. These molecules are of great current interest as they possess a very large dipole moment, and would enable long-range dipolar interactions to be engineered in the ultracold gas that are 1-2 orders of magnitude greater than are accessible in current experiments.  
     <br><br>
     For further details about the position please contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Phil Gregory</a>.
