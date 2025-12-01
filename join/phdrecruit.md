@@ -80,7 +80,7 @@ We hope that you will join us and become a part of the QLM!<br>
 
 <table border=0>
 
- <tr>
+<tr>
   <td>
 	<br>
       	<h5><a id="CYBER">CYBER: Cs-Yb Error-Resilient Quantum Processor</a></h5><br>
@@ -96,11 +96,9 @@ In this experimental project, you will help develop a new two-species optical-tw
 This position is part of a wider cohort of 6 collaborative studentships within the NQCC’s Doctoral Studentship Scheme, where projects have been co-developed by the NQCC and different academic institutes across the UK. The scheme will include cohort-based training and activities, enabling students to gain wider skills and develop valuable personal and professional networks.
     <br><br>
     For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/dualqd/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
-    <br>
-	<br>
-    <a href="#proj">Back to table</a>
+	<br><br>
+	<a href="#proj">Back to table</a>
    </td>
-
 </tr>
 
 
