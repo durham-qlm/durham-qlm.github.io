@@ -85,12 +85,14 @@ We hope that you will join us and become a part of the QLM!<br>
 	<br>
       	<h5><a id="CYBER">CYBER: Cs-Yb Error-Resilient Quantum Processor</a></h5><br>
 	  <h6>Funded (UK only)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CYBER.png" alt="CYBER" width="350" align = "right"/>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CYBER.png" alt="CYBER" width="250" align = "right"/>
 	   
 A central challenge in quantum computing is how to build large-scale, fault-tolerant machines that can solve problems impossible for classical computers. This requires precise control of qubits and the ability to suppress errors through quantum error correction.
 
 In this experimental project, you will help develop a new two-species optical-tweezer quantum computing platform using individually trapped caesium and ytterbium atoms. Tweezer arrays allow us to assemble quantum systems one atom at a time and generate strong, controllable interactions using Rydberg excitations. By combining two atomic species with very different properties, this platform enables low-crosstalk readout and high-fidelity entangling gates—all essential ingredients for error-corrected quantum processors. You will help develop the tools needed to create entanglement between Cs and Yb atoms—from setting up the laser systems that drive Rydberg excitations to implementing the protocols that entangle the atoms together. Through this you will learn core experimental skills in laser cooling, optical trapping and quantum-state control, forming an excellent foundation for a career in quantum technologies.
-
+<br><br>
+<h6>NQCC Studentship</h6>
+<br><br>
 This position is a collaborative studentship between the University of Durham and the National Quantum Computing Centre. The position will be registered and hosted at the university, within the group of Dr. Alex Guttridge. The student will also have a co-supervisor at the NQCC who is an expert in the field. Over the course of the studentship students will be offered a minimum of three months to work at the NQCC with relevant research teams. 
  
 This position is part of a wider cohort of 6 collaborative studentships within the NQCC’s Doctoral Studentship Scheme, where projects have been co-developed by the NQCC and different academic institutes across the UK. The scheme will include cohort-based training and activities, enabling students to gain wider skills and develop valuable personal and professional networks.
