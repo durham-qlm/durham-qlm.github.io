@@ -43,6 +43,7 @@ Combining this control with fast, high-fidelity measurements of the atoms’ qua
 ---
 
 ## Apply Now!
+We are recruiting a PhD student for a [joint NQCC–Durham studentship](/join/phdrecruit/) developing next-generation quantum computing and error-correction techniques with the DualQD platform.
 If you are interested in joining the team or finding out more, please contact [Dr. Alex Guttridge](mailto:alexander.guttridge@durham.ac.uk).
 
 ---
