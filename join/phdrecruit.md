@@ -22,7 +22,7 @@ If you join a project through any of these routes your university fees will be c
 
 <table>
 <tr> <td>
-	<a href="#DualQD">Dual-species tweezer arrays for next-generation quantum devices</a>
+	<a href="#CYBER">CYBER: Cs-Yb Error-Resilient Quantum Processor</a>
 </td></tr>
 <tr> <td>
 	<a href="#AtPhot">Single atoms and single photons – quantum networking with Yb</a>
@@ -83,14 +83,17 @@ We hope that you will join us and become a part of the QLM!<br>
  <tr>
   <td>
 	<br>
-      	<h5><a id="DualQD">Dual-species tweezer arrays for next-generation quantum devices</a></h5><br>
-	  <h6>Competition funded (worldwide)</h6>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" alt="Dual QD" width="350" align = "right"/>
+      	<h5><a id="CYBER">CYBER: Cs-Yb Error-Resilient Quantum Processor</a></h5><br>
+	  <h6>Funded (UK only)</h6>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/CYBER.png" alt="CYBER" width="350" align = "right"/>
 	   
- In this project, you’ll develop a unique optical tweezer platform to assemble designer quantum systems atom by atom. Using lasers and magnetic fields, you’ll cool atoms to near absolute zero, trap them individually, and prepare them in precise quantum states. Our approach will leverage two distinct atomic species with unique optical transitions, allowing independent control. One species serves as data qubits, while the other acts as ancillas—supporting qubits that can monitor and control the system, that are essential for error correction and novel quantum sensing schemes.
-<br><br>
-You will explore techniques to generate useful entanglement in this system investigating long-range dipolar interactions mediated by Rydberg states—where atoms have electrons excited to giant orbits, resulting in strong interactions. Ultimately, this project aims to construct precisely engineered quantum systems atom by atom, to realise new quantum devices with applications in quantum computing, quantum sensing, and fundamental physics. <br><br>
-The project is supported by the supervisor’s Royal Society University Research Fellowship. Candidates will gain hands-on experience in optical trapping, laser cooling, and quantum state engineering, while engaging in interdisciplinary collaborations that bridge fundamental quantum science with industrial applications.
+A central challenge in quantum computing is how to build large-scale, fault-tolerant machines that can solve problems impossible for classical computers. This requires precise control of qubits and the ability to suppress errors through quantum error correction.
+
+In this experimental project, you will help develop a new two-species optical-tweezer quantum computing platform using individually trapped caesium and ytterbium atoms. Tweezer arrays allow us to assemble quantum systems one atom at a time and generate strong, controllable interactions using Rydberg excitations. By combining two atomic species with very different properties, this platform enables low-crosstalk readout and high-fidelity entangling gates—all essential ingredients for error-corrected quantum processors. You will help develop the tools needed to create entanglement between Cs and Yb atoms—from setting up the laser systems that drive Rydberg excitations to implementing the protocols that entangle the atoms together. Through this you will learn core experimental skills in laser cooling, optical trapping and quantum-state control, forming an excellent foundation for a career in quantum technologies.
+
+This position is a collaborative studentship between the University of Durham and the National Quantum Computing Centre. The position will be registered and hosted at the university, within the group of Dr. Alex Guttridge. The student will also have a co-supervisor at the NQCC who is an expert in the field. Over the course of the studentship students will be offered a minimum of three months to work at the NQCC with relevant research teams. 
+ 
+This position is part of a wider cohort of 6 collaborative studentships within the NQCC’s Doctoral Studentship Scheme, where projects have been co-developed by the NQCC and different academic institutes across the UK. The scheme will include cohort-based training and activities, enabling students to gain wider skills and develop valuable personal and professional networks.
     <br><br>
     For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/dualqd/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
     <br>
@@ -99,6 +102,7 @@ The project is supported by the supervisor’s Royal Society University Research
    </td>
 
 </tr>
+
 
 <tr>
   <td>
