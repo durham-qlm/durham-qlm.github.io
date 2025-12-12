@@ -19,7 +19,7 @@ Michaelmas Term
 |19/11/2025|12pm-1pm|W103|<a href="/events/seminars/abstracts/2025 Michaelmas/Alex Jenkins"> Cold-atom analogues for vacuum decay </a>|Alex Jenkins |University of Cambridge|
 |26/11/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/David Wellnitz"> Spin-motion coupled dynamics of ultracold molecules </a>|David Wellnitz |Julich Institute|
 |3/12/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Ryan Doran"> From Disorder to Design: Vortex Formation, Breakup, and Interaction in Superfluids </a>|Ryan Doran |Newcastle University|
-
+|17/12/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Jack Griffiths"> Generative modelling for physical reservoir computing </a>|Jack Griffiths |University of Sheffield|
 
 Past seminars can be found here: 
 
