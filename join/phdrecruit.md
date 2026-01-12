@@ -21,6 +21,9 @@ If you join a project through any of these routes your university fees will be c
 <h2><a id="proj">Available Projects</a></h2>
 
 <table>
+	<tr> <td>
+	<a href="#THz">High sensitivity DC electric field sensing using Rydberg EIT</a>
+</td></tr>
 <tr> <td>
 	<a href="#CYBER">CYBER: Cs-Yb Error-Resilient Quantum Processor</a>
 </td></tr>
@@ -79,6 +82,24 @@ We hope that you will join us and become a part of the QLM!<br>
 
 
 <table border=0>
+<tr>
+  <td>
+	<br>
+      	<h5><a id="THz">High sensitivity DC electric field sensing using Rydberg EIT</a></h5><br>
+	  <h6>Funded (UK only)</h6>
+	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "right"/>
+	   
+Rydberg atoms are highly excited atoms with extreme properties. This project will use thermal Rydberg atoms to measure static electric fields in the mV/cm range. Rydberg electromagnetically induced transparency (EIT), pioneered at Durham, offers MHz-level spectral resolution of Rydberg states and enables detection of small fields via Stark shifts due to the high polarizability of Rydberg states (∝ n⁷).  <br>
+
+In this 3.5-year project, we will develop vapour cells that allow DC field access, overcoming screening in conventional cells. Next, we’ll implement Doppler-free EIT schemes to enhance spectral resolution to ~200 kHz, boosting sensitivity by an order of magnitude. We will also investigate using atomic states with high orbital angular momentum.  Finally, we’ll apply these methods to identify and localise charge states of components behind barriers and assess the commercial viability of the technique in combination with industrial partners. <br>
+
+The project is funded by the UK Quantum Centre for Nuclear Defence and Security. 
+    <br><br>
+    For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/terahertz/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
+	<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
 
 <tr>
   <td>
