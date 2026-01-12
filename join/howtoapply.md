@@ -7,16 +7,13 @@ subtitle: Procedure and FAQs
 ## How to apply:
               
 1. Contact a project lead - projects are listed <a href="https://durham-qlm.uk/join/phdrecruit/">here</a>.
-2. Register to attend the Open Day on <b>November 26th</b> <a href="https://forms.office.com/e/QME9a3m98W">here</a>.
-3. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )
+2. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )
              
 ## FAQs
 ### Can I get paid to do a PhD?
 Yes! Students completing a funded PhD (directly funded, competition funded or scholarship funded) will be paid. This means your fees to the university are covered and you will receive a tax-free yearly stipend of £20,780. You will also have the opportunity to earn more via teaching.
 ### What is the application deadline?
-Different funding streams have different deadlines. In order to be considered for <b>all studentships please apply by December 15th</b>.
-### What if I can't make the Open Day?
-Visits (virtual or in person) to the group are strongly encouraged for all potential PhD students to meet supervisors, other students and visit labs. If you are unable to attend the open day please contact the supervisor.
+We are currently accepting applications and they will be considered on a rolling basis, early application is therefore suggested.
 ### Do I need to contact a supervisor?
 Whilst not necessary, it is advisable to make contact with a potential supervisor before submitting your application.
 
