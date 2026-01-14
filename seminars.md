@@ -11,7 +11,7 @@ Epiphany Term
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
 |21/01/2026|12pm-1pm|D110|<a href="/events/seminars/abstracts/2026 Epiphany/Rob Harris"> Micro optics for large telescopes  </a>|Rob Harris |Durham University, CfAI |
-|28/01/2026|2pm-3pm|Online|<a href="/events/seminars/abstracts/2026 Epiphany/Ana Maria Rey"> TBA </a>|Ana Maria Rey |JILA |
+|28/01/2026|2pm-3pm|Online|<a href="/events/seminars/abstracts/2026 Epiphany/Ana Maria Rey"> New frontiers in quantum simulation with dipolar gases </a>|Ana Maria Rey |JILA |
 |04/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joschka Roffe"> TBA </a>|Joschka Roffe |Quantum software lab, University of Edinburgh |
 |11/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Sarah Thomas"> TBA </a>|Sarah Thomas |University of Oxford |
 |18/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Tim Harris"> TBA </a>|Tim Harris |MPQ |
