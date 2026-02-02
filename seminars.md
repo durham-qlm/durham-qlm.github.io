@@ -15,7 +15,7 @@ Epiphany Term
 |04/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joschka Roffe"> Quantum Error Correction </a>|Joschka Roffe |Quantum software lab, University of Edinburgh |
 |11/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Sarah Thomas"> Quantum memories for future quantum networks </a>|Sarah Thomas |University of Oxford |
 |18/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Tim Harris"> Expanding the toolbox of quantum simulation with ultracold polar molecules </a>|Tim Harris |MPQ |
-|25/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Shaurya Bhave"> TBA </a>|Shaurya Bhave |University of Strathclyde |
+|25/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Shaurya Bhave"> Progress toward a Lithium-based quantum gas microscope </a>|Shaurya Bhave |University of Strathclyde |
 |11/03/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joseph Cotter"> TBA </a>|Joseph Cotter |Imperial College, London |
 
 
