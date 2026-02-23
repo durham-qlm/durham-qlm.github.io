@@ -6,12 +6,10 @@ subtitle: 25/02/2026, 12pm-1pm, OCW017
 
 ## Shaurya Bhave
 
-## Progress toward a Lithium-based quantum gas microscope
+## Quasicrystals, Many Body Localisation and Bose Glasses
 
-Recent advances in optical lattices and site-resolved imaging have expanded the scope of experiments using ultracold atomic gases. In this talk, I will present our progress toward a lithium quantum gas microscope; designed as a versatile experimental platform enabling two complementary research directions.
+Quasicrystalline patterns posses long-range order but lack periodicity. This places them in the spectrum of materials between clean, ordered crystals and disordered, amorphous solids. They share properties of both disordered structures and ordered materials, resulting in a rich variety of physical phenomena. 
 
-First, by combining an optical superlattice with single-site addressing, we aim to implement tunnelling-based gates and realize a hybrid quantum processor that merges Hubbard-model physics with programmable quantum gate operations. 
+In this regard, I will detail two experiments. The first experiment measures the ground state phase diagram of the quasicrystal as a function of both the lattice depth and interaction strength. The 2D optical quasicrystal is found to support both a superfluid (extended) phase and a Bose glass (localised) phase. 
 
-Second, we plan to exploit the same platform’s single-site resolution together with recently developed quantum gas magnifier techniques to realize a dual-space quantum gas microscope. This capability allows deeper investigations on many-body physics in bulk atomic gases, including the study of pairing and coherence across the BCS–BEC crossover.
-
-The system is designed for fast experimental turnaround using a compact, single-chamber architecture with a high-power optical lattice directly loaded from a MOT.
+The second experiment explores the quench dynamics of this phase transition. Rapidly crossing the BG/SF phase boundary induces transient out-of-equilibrium dynamics that depend on properties of the underlying Hamiltonian. This establishes quantum quenches as a means to uncover the relaxation dynamics in the long and short term following a rapid change in parameter.
