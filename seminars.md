@@ -16,7 +16,7 @@ Epiphany Term
 |11/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Sarah Thomas"> Quantum memories for future quantum networks </a>|Sarah Thomas |University of Oxford |
 |18/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Tim Harris"> Expanding the toolbox of quantum simulation with ultracold polar molecules </a>|Tim Harris |MPQ |
 |25/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Shaurya Bhave"> Quasicrystals, Many Body Localisation and Bose Glasses</a>|Shaurya Bhave |University of Strathclyde |
-|11/03/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joseph Cotter"> TBA </a>|Joseph Cotter |Imperial College, London |
+|11/03/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joe Cotter"> Quantum enhanced sensors for inertial navigation </a>|Joseph Cotter |Imperial College, London |
 
 
 Past seminars can be found here: 
