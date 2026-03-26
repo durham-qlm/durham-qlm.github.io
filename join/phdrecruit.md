@@ -70,7 +70,7 @@ Rydberg atoms are highly excited atoms with extreme properties. This project wil
 
 In this 3.5-year project, we will develop vapour cells that allow DC field access, overcoming screening in conventional cells. Next, we’ll implement Doppler-free EIT schemes to enhance spectral resolution to ~200 kHz, boosting sensitivity by an order of magnitude. We will also investigate using atomic states with high orbital angular momentum.  Finally, we’ll apply these methods to identify and localise charge states of components behind barriers and assess the commercial viability of the technique in combination with industrial partners. <br>
 
-The project is funded by the UK Quantum Centre for Nuclear Defence and Security. 
+The project is funded by the UK Quantum Centre for Nuclear Defence and Security and is open to UK 'home-fees' students only. 
     <br><br>
     For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/terahertz/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
 	<br><br>
