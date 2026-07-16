@@ -61,21 +61,22 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 
 ## Join us
 
-We have a funded PhD student position for a 2026 start (see details [here](/join/phdrecruit)) as well as a postdoc position available.
- If you are interested, please get in touch with [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk). I'm looking forward to getting to know you and discussing details. 
+We'll be recruiting for a postdoc position soon!
+ If you are interested in this or other opportunities, please get in touch with [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk). 
 
 ## Collaborators
 
 We work closely with collaborators in academia and industry:
 * For the development of our micro-cavities we work with Matthias Keller and his [Ion Trap Cavity-QED and Molecular Physics
 (ITCM) group](https://www.sussex.ac.uk/research/labs/ion-trap-cavity-qed-and-molecular-physics/) at Sussex University
-*  To meet the high demands our experiments place on laser systems in a compact and robust package we work closely with laser manufacturer [Vexlum](https://vexlum.com/) (Finland)
-
+* To meet the high demands our experiments place on laser systems in a compact and robust package we work closely with laser manufacturer [Vexlum](https://vexlum.com/) (Finland)
+* We collaborate with [Robert Niffeneggers group at UMass Amherst](https://websites.umass.edu/rniffenegger/) on the development of [PyOpticL](https://github.com/UMassIonTrappers/PyOpticL), a new approach to modular optical setups described by python code.
 
 
 ## Funding
 
 * EPSRC Quantum Technologies Career Acceleration Fellowship UKRI1227 'Quantum networking at telecom wavelengths with Yb qubits' (£1.7m)
+* Dr. Rodney Stubbs and Dr. Frances Stubbs PhD studentship
 
 
 

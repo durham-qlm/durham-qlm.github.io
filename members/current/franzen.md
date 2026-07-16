@@ -7,7 +7,7 @@ subtitle:
 ## Dr. Tobias Franzen (he/him)
 <img src="franzen.jpg" alt="Tobias Franzen" width=200/>
 
-I am an EPSRC Quantum Technologies Career acceleration fellow currently focusing on setting up a new experimental activity  on quantum networking between arrays of ytterbium qubits. The ultimate goal of this project is the realisation of a quantum network using standard telecom fibres to connect arrays of Yb atoms for applications ranging from sensing to quantum computing.
+I am an Assistant Professor (Research) and EPSRC Quantum Technologies Career acceleration fellow currently focusing on setting up a new experimental activity on quantum networking between arrays of ytterbium qubits. The ultimate goal of this project is the realisation of a quantum network using standard telecom fibres to connect arrays of Yb atoms for applications ranging from sensing to quantum computing.
 
 ## Activities
 
