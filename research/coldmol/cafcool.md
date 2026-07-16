@@ -10,16 +10,11 @@ subtitle:
   />
 In our lab we are working on <b>direct laser cooling</b> of calcium monofluoride (CaF) molecules. <br>
 The complex internal level structure of molecules may make them seem a daunting prospect to control. However, here at Durham we are building an experiment to produce ultracold, controlled CaF molecules.<br>
-Laser cooling molecule experiments all start in the same way, creating the molecules. For this we are building a cryogenic buffer gas source, shown in figure to the right. The source consists of a calcium metal target which we ablate using a pulsed Nd:YAG laser, we flow sulfur hexafluoride gas into the vicinity of the newly created Ca ions which leads to the formation of CaF molecules. This all happens inside a copper cell mounted on a 4 Kelvin cyrocooler, into which helium gas, also at 4 K, is injected and collides with the CaF, sympathetically cooling it. The molecules then leave the cell with a forward velocity of around 150 m/s. This is far too fast to be captured in a magneto-optical trap, and so the molecules must next be decelerated. <br>
+Laser cooling molecule experiments all start in the same way, creating the molecules. For this we are building a cryogenic buffer gas source, shown in figure to the right. The source consists of a calcium metal target which we ablate using a pulsed Nd:YAG laser, we flow sulfur hexafluoride gas into the vicinity of the newly created Ca ions which leads to the formation of CaF molecules. This all happens inside a copper cell mounted on a 4 Kelvin cyrocooler, into which helium gas, also at 4 K, is injected and collides with the CaF, sympathetically cooling it. The molecules then leave the cell with a forward velocity of around 150 m/s. This is far too fast to be captured in a magneto-optical trap (MOT), and so the molecules must next be decelerated. <br>
 
-To slow the molecules we are building a new, static magnetic field Zeeman-Sisyphus decelerator. The decelerator consists of alternating regions of high and low magnetic field. Depending on the sign of the electron spin projection the molecules can either be in a <i>weak-field seeking (wfs)</i> or <i>strong-field seeking (sfs)</i> state. Molecules in a wfs state will experience a potential hill upon entering a region of high magnetic field, as they travel through this region they will lose kinetic energy. At some point towards the top of the hill the molecules will come into resonance with a laser which will pump them into the opposite state, now entering a region of decreasing field the molecules (being in a sfs state) will again experience a potential hill. This process is repeated many times in order to bring the velocity of the molecules down, see figure below. <br>
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/decelerator.png" alt="Sketch showing weak and strong field pumping of molecules, render of decelerator, predicted performance of decelerator showing number of molecules vs velocity."
-  />
-  <figcaption> Sketch showing weak and strong field pumping of molecules, render of decelerator, predicted performance of decelerator showing number of molecules vs velocity.</figcaption>
-  </figure>
+We are currently working on chirped laser slowing, where we counterpropagate a laser at 531 nm and scan (or chirp) the frequency to keep the laser on resonance with the molecules as they decelerate and experience a changing Doppler shift. The next step of the experiment will be to load the molecules into a MOT. 
 
-This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Future Leaders Fellowship MR/X033430/1. 
+This work is supported by UKRI Future Leaders Fellowship MR/X033430/1. 
 </details>
 
 <details open>
@@ -31,14 +26,14 @@ This work is supported by EPSRC New Investgator Award EP/X013758/1 and UKRI Futu
   /><br>
   CaF team Feb 2025 (AJM, AB, RH, BH, HJW)
 </td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
-Dr. Alex J. Matthies (they/them)  --  PDRA  <br>
-Dr. Bethan Humphreys (she/her)  --  PhD student  <br>
+Dr. Bethan Humphreys (she/her)  --  PDRA  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
 Miss Rebecca Hedley (she/her) -- PhD student <br></td></tr> 
 </table>
   
 <details>
   <summary><b><font size="+1">Former members</font></b></summary>
+Dr. Alex J. Matthies (they/them)  --  PDRA  <br>
 Mr Tom Philo (he/him) -- MSci student <br>
 Mr Keelan Sloan  (he/him)  --  MSci student  <br>
 Mr Andrew Elwood  (he/him)  --  MSci student  
@@ -48,6 +43,14 @@ Mr Andrew Elwood  (he/him)  --  MSci student
 <details open>
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
+  <summary><b><font size="+1">2026</font></b></summary>
+  <b>July:</b> Bethan and Becca attend the <a href ='https://www.qsmol.uk/'>QSMol kick-off meeting</a>. Nicole joins the team for a summer internship, welcome Nicole!<br>
+  <b>June:</b> Archie presents a poster at <a href='https://www.icap29.com/home.html'>ICAP</a> in Wuhan and the ultracold molecules satellite meeting in Hong Kong. Alex leaves the group to start a postdoc position in Gothenburg - good luck and thank you!<br>
+  <b>May:</b> We finish the Zeeman-Sisyphus project, sadly we saw no deceleration.
+  <b>April:</b> Our proposal paper on near-deterministic loading of tweezer arrays is on ArXiv: https://arxiv.org/abs/2604.22406.<br>
+  </details>
+  
+  <details>
   <summary><b><font size="+1">2025</font></b></summary>
     <b>September:</b> Hannah returns to work. Bethan and Hannah attend the EPSRC Quantum Technologies Future Leaders Event.<br>
     <b>August:</b> Our paper <i>DiPolMol-Py: A Python package for calculations for 2Σ ground-state molecules</i> has been published <a href='https://doi.org/10.1016/j.cpc.2025.109813'> here</a>.<br>
