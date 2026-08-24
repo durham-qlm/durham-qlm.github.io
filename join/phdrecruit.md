@@ -22,11 +22,6 @@ If you join a project through any of these routes your university fees will be c
 We hope that you will join us and become a part of the QLM!<br>
 
 <h2><a id="proj">Funded Projects</a></h2>
-<table>
-	<tr> <td>
-	<a href="#THz">High sensitivity DC electric field sensing using Rydberg EIT</a>
-</td></tr>
-</table>
 
 <table border=0>
 <tr>
