@@ -4,19 +4,7 @@ title: QLM Seminars
 subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the current term are listed here.
 ---
  
-## 2025-2026 Seminars
-
-Epiphany Term
-
-|Date  |Time |Location  |Title   |Speaker    |Institution    |
-|:---  | :----: | :----:  | :--------:      | :------:      |           --: |
-|21/01/2026|12pm-1pm|D110|<a href="/events/seminars/abstracts/2026 Epiphany/Rob Harris"> Micro optics for large telescopes  </a>|Rob Harris |Durham University, CfAI |
-|28/01/2026|2pm-3pm|Online|<a href="/events/seminars/abstracts/2026 Epiphany/Ana Maria Rey"> New frontiers in quantum simulation with dipolar gases </a>|Ana Maria Rey |JILA |
-|04/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joschka Roffe"> Quantum Error Correction </a>|Joschka Roffe |Quantum software lab, University of Edinburgh |
-|11/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Sarah Thomas"> Quantum memories for future quantum networks </a>|Sarah Thomas |University of Oxford |
-|18/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Tim Harris"> Expanding the toolbox of quantum simulation with ultracold polar molecules </a>|Tim Harris |MPQ |
-|25/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Shaurya Bhave"> Quasicrystals, Many Body Localisation and Bose Glasses</a>|Shaurya Bhave |University of Strathclyde |
-|11/03/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joe Cotter"> Quantum enhanced sensors for inertial navigation </a>|Joseph Cotter |Imperial College, London |
+Information about our regular seminar series will be posted here at the start of each academic term.
 
 
 Past seminars can be found here: 

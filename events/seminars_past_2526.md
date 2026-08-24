@@ -21,6 +21,18 @@ Michaelmas Term
 |3/12/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Ryan Doran"> From Disorder to Design: Vortex Formation, Breakup, and Interaction in Superfluids </a>|Ryan Doran |Newcastle University|
 |17/12/2025|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2025 Michaelmas/Jack Griffiths"> Generative modelling for physical reservoir computing </a>|Jack Griffiths |University of Sheffield|
 
+Epiphany Term
+
+|Date  |Time |Location  |Title   |Speaker    |Institution    |
+|:---  | :----: | :----:  | :--------:      | :------:      |           --: |
+|21/01/2026|12pm-1pm|D110|<a href="/events/seminars/abstracts/2026 Epiphany/Rob Harris"> Micro optics for large telescopes  </a>|Rob Harris |Durham University, CfAI |
+|28/01/2026|2pm-3pm|Online|<a href="/events/seminars/abstracts/2026 Epiphany/Ana Maria Rey"> New frontiers in quantum simulation with dipolar gases </a>|Ana Maria Rey |JILA |
+|04/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joschka Roffe"> Quantum Error Correction </a>|Joschka Roffe |Quantum software lab, University of Edinburgh |
+|11/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Sarah Thomas"> Quantum memories for future quantum networks </a>|Sarah Thomas |University of Oxford |
+|18/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Tim Harris"> Expanding the toolbox of quantum simulation with ultracold polar molecules </a>|Tim Harris |MPQ |
+|25/02/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Shaurya Bhave"> Quasicrystals, Many Body Localisation and Bose Glasses</a>|Shaurya Bhave |University of Strathclyde |
+|11/03/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Epiphany/Joe Cotter"> Quantum enhanced sensors for inertial navigation </a>|Joseph Cotter |Imperial College, London |
+
 Past seminars can be found here: 
 
 <a href="/events/seminars_past_2324"> 2023-2024 </a>
