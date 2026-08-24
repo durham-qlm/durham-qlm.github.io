@@ -8,9 +8,9 @@ subtitle: Opportunities to join as graduate students
   />
  _Current PhD students in the QLM group_<br>
 
-Recruitment for projects to start in October 2027 will start shortly, at which point we will post a list of available projects. 
-
 Below is currently our list of projects available for an October 2026 start (listed below). If you are interested in these projects please contact the relevant supervisor directly.<br>
+
+Recruitment for projects to start in October 2027 will start shortly, at which point we will post a list of available projects. 
 
 There are different mechanisms for funding a PhD, most common are:<br>
 <b>Funded</b> (the source of funding is already attached to the project).<br>
