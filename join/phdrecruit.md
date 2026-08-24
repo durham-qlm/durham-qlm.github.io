@@ -16,9 +16,8 @@ There are different mechanisms for funding a PhD, most common are:<br>
 <b>Funded</b> (the source of funding is already attached to the project).<br>
 <b>Competition funded</b> (the project is in competition for funding with other projects).<br>
 <b>External scholarships</b> (the student is in competition for funding, a list of scholarships can be found <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/" target="_blank">here</a>).<br>
-It is also possible to self-fund.<br>
 
-If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/" target="_blank">here</a>. <br>
+If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/" target="_blank">here</a>. It is also possible to self-fund.<br>
 
 We hope that you will join us and become a part of the QLM!<br>
 
