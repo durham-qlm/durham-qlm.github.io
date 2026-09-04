@@ -24,6 +24,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
 |	|[Dr. Robert Potvliege](https://www.durham.ac.uk/staff/r-m-potvliege/)|
 |	|[Prof. Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/)|
+|	|[Dr David Wellnitz](https://www.durham.ac.uk/staff/david-wellnitz/)|
 |	|[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/)|
 |	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) ([Group page](saw))|
 | Research Associates: |[Dr Satvika Bandarupally](https://www.durham.ac.uk/staff/satvika-bandarupally/)|
@@ -53,12 +54,14 @@ subtitle: Current members of the Durham QLM group
 |   |[Francesca Blondell](https://www.durham.ac.uk/staff/francesca-m-blondell/)|
 |   |[Joe Bloomer](https://www.durham.ac.uk/staff/joe-t-bloomer/)|
 |   | [Anuprava Bokshi](https://www.durham.ac.uk/staff/anuprava-bokshi/) |
+| | Jordan Brass |
 | |[Piers Bryn](https://www.durham.ac.uk/staff/piers-t-bryn/)|
 | |[Mina Buchvarova](https://www.durham.ac.uk/staff/mina-buchvarova/)|
 | |[Lawrence Carslake](https://www.durham.ac.uk/staff/lawrence-w-carslake/)|
 |   |[Chris Cumming](https://www.durham.ac.uk/staff/chris-d-cumming/)|
 | |[Ikenna Eze](https://www.durham.ac.uk/staff/ikenna-a-eze/)|
 |   |[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/)|
+| |Myles Harrison|
 |   |[Rebecca Hedley](https://www.durham.ac.uk/staff/rebecca-hedley/)|
 |   |[Tom Hepworth](https://www.durham.ac.uk/staff/tom-hepworth/)|
 | |[Colin Hung](https://www.durham.ac.uk/staff/colin-l-hung/)|
@@ -66,9 +69,18 @@ subtitle: Current members of the Durham QLM group
 | |[Ce Li](https://www.durham.ac.uk/staff/ce-li/)|
 | |[Zhejun Li](https://www.durham.ac.uk/staff/zhejun-li/)|
 |   |[David Lowit](https://www.durham.ac.uk/staff/david-lowit/)|
+| |Sean Madden|
+| |Hannah McGahan|
 | |[Rob Mellor](https://www.durham.ac.uk/staff/robert-mellor/)|
 |   |[Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/)|
 | |[Thomas Notman](https://www.durham.ac.uk/staff/thomas-r-notman/)|
+| |Lou Pickering|
+| |Lara Rogers|
+| |Malwina Rosak|
+| |Anna Sheehan|
+| |Matthew Simpson|
+| |Anurag Solanki|
 | |[Niamh Speakman](https://www.durham.ac.uk/staff/niamh-speakman/)|
+| |Andries Verhaeghe|
 |   |[Karen Wadenpfuhl](https://www.durham.ac.uk/staff/karen-wadenpfuhl/)|
 | |[Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/)|
