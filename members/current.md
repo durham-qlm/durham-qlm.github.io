@@ -46,36 +46,29 @@ subtitle: Current members of the Durham QLM group
 | |[Dr Krzysztof Sawicki](https://www.durham.ac.uk/staff/krzysztof-sawicki/)|
 | |[Dr. Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
 | Research Assistants: |[Yuanlei He](https://www.durham.ac.uk/staff/yuanlei-he/)|
-|Research Students:   |[Gianluca Allinson](https://www.durham.ac.uk/staff/gianluca-allinson/)|
-|   |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
-|   |[Toonyawat Angkhanawin](https://www.durham.ac.uk/staff/toonyawat-angkhanawin/)|
+| Research Students: |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
 |   |[Jeff Bai](https://www.durham.ac.uk/staff/songlin-bai/)|
 |   |[Archie Baldock](https://www.durham.ac.uk/staff/archie-baldock/)|
 |   |[Mark Bengyel](https://www.durham.ac.uk/staff/mark-bengyel/)|
 |   |[Francesca Blondell](https://www.durham.ac.uk/staff/francesca-m-blondell/)|
 |   |[Joe Bloomer](https://www.durham.ac.uk/staff/joe-t-bloomer/)|
-|   |[Tepi Booth](https://www.durham.ac.uk/staff/imhotep-t-booth/)|
-| |[Anuprava Boshki](https://www.durham.ac.uk/staff/anuprava-bokshi/)|
-|   |[Jack Briscoe](https://www.durham.ac.uk/staff/jack-d-briscoe/)|
+|   | [Anuprava Bokshi](https://www.durham.ac.uk/staff/anuprava-bokshi/) |
 | |[Piers Bryn](https://www.durham.ac.uk/staff/piers-t-bryn/)|
 | |[Mina Buchvarova](https://www.durham.ac.uk/staff/mina-buchvarova/)|
+| |[Lawrence Carslake](https://www.durham.ac.uk/staff/lawrence-w-carslake/)|
 |   |[Chris Cumming](https://www.durham.ac.uk/staff/chris-d-cumming/)|
 | |[Ikenna Eze](https://www.durham.ac.uk/staff/ikenna-a-eze/)|
 |   |[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/)|
 |   |[Rebecca Hedley](https://www.durham.ac.uk/staff/rebecca-hedley/)|
 |   |[Tom Hepworth](https://www.durham.ac.uk/staff/tom-hepworth/)|
 | |[Colin Hung](https://www.durham.ac.uk/staff/colin-l-hung/)|
-| |Lena Klar|
 | |[Thomas Leitch](https://www.durham.ac.uk/staff/thomas-w-leitch/)|
-| |Zhejun Li|
+| |[Ce Li](https://www.durham.ac.uk/staff/ce-li/)|
+| |[Zhejun Li](https://www.durham.ac.uk/staff/zhejun-li/)|
 |   |[David Lowit](https://www.durham.ac.uk/staff/david-lowit/)|
 | |[Rob Mellor](https://www.durham.ac.uk/staff/robert-mellor/)|
 |   |[Ryuji Moriya](https://www.durham.ac.uk/staff/ryuji-moriya/)|
-| |Thomas Notman|
-|   |[Saif-ullah Salim](https://www.durham.ac.uk/staff/saif-ullah-k-salim/)|
-| |Niamh Speakman|
-|   |[Li Tao](https://www.durham.ac.uk/staff/li-tao/)|
+| |[Thomas Notman](https://www.durham.ac.uk/staff/thomas-r-notman/)|
+| |[Niamh Speakman](https://www.durham.ac.uk/staff/niamh-speakman/)|
 |   |[Karen Wadenpfuhl](https://www.durham.ac.uk/staff/karen-wadenpfuhl/)|
-| |Carlin Stewart-Wiese|
 | |[Richard Wolfendale](https://www.durham.ac.uk/staff/richard-g-wolfendale/)|
-|   |[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/)|
