@@ -45,7 +45,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Daniel Ruttley](https://www.durham.ac.uk/staff/daniel-k-ruttley/)|
 | |[Dr Krzysztof Sawicki](https://www.durham.ac.uk/staff/krzysztof-sawicki/)|
 | |[Dr. Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
-| Research Assistants: |[Yuanlei He](https://www.durham.ac.uk/staff/yuanlei-he/)|
+| Research Assistants: |[Dr Yuanlei He](https://www.durham.ac.uk/staff/yuanlei-he/)|
 | Research Students: |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
 |   |[Jeff Bai](https://www.durham.ac.uk/staff/songlin-bai/)|
 |   |[Archie Baldock](https://www.durham.ac.uk/staff/archie-baldock/)|
