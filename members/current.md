@@ -8,18 +8,17 @@ subtitle: Current members of the Durham QLM group
 
 |Role|	Name (with link to Departmental page)|
 |---|---|
-|Head of Section:	|[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
-|Research Project Coordinator:	|[Lisa Qiao](https://www.durham.ac.uk/staff/liang-qiao/)|
-|Research Computing Support:	|[Samuel Bentum](https://www.durham.ac.uk/staff/samuel-bentum/)|
+|Head of Section:	|[Prof. Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/)|
+|Research Project Coordinator:	|[Michaela Glendinning](https://www.durham.ac.uk/staff/michaela-glendinning/)|
 |Staff:	|[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
 |   |[Dr. David Carty](https://www.durham.ac.uk/staff/david-carty/)|
-|	|[Prof. Simon Cornish](https://www.durham.ac.uk/staff/s-l-cornish/)|
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
 |   |[Dr. Tobias Franzen](franzen)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
 |   |[Dr. Philip Gregory](gregory) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
 |   |[Dr. Alexander Guttridge](guttridge)|
+| |[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
 |   |[Prof. Jeremy Hutson](https://www.durham.ac.uk/staff/j-m-hutson/)|
 |	|[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/)|
 |   |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/)|
@@ -27,26 +26,26 @@ subtitle: Current members of the Durham QLM group
 |	|[Prof. Kevin Weatherill](https://www.durham.ac.uk/staff/k-j-weatherill/)|
 |	|[Dr. Hannah Williams](https://www.durham.ac.uk/staff/hannah-williams4/)|
 |	|[Dr. Steven Wrathmall](https://www.durham.ac.uk/staff/s-a-wrathmall/) ([Group page](saw))|
-|Research Associates:   |[Dr. Carlos Bracamontes](https://www.durham.ac.uk/staff/carlos-bracamontes/)|
-| |[Dr. Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/)|
+| Research Associates: |[Dr Satvika Bandarupally](https://www.durham.ac.uk/staff/satvika-bandarupally/)|
+|  |[Dr Mateusz Bochenski](https://www.durham.ac.uk/staff/mateusz-bochenski/)|
+|   |[Dr. Carlos Bracamontes](https://www.durham.ac.uk/staff/carlos-bracamontes/)|
 |   |[Dr. Arpita Das](https://www.durham.ac.uk/staff/arpita-das/)|
 |   |[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 | |[Dr. Joy Dutta](https://www.durham.ac.uk/staff/joy-dutta/)|
-| |[Dr. Sujit Garain](https://www.durham.ac.uk/staff/sujit-garain/)|
-|   |[Dr. James Gill-Fleming](https://www.durham.ac.uk/staff/james-p-fleming/)|
 |   |[Dr. Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
 | |[Dr. Ruth Le Sueur](https://www.durham.ac.uk/staff/c-r-lesueur/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
 |   |[Dr. Benjamin Maddox](https://www.durham.ac.uk/staff/benjamin-p-maddox/)|
-|   |Dr. Alex Matthies|
+| |[Dr Bahtiyar Maimaiti](https://www.durham.ac.uk/staff/baihetiyaer-maimaiti/)|
 |   |[Dr. Jonathan Mortlock](https://www.durham.ac.uk/staff/jonathan-m-mortlock/)|
-| |Dr. Navraj Poudel|
+| |[Dr. Navraj Poudel](https://www.durham.ac.uk/staff/navraj-poudel/)|
 |   |[Dr. Adarsh Raghuram](https://www.durham.ac.uk/staff/adarsh-p-raghuram/)|
 |   |[Dr. Caleb Rich](https://www.durham.ac.uk/staff/caleb-j-rich/)|
 |   |[Dr. Daniel Ruttley](https://www.durham.ac.uk/staff/daniel-k-ruttley/)|
-|   |[Dr. Jack Segal](https://www.durham.ac.uk/staff/jack-d-segal/)|
+| |[Dr Krzysztof Sawicki](https://www.durham.ac.uk/staff/krzysztof-sawicki/)|
 | |[Dr. Mitchell Walker](https://www.durham.ac.uk/staff/mitchell-j-walker/)|
+| Research Assistants: |[Yuanlei He](https://www.durham.ac.uk/staff/yuanlei-he/)|
 |Research Students:   |[Gianluca Allinson](https://www.durham.ac.uk/staff/gianluca-allinson/)|
 |   |[Sharaa Alqarni](https://www.durham.ac.uk/staff/sharaa-alqarni/)|
 |   |[Toonyawat Angkhanawin](https://www.durham.ac.uk/staff/toonyawat-angkhanawin/)|
