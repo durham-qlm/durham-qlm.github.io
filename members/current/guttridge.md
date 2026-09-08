@@ -47,19 +47,26 @@ In my group, we aim to exploit advanced quantum engineering techniques to explor
 
     Developing a two-species optical tweezer platform to build programmable quantum systems atom by atom.
   
-Beyond my group’s core research, I contribute to a range of national and international collaborations using individually controlled atoms and molecules for quantum science. I lead an [international collaboration with the University of Waterloo](https://www.durham.ac.uk/news-events/latest-news/2025/01/grant-award-enables-durham-physicists-to-lead-international-quantum-projects-/) focused on developing "generation after next" quantum sensor arrays using atoms and molecules in optical tweezers. I am also co-investigator on the EPSRC Programme grant *Quantum many-body physics with ultracold polar molecules* and the project *Enhancing molecular control using Rydberg atoms*. The project below is in collaboration with Prof. Simon Cornish:
+Beyond my group’s core research, I contribute to a range of national and international collaborations using individually controlled atoms and molecules for quantum science. I lead an [international collaboration with the University of Waterloo](https://www.durham.ac.uk/news-events/latest-news/2025/01/grant-award-enables-durham-physicists-to-lead-international-quantum-projects-/) focused on developing "generation after next" quantum sensor arrays using atoms and molecules in optical tweezers. I am also co-investigator on the EPSRC Programme grant *Quantum many-body physics with ultracold polar molecules* and the project *Enhancing molecular control using Rydberg atoms*. 
+
+The projects below are in collaboration with other QLM members:
 
 - [Enhancing molecular control using Rydberg atoms](https://www.cornishlabs.uk/tweezers) (with Prof. Simon Cornish)
 
     Exploring how to use Rydberg atoms to enhance the control of ultracold polar molecules in optical tweezers.
+
+- Theory of hybrid dipolar systems (with Prof. Simon Gardiner)
+
+  We are exploring hybrid dipolar systems, such as combinations of molecules and Rydberg atoms or two distinct species, to advance quantum control. By harnessing their strong dipolar interactions, we are developing novel schemes for both quantum computing and quantum sensing.
     
+   
 ---
 
 ## Opportunities
 
 We are always looking for motivated students and researchers interested in experimental quantum science. 
 
-**We are currently recruiting for my DualQD project**. Interested students please see [here](/join/phdrecruit#CYBER) for our current opportunities.
+**We are currently recruiting for my DualQD project**. Interested students please see [here](/join/phdrecruit) for our current opportunities.
 
 We also welcome approaches from postdoctoral researchers interested in applying for independent research fellowships to be hosted in Durham. For example the [Royal Society Newton International Fellowship](https://royalsociety.org/grants/newton-international/) and the [Marie Skłodowska-Curie Postoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
