@@ -36,8 +36,12 @@ navbar-links:
   Groups:
     - CaF Group: "research/coldmol/cafcool"
     - Cornish Group: "https://www.cornishlabs.uk"
-    - Terahertz Group: "research/tech/terahertz"
+    - Franzen Group: "https://durham-qlm.uk/research/tech/quantum-networking"
+    - Gregory Lab: "https://durham-qlm.uk/research/gregory-lab"
+    - Guttridge group: "https://durham-qlm.uk/members/current/guttridge"
     - Rydberg Excitons Group: "research/rydberg/excitons"
+    - Terahertz Group: "research/tech/terahertz"
+
   EDI: "edi/"
   Seminars: "seminars"
     # - Seminars: 
