@@ -37,6 +37,7 @@ navbar-links:
     - CaF Group: "research/coldmol/cafcool"
     - Cornish Group: "https://www.cornishlabs.uk"
     - Terahertz Group: "research/tech/terahertz"
+    - Rydberg Excitons Group: "research/rydberg/excitons"
   EDI: "edi/"
   Seminars: "seminars"
     # - Seminars: 
