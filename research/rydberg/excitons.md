@@ -14,7 +14,7 @@ Semiconductors can host quantum states that closely resemble the energy structur
 An exciton is the solid-state analogue of an atom. It consists of an electron and a hole bound together by the Coulomb attraction. As a bound state of a positive and negative charge, excitons exhibit a similar electronic structure to atoms, including a Rydberg series of energy levels. In the photo shown below, each dark line corresponds to an exciton resonance. The pattern of lines looks remarkably similar to an atomic spectrum, with the spectral lines getting closer together as the energy increases.
 
 ![](excitons/img/spec.png)
-*Spectrally resolved photo of the exciton spectrum.*
+*Spectrally resolved photo revealing the presence of atom-like energy level (excitons, dark bands) in a semiconductor.*
 
 The excitons on the right-hand side of the spectrum are particularly interesting. These are Rydberg excitons. In these highly excited states, the average separation between the electron and hole can be larger than a micron.
 
