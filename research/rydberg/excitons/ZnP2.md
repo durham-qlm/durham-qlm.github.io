@@ -1,8 +1,9 @@
 ---
-
 layout: page
 title: Rydberg Excitons in ZnP<sub>2</sub>
-------------------------------------------
+subtitle: 
+---
+
 
 ## Making photons interact with each other
 
