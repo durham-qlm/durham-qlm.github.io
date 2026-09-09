@@ -15,4 +15,6 @@ While many of OLM's activities are relevant to these areas, the below projects s
 |[THz Sensing and Imaging](/research/tech/terahertz)| ![](/join/img/THz.jpg) |
 |[Telecom-wavelength quantum networking between arrays of Yb atoms](/research/tech/quantum-networking) | [![](/research/tech/quantum-networking/networking.png)](/research/tech/quantum-networking)|
 |[Dual-species tweezer arrays for next-generation quantum devices](/research/tech/dualqd) | [![](/research/tech/DualQD/DualQD_2.png)](/research/tech/dualqd)|
+|[Strongly interacting Rydberg exciton-polaritons](/research/rydberg/excitons/ZnP2) | [![](/research/rydberg/excitons/img/ZnP2microcavity.svg)](/research/rydberg/excitons/ZnP2)|
+|[Hybrid qauntum system of excitons and superconductors](/research/rydberg/excitons/Cu2O) | [![](/research/rydberg/excitons/img/Cu2O_and_Superconductor.png)](/research/rydberg/excitons/Cu2O)|
 
