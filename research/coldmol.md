@@ -21,7 +21,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
     </tr>
     <tr>
         <td>
-            <a href="https://www.cornishlabs.uk/rbcs">Controlling Ground State RbCs Molecules</a>
+            <a href="https://www.cornishlabs.uk/rbcs">RbCs in bulk gases</a>
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/rbcs/img/intro.png" alt="RbCs"/></td>
     </tr>
@@ -49,12 +49,5 @@ In Durham we work to harness properties of such molecules with a variety of tech
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/source.jpg" alt="CaF cooling"/></td>
     </tr>   
-    <tr>
-        <td>
-            <a href="/research/coldmol/collisions">Exploring ultracold molecular collisions</a>
-        </td>
-        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/collisions/img/collisions.png" alt="Collision theory"/></td>
-    </tr>
-
 </table>
 
