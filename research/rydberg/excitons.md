@@ -1,80 +1,53 @@
----
+--
+
 layout: page
 title: Rydberg Excitons
-subtitle: Cuprous Oxide
----
-## Excitons
-Excitons are atom-like particles which are found in bulk semiconductors. They are formed of an electron and a hole which are bound together by a Coulomb potential. As they are a bound state of a positive and negative charge, they are analogous to hydrogen atoms, and share a similar ladder of energy levels. An exciton spectrum can be seen in the image below, where each dark line is a different exciton resonance. The similarities with an atomic system is immediately apparent in this image from looking at the patterns of these spectral lines. Our studies focus on the highly excited states on the right hand side of the image, known as Rydberg excitons.
+-----------------------
 
-![](excitons/img/spec.png) <br>
-*Spectrally resolved photo of the exciton spectrum.*
-
-## Cuprous Oxide
 ![](excitons/img/stone.png)
 *Natural cuprous oxide gemstone.*
 
-Our experiments are performed on the semiconductor Cu2O, which is the red gemstone below. Rydberg excitons are incredibly sensitive to their environment, and so very pure crystals must be used. Currently, the highest purity crystals are natural gemstones, but one avenue of our research is to explore the growth of high-purity syntehtic material, through collaborations with Cardiff University. 
+## Giant “atoms” inside a crystal
 
-## Microwave-optical Coupling 
-![](excitons/img/absorptionspec.png) <br>
-*Exciton spectrum showing quantum number states as high as 16.*
+Semiconductors can host quantum states that closely resemble the energy structure of atoms. These states, known as excitons, provide a unique way to explore atomic physics within a solid.
 
-The high lying Rydberg excitons show many exaggerated properties compared to ground state excitons. Crucially, the dipole-moment associated with transitions between Rydberg states scales with the principal quantum number squared, leading to interactions between excitons and as well as other nonlinear effects. In our experiments we use a microwave field to couple neighbouring Rydberg exciton levels, directly exploiting the large dipole moment associated with these transitions. As we create our Rydberg states through optical excitation with a laser, we have a system which can form the basis of a microwave-optical converter. One of our aims is to create a high-bandwidth and high-efficency microwave-optical converter. To acheive this, one of our current projects is looking at creating a hybrid quantum system consisting of cuprous oxide and a superconducting microwave resonator. 
+An exciton is the solid-state analogue of an atom. It consists of an electron and a hole bound together by the Coulomb attraction. As a bound state of a positive and negative charge, excitons exhibit a similar electronic structure to atoms, including a Rydberg series of energy levels. In the photo shown below, each dark line corresponds to an exciton resonance. The pattern of lines looks remarkably similar to an atomic spectrum, with the spectral lines getting closer together as the energy increases.
 
-![](excitons/img/cardiff_visit.png) <br>
-*Our recent visit to the University of Cardiff*
+![](excitons/img/spec.png)
+*Spectrally resolved photo of the exciton spectrum.*
 
-## Apply Now!
-If you are interested in joining the team or finding out more, please contact m.p.a.jones@durham.ac.uk.
+The excitons on the right-hand side of the spectrum are particularly interesting. These are Rydberg excitons. In these highly excited states, the average separation between the electron and hole can be larger than a micron.
 
-## Team members 
-[Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (Principal investigator) <br>
-[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/) (Co-investigator) <br>
-[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Reseracher co-investigator) <br>
-[Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) <br>
-Madeleine Fisher (PhD student) 
+## Why are Rydberg excitons exciting?
 
-## Former members 
-[Dr. Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/) (Former PhD student) <br>
-[Dr. Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/) (Former PhD student) <br>
-[Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Postdoctoral Research Assistant)
+The large spatial extent of Rydberg excitons makes them extremely sensitive to small perturbations. They show enhanced sensitivity to electric fields and stronger interactions compared with ground-state excitons. These properties make Rydberg excitons a highly nonlinear system and open up exciting possibilities for studying nonlinear quantum systems.
 
-## Collaborators
-### Cardiff University
-[Prof. Stephen Lynch](https://profiles.cardiff.ac.uk/staff/lynchsa) <br>
-[Prof. Wolfgang Langbein](https://profiles.cardiff.ac.uk/staff/langbeinww) <br>
-[Prof. Simon Doyle](https://profiles.cardiff.ac.uk/staff/doylesm) 
+Our research in Durham explores these possibilities in two different directions:
 
-### University of St Andrews
-[Dr Hamid Ohadi](https://research-portal.st-andrews.ac.uk/en/persons/hamid-ohadi)
+## Rydberg excitons + superconducting circuits
 
-## Publications
-[1] Microwave-optical spectroscopy of Rydberg excitons in the ultrastrong driving regime <br>
-*Brewin, A., Gallagher, L. A., Pritchett, J. D., Wong, H. Q., Potvliege, R. M., Clark, S. J., & Jones, M.* <br>
-[*New J. Phys. 26 113018 (2024)*](https://iopscience.iop.org/article/10.1088/1367-2630/ad8c74)
+Professor Matt Jones leads a project investigating how Rydberg excitons in Cu<sub>2</sub>O could be coupled to a superconducting microwave circuit.
 
-[2] Giant microwave–optical Kerr nonlinearity via Rydberg excitons in cuprous oxide <br>
-*Pritchett, J.D., Gallagher, L.A., Brewin, A., Wong, H.Q., Langbein, W., Lynch, S.A., Adams, C.S. and Jones, M.* <br>
-[*APL Photonics <b>9</b> (3): 031303 (2024)*](https://pubs.aip.org/aip/app/article/9/3/031303/3268067)
+Superconducting circuits provide an exceptionally powerful platform for controlling quantum states using microwaves. By coupling them to Rydberg excitons, we aim to create an optical readout of the superconducting circuit, creating a new hybrid quantum system with applications in quantum networking.
 
-[3] Microwave-optical coupling via Rydberg excitons in cuprous oxide <br>
-*Gallagher, L., Rogers, J., Pritchett, J., Mistry, R., Pizzey, D., Adams, C., Jones, M., Grünwald, P., Walther, V., & Hodges, C.* <br>
-[*Phys. Rev. Research <b>4</b>, 013031 (2022)*](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.013031) <br>
+[Find out more about the Cu<sub>2</sub>O project](excitons/cu2o/)
 
-[4] High-resolution nanosecond spectroscopy of even-parity Rydberg excitons in Cu 2 O <br>
-*Rogers, J., Gallagher, L., Pizzey, D., Pritchett, J., Adams, C., Jones, M., Hodges, C., Langbein, W., & Lynch, S.* <br> 
-[*Phys. Rev. B <b>105</b>, 115206 (2022)*](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.105.115206) <br>
+## Rydberg excitons + photons
 
-[5] Rydberg excitons in synthetic cuprous oxide Cu 2 O <br>
-*Lynch, S., Hodges, C., Mandal, S., Langbein, W., Singh, R., Gallagher, L., Pritchett, J., Pizzey, D., Rogers, J., & Adams, C.* <br>
-[*Phys. Rev. Materials <b>5</b>, 084602 (2021)*](https://journals.aps.org/prmaterials/pdf/10.1103/PhysRevMaterials.5.084602)
+Dr Liam Gallagher leads a project exploring how the strong interactions between Rydberg excitons can be used to make photons interact with one another.
 
+Normally, photons do not interact, making it difficult to use them for quantum information processing. By using Rydberg excitons as an intermediate state, we aim to create effective photon–photon interactions.
 
+This work uses a new material with low optical losses, opening up new opportunities for studying strongly interacting light.
 
+[Find out more about the ZnP<sub>2</sub> project](excitons/ZnP2/)
 
+## Want to do cutting-edge quantum research?
 
+We are always looking for motivated students and postdocs who want to work on challenging problems at the intersection of quantum physics, condensed matter, and photonics.
 
-## PhD Theses
-Jon Pritchett: [Microwave Induced Optical Nonlinearities in Cuprous Oxide (2023)](https://etheses.dur.ac.uk/15291/) <br>
-Liam Gallagher: [Optical and microwave spectroscopy of Rydberg excitons in Cu $ _2 $ O (2022).](http://etheses.dur.ac.uk/14296/1/Gallagher000720653_corrected.pdf) 
+If you are excited by the idea of exploring new quantum systems, we would love to hear from you.
 
+Contact [m.p.a.jones@durham.ac.uk](mailto:m.p.a.jones@durham.ac.uk) or [liam.a.gallagher@durham.ac.uk](mailto:liam.a.gallagher@durham.ac.uk) to find out more.
+
+<a href="https://durham-qlm.uk/join/phdrecruit/" target="_blank">View current PhD opportunities in QLM</a>
