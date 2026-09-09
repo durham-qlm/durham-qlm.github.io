@@ -1,8 +1,8 @@
---
-
+---
 layout: page
-title: Rydberg Excitons
------------------------
+title: Rydberg excitons
+subtitle: 
+---
 
 ![](excitons/img/stone.png)
 *Natural cuprous oxide gemstone.*
@@ -30,7 +30,7 @@ Professor Matt Jones leads a project investigating how Rydberg excitons in Cu<su
 
 Superconducting circuits provide an exceptionally powerful platform for controlling quantum states using microwaves. By coupling them to Rydberg excitons, we aim to create an optical readout of the superconducting circuit, creating a new hybrid quantum system with applications in quantum networking.
 
-[Find out more about the Cu<sub>2</sub>O project](excitons/cu2o/)
+[Find out more about the Cu<sub>2</sub>O project](cu2o/)
 
 ## Rydberg excitons + photons
 
@@ -40,7 +40,7 @@ Normally, photons do not interact, making it difficult to use them for quantum i
 
 This work uses a new material with low optical losses, opening up new opportunities for studying strongly interacting light.
 
-[Find out more about the ZnP<sub>2</sub> project](excitons/ZnP2/)
+[Find out more about the ZnP<sub>2</sub> project](ZnP2/)
 
 ## Want to do cutting-edge quantum research?
 
