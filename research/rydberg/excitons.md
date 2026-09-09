@@ -30,7 +30,7 @@ Professor Matt Jones leads a project investigating how Rydberg excitons in Cu<su
 
 Superconducting circuits provide an exceptionally powerful platform for controlling quantum states using microwaves. By coupling them to Rydberg excitons, we aim to create an optical readout of the superconducting circuit, creating a new hybrid quantum system with applications in quantum networking.
 
-[Find out more about the Cu<sub>2</sub>O project](cu2o/)
+[Find out more about the Cu<sub>2</sub>O project](Cu2O/)
 
 ## Rydberg excitons + photons
 
