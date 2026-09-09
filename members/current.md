@@ -16,7 +16,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Tobias Franzen](franzen)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
-|   |[Dr. Philip Gregory](https://durham-qlm.uk/research/gregory-lab) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
+|   |[Dr. Philip Gregory](https://durham-qlm.uk/gregory-lab) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|
 |   |[Dr. Alexander Guttridge](guttridge)|
 | |[Prof. Ifan Hughes](https://www.durham.ac.uk/staff/i-g-hughes/)|
 |   |[Prof. Jeremy Hutson](https://www.durham.ac.uk/staff/j-m-hutson/)|

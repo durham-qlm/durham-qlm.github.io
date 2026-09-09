@@ -49,5 +49,11 @@ In Durham we work to harness properties of such molecules with a variety of tech
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/collisions/img/collisions.png" alt="Collision theory"/></td>
     </tr>
+<tr>
+        <td>
+            <a href="/gregory-lab">Ultrapolar RbAg molecules</a>
+        </td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/MOT.png" alt="Atoms in a magneto-optical trap"/></td>
+    </tr>
 </table>
 
