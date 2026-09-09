@@ -2,6 +2,7 @@
 layout: page
 title: Quantum networking
 subtitle: connecting single atoms over telecom fibres
+permalink: /franzen/
 ---
 
 We are an experimental research group at Durham QLM with the goal of realising quantum networking between arrays of single ytterbium (Yb) atoms for applications ranging from quantum enhanced remote sensing to quantum computing.
