@@ -5,7 +5,7 @@ title: A Hybrid Quantum System of Excitons and Superconductors
 
 In this project, we are using Rydberg excitons in Cu<sub>2</sub>O as an interface between microwave and optical frequencies. Cu<sub>2</sub>O is the classic semiconductor for exciton physics. An exciton is a bound state of an electron and a hole, which can be created optically by illuminating the material with a laser. Just like atoms, the bound states of excitons follow a Rydberg series, defined by the principal quantum number *n*, as shown below.
 
-![](excitons/img/absorptionspec.png) <br>
+![](img/absorptionspec.png) <br>
 *Exciton spectrum showing quantum number states as high as 16.*
 
 The spectrum above shows the Rydberg series of exciton resonances in Cu<sub>2</sub>O. As *n* increases, the levels become increasingly closely spaced, eventually converging towards the band gap of the semiconductor.
@@ -20,7 +20,7 @@ One of the goals of our research is to exploit these strong microwave transition
 
 Superconducting circuits are a leading platform for quantum computing, with quantum information encoded in microwave-frequency states. Rydberg excitons offer a way of coupling these microwave systems to the optical domain.
 
-![]() <br>
+![](img/Cu2O_and_Superconductor.png) <br>
 *Cu<sub>2</sub>O crystal on top of a superconducting microwave resonator*
 
 In our experiments, a high-quality Cu<sub>2</sub>O crystal is placed on top of a superconducting microwave resonator. The microwave field from the superconducting resonator is designed to penetrate the Cu<sub>2</sub>O sample, where Rydberg excitons are created with a laser beam, creating a hybrid quantum system of excitons and superconductors. This hybrid system could ultimately provide an **optical readout of a superconducting qubit**.
