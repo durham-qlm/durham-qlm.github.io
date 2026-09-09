@@ -2,7 +2,6 @@
 layout: page
 title: Quantum networking
 subtitle: connecting single atoms over telecom fibres
-permalink: /franzen/
 ---
 
 We are an experimental research group at Durham QLM with the goal of realising quantum networking between arrays of single ytterbium (Yb) atoms for applications ranging from quantum enhanced remote sensing to quantum computing.
@@ -55,7 +54,7 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 
 |   |   | 
 |----|----|
-|[![](/members/current/franzen/franzen_s.jpg)](/members/current/franzen)|[Dr. Tobias Franzen (he/him)](/members/current/franzen) <br/>(PI)<br/> [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk)
+|[![](/members/current/franzen/franzen_s.jpg)](/franzen)|[Dr. Tobias Franzen (he/him)](/franzen) <br/>(PI)<br/> [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk)
 |  |[Dr. Danielle Pizzey](https://www.durham.ac.uk/staff/danielle-boddy/) <br/>(QLM Chief Experimental Officer)|  
 
 

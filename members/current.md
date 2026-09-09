@@ -13,7 +13,7 @@ subtitle: Current members of the Durham QLM group
 |Staff:	|[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
 |   |[Dr. David Carty](https://www.durham.ac.uk/staff/david-carty/)|
 |	|[Prof. David Flower](https://www.durham.ac.uk/staff/david-flower/)|
-|   |[Dr. Tobias Franzen](franzen)|
+|   |[Dr. Tobias Franzen](/franzen)|
 |   |[Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/)|
 |	|[Prof. Simon Gardiner](https://www.durham.ac.uk/staff/s-a-gardiner/)|
 |   |[Dr. Philip Gregory](https://durham-qlm.uk/gregory-lab) ([Google Scholar](https://scholar.google.co.uk/citations?user=lI9XargAAAAJ&hl=en))|

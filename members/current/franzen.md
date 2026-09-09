@@ -2,6 +2,7 @@
 layout: page
 title: QLM member
 subtitle:
+permalink: /franzen/
 ---
 
 ## Dr. Tobias Franzen (he/him)
@@ -23,9 +24,6 @@ I am an Assistant Professor (Research) and EPSRC Quantum Technologies Career acc
 
 * [tobias.franzen@durham.ac.uk](tobias.franzen@durham.ac.uk)
 
-## Bio
-
-Tobias Franzen earned his PhD from HHU Düsseldorf (Germany), where we worked on optical lattice clocks and on a new setup for investigations on ultracold Rb-Yb mixtures. He then joined Durham University to work with Simon Cornish on ultracold CsYb mixtures and molecules. Tobias has recently been awarded an EPSRC quantum technologies career acceleration fellowship to work on quantum networking between arrays of neutral ytterbium atoms. Outside of work he can be found working on his van, hill walking and attending metal concerts.
 
 ## Links
 * [Telecom-wavelength quantum networking between arrays of Yb atoms](/research/tech/quantum-networking)
