@@ -6,7 +6,7 @@ title: A Hybrid Quantum System of Excitons and Superconductors
 In this project, we are using Rydberg excitons in Cu<sub>2</sub>O as an interface between microwave and optical frequencies. Cu<sub>2</sub>O is the classic semiconductor for exciton physics. An exciton is a bound state of an electron and a hole, which can be created optically by illuminating the material with a laser. Just like atoms, the bound states of excitons follow a Rydberg series, defined by the principal quantum number *n*, as shown below.
 
 ![](img/absorptionspec.png) <br>
-*Exciton spectrum showing quantum number states as high as 16.*
+*Exciton spectrum showing principal quantum number states as high as *n* = 16.*
 
 The spectrum above shows the Rydberg series of exciton resonances in Cu<sub>2</sub>O. As *n* increases, the levels become increasingly closely spaced, eventually converging towards the band gap of the semiconductor.
 
@@ -21,7 +21,7 @@ One of the goals of our research is to exploit these strong microwave transition
 Superconducting circuits are a leading platform for quantum computing, with quantum information encoded in microwave-frequency states. Rydberg excitons offer a way of coupling these microwave systems to the optical domain.
 
 ![](img/Cu2O_and_Superconductor.png) <br>
-*Cu<sub>2</sub>O crystal on top of a superconducting microwave resonator*
+*Red Cu<sub>2</sub>O crystal imaged through a square hole in the ground plane of a superconducting microwave resonator. Dark horizontal bars are three different superconducting microwave resonators.*
 
 In our experiments, a high-quality Cu<sub>2</sub>O crystal is placed on top of a superconducting microwave resonator. The microwave field from the superconducting resonator is designed to penetrate the Cu<sub>2</sub>O sample, where Rydberg excitons are created with a laser beam, creating a hybrid quantum system of excitons and superconductors. This hybrid system could ultimately provide an **optical readout of a superconducting qubit**.
 
@@ -41,21 +41,21 @@ We are always interested in hearing from motivated students and researchers inte
 
 Contact [m.p.a.jones@durham.ac.uk](mailto:m.p.a.jones@durham.ac.uk) to find out more.
 
-![](excitons/img/cardiff_visit.png) <br>
+![](img/cardiff_visit.png) <br>
 *Our recent visit to the University of Cardiff.*
 
 ## Team members 
 [Prof. Matthew Jones](https://www.durham.ac.uk/staff/m-p-a-jones/) (Principal investigator) <br>
 [Dr. Liam Gallagher](https://www.durham.ac.uk/staff/liam-a-gallagher/) (Reseracher co-investigator) <br>
-[Dr. Krzysztof Sawicki](https://ksawicki.com/)(PDRA)<br>
-[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/)(PhD Student)<br>
+[Dr. Krzysztof Sawicki](https://ksawicki.com/) (PDRA)<br>
+[Madeleine Fisher](https://www.durham.ac.uk/staff/madeleine-fisher/) (PhD Student)<br>
 
 
 ## Former members 
 [Dr. Qin Xi (Horatio) Wong](https://www.durham.ac.uk/staff/qin-x-wong/) (PhD student) <br> 
 [Dr. Alistair Brewin](https://www.durham.ac.uk/staff/alistair-brewin/) (Former PhD student) <br>
 [Dr. Jonathan Pritchett](https://www.durham.ac.uk/staff/jonathan-pritchett/) (Former PhD student) <br>
-[Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Postdoctoral Research Assistant)
+[Dr. Joshua Rogers](https://figshare.manchester.ac.uk/authors/Joshua_Rogers/12843404) (Former PDRA)
 
 ## Collaborators
 ### Cardiff University
