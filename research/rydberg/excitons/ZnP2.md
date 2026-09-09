@@ -30,7 +30,7 @@ A microcavity confines light between two mirrors, allowing photons to interact s
 
 In our experiments, we will create a ZnP<sub>2</sub> microcavity designed to strongly couple cavity photons to Rydberg excitons.
 
-![](img/ZnP2microcavity.png)
+![](img/ZnP2microcavity.svg)
 
 The low optical loss of ZnP<sub>2</sub> is particularly important here. It allows us to create high-quality cavities, which in turn will allow high-*n* Rydberg states to be strongly coupled to light.
 
