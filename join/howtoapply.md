@@ -5,9 +5,11 @@ subtitle: Procedure and FAQs
 ---
 
 ## How to apply:
-              
-1. Contact a project lead - projects are listed <a href="https://durham-qlm.uk/join/phdrecruit/">here</a>.
-2. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )
+
+The admissions process for the next round of QLM postgraduate positions will be opened mid-October. 
+Detailed instructions will be given here in due course. 
+<! 1. Contact a project lead - projects are listed <a href="https://durham-qlm.uk/join/phdrecruit/">here</a>.>
+<! 2. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )>
              
 ## FAQs
 ### Can I get paid to do a PhD?
