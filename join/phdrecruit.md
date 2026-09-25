@@ -401,7 +401,7 @@ Ultracold polar molecules offer a wide range of exciting research directions spa
 <br><br>
 In the course of the project you will be trained in the key techniques underpinning modern applications in ultracold atoms and molecules in quantum science and technology, opening up a wide range of future career paths. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb2026.png" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb2026.png" height="300"/></center>
 <br>
 This project is supported by a UKRI research grant which provides links to world-leading theory collaborators both nationally and internationally. 
 <br><br>
