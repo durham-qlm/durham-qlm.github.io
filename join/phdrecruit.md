@@ -130,3 +130,28 @@ For further details about the RbCs quantum gas microscope experiment see <a href
 
 
 
+
+
+<tr>
+  <td>
+      	<h5><a id="Hughes">‘Visualizing strongly-focused 3D light fields in an atomic vapour.</a></h5>  
+Strongly focused structured light generates highly confined vectorial electromagnetic field distributions, which may feature a polarization component along the optical axis. Despite statements found in some optics textbooks that light is a transverse wave, the real picture is more complicated. Axial components exist but manipulating and detecting such 3D light fields is challenging. Vector light can, however, be mapped onto atomic polarizations, making electric dipole transitions an ideal candidate to sense such 3D light configurations.  
+<br>
+In this project you will join a team that is internationally leading on experiments in the field of spectroscopy of atomic vapours.  The project is in collaboration with Glasgow University that provide world-leading expertise on shaped and structured light. You will be trained in the state-of-the-art techniques of atomic and quantum physics, quantum optics and photonics, and the interaction of atoms with strong magnetic fields. 
+
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/light.jpg" height="400"/></center>
+
+For any questions about the position, please contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Ifan Hughes</a> and <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+
+
+
+
+
