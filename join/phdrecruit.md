@@ -379,7 +379,7 @@ In this project, you will investigate Rydberg excitons embedded in optical micro
 <br><br>
 The ultimate aim of the project is to exploit the strong optical nonlinearities of Rydberg exciton polaritons to develop sources of nonclassical light, providing a new approach to quantum optical technologies. The project will provide training in transferable skills including semiconductor device fabrication, cryogenics, advanced optical spectroscopy and quantum optics. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/ZnP2_advert_image_2027.png" height="300"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/ZnP2_advert_image_2027.png" height="250"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:liam.a.gallagher@durham.ac.uk">Dr. Liam Gallagher</a>.
 <br><br>
@@ -401,7 +401,7 @@ Ultracold polar molecules offer a wide range of exciting research directions spa
 <br><br>
 In the course of the project you will be trained in the key techniques underpinning modern applications in ultracold atoms and molecules in quantum science and technology, opening up a wide range of future career paths. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb2026.png" height="300"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb2026.png" height="350"/></center>
 <br>
 This project is supported by a UKRI research grant which provides links to world-leading theory collaborators both nationally and internationally. 
 <br><br>
@@ -451,7 +451,7 @@ You will work on a transportable quantum networking node already under developme
 <br><br>
 This project combines hands-on experimental work on state-of-the-art neutral atom systems relevant to quantum computing, sensing and timing with fundamental physics. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/EntangledClocks.png" height="300"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/EntangledClocks.png" height="350"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a> and <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Matthew Jones</a>.
 <br><br>
