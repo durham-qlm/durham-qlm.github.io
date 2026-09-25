@@ -35,9 +35,9 @@ We hope that you will join us and become a part of the QLM!<br>
 Ultracold molecules offer unique opportunities for quantum computing, quantum sensing and quantum simulation. Their many internal levels can store quantum information coherently for long times, and their interactions can be tuned to realize quantum gates with exceptionally low fundamental error rates. Furthermore, their rich internal structure naturally has many degrees of freedom which encode quantum information. Furthermore, ultracold molecules in optical tweezers can naturally be interfaced with Rydberg atoms, one of the leading platforms for quantum information processing. These features can be used to realize programmable quantum many-body dynamics. However, their quantum many-body dynamics beyond two-level systems has so far remained largely unexplored and theoretical progress is needed to use their rich internal structure. 
 <br><br>
 In this numerical theory project, you will investigate the many-body multi-level quantum dynamics of ultracold molecules and explore how to generate exotic quantum states with applications in quantum simulation and quantum error correction. You will develop theoretical models to efficiently describe molecular many-body dynamics, leading to new control techniques of their multi-level structure. You will develop state-of-the-art numerical simulations to compute the quantum many-body dynamics of ultra cold molecules, and identify regimes where we can generate useful entanglement. These theory work will be cross-fertilized by local experimental efforts, which may inspire insightful collaborations. 
-
+<br>
 <center><img src="{{ site.url }}{{ site.baseurl }}/join/img/molecule-manybody.png" height="300"/></center>
-
+<br>
 For more information about the project, please contact <a href="mailto:david.wellnitz@durham.ac.uk" target="_blank">Dr. David Wellnitz</a>. 
 	<br><br>
 	<a href="#proj">Back to table</a>
@@ -58,9 +58,9 @@ For more information about the project, please contact <a href="mailto:david.wel
 Rydberg atoms are highly excited atoms with extreme properties. This project will use thermal Rydberg atoms to measure static electric fields in the mV/cm range. Rydberg electromagnetically induced transparency (EIT), pioneered at Durham, offers MHz-level spectral resolution of Rydberg states and enables detection of small fields via Stark shifts due to the high polarizability of Rydberg states (∝ n⁷).  
 <br><br>
 In this 3.5-year project, we will develop vapour cells that allow DC field access, overcoming screening in conventional cells. Next, we’ll implement Doppler-free EIT schemes to enhance spectral resolution to ~200 kHz, boosting sensitivity by an order of magnitude. We will also investigate using atomic states with high orbital angular momentum.  Finally, we’ll apply these methods to identify and localise charge states of components behind barriers and assess the commercial viability of the technique in combination with industrial partners. <br>
-
+<br>
 <center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400"/></center>
-
+<br>
 The project is funded by the UK Quantum Centre for Nuclear Defence and Security and is open to UK 'home-fees' students only. 
 <br><br>
 For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/terahertz/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
@@ -149,7 +149,7 @@ Strongly focused structured light generates highly confined vectorial electromag
 <br><br>
 In this project you will join a team that is internationally leading on experiments in the field of spectroscopy of atomic vapours.  The project is in collaboration with Glasgow University that provide world-leading expertise on shaped and structured light. You will be trained in the state-of-the-art techniques of atomic and quantum physics, quantum optics and photonics, and the interaction of atoms with strong magnetic fields. 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/light.jpg" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Light.jpg" height="168"/></center>
 
 For any questions about the position, please contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Ifan Hughes</a> and <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
 <br><br>
@@ -169,14 +169,82 @@ For any questions about the position, please contact <a href="mailto:i.g.hughes@
 Cold, controlled molecules promise to provide a versatile platform for investigating quantum phenomena. In this project you will be joining an experimental team working on laser cooled calcium monofluoride molecules. The aim of the project will be to demonstrate quantum simulation of the Heisenberg Hamiltonian using molecules held in an optical lattice. 
 <br><br>
 This is a highly experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology.
-
+<br>
 <center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.jpg" height="400"/></center>
-
+<br>
 For any questions about the position, please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
 <br><br>
 	<a href="#proj">Back to table</a>
    </td>
 </tr>
+
+
+
+
+
+
+<tr>
+  <td>
+<center>
+      	<h5><a id="Gregory">AgX: Quantum simulation with ultrapolar molecules</a></h5>  
+</center>
+<br>
+Project description TBD.
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/.jpg" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+
+<tr>
+  <td>
+<center>
+      	<h5><a id="Jones_THz">THz spectroscopy of semiconductor Rydberg states</a></h5>  
+</center>
+<br>
+Terahertz radiation sits in between the realm of electronics (~GHz) and optics (~100 THZ), with applications that include non-destructive imaging of opaque materials, chemical sensing and medicine. Durham has pioneered the development of THz imaging detectors based on Rydberg atoms 
+<br><br>
+This PhD project will extend THz Rydberg devices into the solid state using the semiconductor cuprous oxide (Cu₂O). In this material, electrons and holes bind together to form excitons, atomic-like quasiparticles that interact strongly with both microwave and optical fields. THz-optical spectroscopy of excitons is currently unexplored. It offers the potential to significantly improve the performance of Cu₂O -based devices by providing fast coherent control of the exciton wavefunction.  You will build on previous Durham work in microwave-optical spectroscopy in Cu₂O to open up the THz range in this new material. 
+<br><br>
+The project is highly experimental and will involve: 
+
+Building and operating cryogenic spectroscopy experiments at temperatures down to 300 mK. 
+
+Performing THz and optical measurements on semiconductor devices. 
+
+Developing and characterising THz sources and optics. 
+
+Operating room-temperature Rydberg THz devices for beam characterization 
+
+Presenting research at international conferences. 
+
+You will gain expertise in quantum technologies, cryogenics, photonics, THz engineering and semiconductor physics. These highly sought-after skills are relevant to careers in both academia and the rapidly growing quantum technology sector.
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/.jpg" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Matthew Jones</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
