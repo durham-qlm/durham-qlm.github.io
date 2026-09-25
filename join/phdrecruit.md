@@ -191,7 +191,7 @@ For any questions about the position, please contact <a href="mailto:hannah.will
 <br>
 Project description TBD.
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/.jpg" height="400"/></center>
+
 <br>
 For any questions about the position, please contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
 <br><br>
@@ -248,7 +248,7 @@ For any questions about the position, please contact <a href="mailto:m.p.a.jones
 <br>
 Project description TBD.
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/.jpg" height="400"/></center>
+
 <br>
 For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a> and <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>.
 <br><br>
