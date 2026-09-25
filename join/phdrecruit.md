@@ -287,11 +287,44 @@ For any questions about the position, please contact <a href="mailto:alexander.g
 
 
 
+<tr>
+  <td>
+<center>
+      	<h5><a id="Cornish_NaCs">Bose-Einstein condensation of polar molecules</a></h5>  
+</center>
+<br>
+Bose-Einstein condensates of ultracold polar molecules have very recently emerged as an exciting new form of quantum matter characterized by strong dipolar interactions. This opens up many possibilities for studying novel quantum fluids and for preparing defect free arrays of molecules in optical lattices. In this project, you will join a team of researchers building a new state-of-the-art experimental apparatus to produce and study molecular Bose-Einstein condensates. The apparatus will incorporate a high-resolution imaging system capable of detecting single molecules and single sites of an optical lattice, placing it at the forefront of an exciting field. You will be trained in the state-of-the-art experimental techniques in laser-cooling, optical trapping of ultracold gases, formation of molecules and modern quantum physics – skills that are highly transferable. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/NaCsMachine.png" height="400"/></center>
+<br>
+This project is supported by a UKRI Programme Grant.
+<br><br>
+For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
 
 
 
 
-
+<tr>
+  <td>
+<center>
+      	<h5><a id="Weatherill_Adams">Quantum optics using Rydberg qudits</a></h5>  
+</center>
+<br>
+Project description: We perform experiments where photons are mapped into Rydberg excitations allowing strong photon-photon interactions. Recently we received new funding to specifically exploit our platform to develop algorithms based on Rydberg qudits. Using terahertz and microwave fields we can control the Rydberg state and hence the interaction between our qudits. Subsequently, the photons are read-out and detected using photon counters. The advantages of this platform are the combination of fast processing and read-out with access to a large Hilbert space. 
+<br><br>
+The student will work directly on the experiment as a part of a team involving up to two students, a post-doctoral research assistant, plus a co-investigator. The team is led by the Principal Investigator Prof. C. S. Adams. 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RydbergQuantumOptics.jpg" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
 
 
 
