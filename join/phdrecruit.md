@@ -20,11 +20,33 @@ There are different mechanisms for funding a PhD, most common are:<br>
 If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/" target="_blank">here</a>. 
 <br><br>
 Funded projects:
+<table border=0>
+<tr>
+<td>
 <a href="Wellnitz" target="_blank">Ultracold molecules for quantum technologies</a><br>
+</td>
+</tr>
+<tr>
+<td>
 <a href="Weatherill_DC" target="_blank">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
+</td>
+</tr>
+<tr>
+<td>
 <a href="Cornish_Tweezers" target="_blank">Quantum computing with atoms and molecules in optical tweezers</a><br>
+</td>
+</tr>
+<tr>
+<td>
 <a href="Weatherill_CAPER-EW" target="_blank">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a><br>
+</td>
+</tr>
+<tr>
+<td>
 <a href="Cornish_Microscope" target="_blank">Probing quantum spin dynamics using a microscope <br> for ultracold polar molecules</a><br>
+</td>
+</tr>
+</table>
 
 
 
