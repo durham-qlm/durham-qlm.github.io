@@ -85,8 +85,58 @@ You will join a team of researchers working on our established Rb-Cs dual-specie
 <br><br>
 This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
 <br><br>
-For further details about the existing tweezer apparatus see https://www.cornishlabs.uk/tweezers. For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a>.
+For further details about the existing tweezer apparatus see <a href="https://www.cornishlabs.uk/tweezers">https://www.cornishlabs.uk/tweezers.</a> For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:david.wellnitz@durham.ac.uk">Dr. David Wellnitz</a>.
 <br><br>
 	<a href="#proj">Back to table</a>
    </td>
 </tr>
+
+
+
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="Weatherill_CAPER-EW">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a></h5><br>
+	  
+Description TBC.
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/.png" height="400" align = "center"/>
+<br><br>
+This project is supported by a EPSRC Industrial Doctoral Landscape Award (IDLA) in partnership with Thales UK and it funding for the studentship is already confirmed.
+<br><br>
+ For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+<tr>
+  <td>
+	<br>
+      	<h5><a id="Cornish_Microscope">Probing quantum spin dynamics using a microscope for ultracold polar molecules</a></h5><br>
+	  
+Understanding quantum materials containing many interacting particles is one of the greatest challenges in modern physics. A promising way to address this challenge is to construct an artificial quantum system and use it to simulate the properties of a more complex system found in nature – an approach known as quantum simulation. In this project, you will use arrays of ultracold polar molecules confined in optical lattices as a quantum simulator. Using microwave fields to control the internal state of the molecules, you will encode spins in the molecules and engineer dipolar interactions between them. Using these techniques, you will generate and study models of quantum magnetism and exotic many-body phenomena. To detect entanglement, correlations and dynamics in the system, you will use a novel quantum gas microscope that enables the detection of both the position and state of individual molecules in the lattice. 
+ 
+You will join a team of researchers working on our established RbCs quantum gas microscope experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, ultracold gases and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/Microscope_Image2026.png" height="400" align = "center"/>
+<br><br>
+This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
+<br><br>
+For further details about the RbCs quantum gas microscope experiment see <a href="https://www.cornishlabs.uk/microscope">https://www.cornishlabs.uk/microscope.</a> For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
+
+
+ 
+
+This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.<br>
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
