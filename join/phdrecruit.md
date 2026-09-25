@@ -31,19 +31,21 @@ We hope that you will join us and become a part of the QLM!<br>
 <tr>
   <td>
 	<br>
-	   
+<br><br>
+<h5><a id="THz">Ultracold molecules for quantum technologies</a></h5><br>   
 Ultracold molecules offer unique opportunities for quantum computing, quantum sensing and quantum simulation. Their many internal levels can store quantum information coherently for long times, and their interactions can be tuned to realize quantum gates with exceptionally low fundamental error rates. Furthermore, their rich internal structure naturally has many degrees of freedom which encode quantum information. Furthermore, ultracold molecules in optical tweezers can naturally be interfaced with Rydberg atoms, one of the leading platforms for quantum information processing. These features can be used to realize programmable quantum many-body dynamics. However, their quantum many-body dynamics beyond two-level systems has so far remained largely unexplored and theoretical progress is needed to use their rich internal structure. 
 <br><br>
 In this numerical theory project, you will investigate the many-body multi-level quantum dynamics of ultracold molecules and explore how to generate exotic quantum states with applications in quantum simulation and quantum error correction. You will develop theoretical models to efficiently describe molecular many-body dynamics, leading to new control techniques of their multi-level structure. You will develop state-of-the-art numerical simulations to compute the quantum many-body dynamics of ultra cold molecules, and identify regimes where we can generate useful entanglement. These theory work will be cross-fertilized by local experimental efforts, which may inspire insightful collaborations. 
-<br><br>
-<h5><a id="THz">Ultracold molecules for quantum technologies</a></h5><br>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/molecule-manybody.png" height="400" align = "center"/>
+	 <img src="{{ site.url }}{{ site.baseurl }}/join/img/molecule-manybody.png" height="400" align = "center"/>
 <br><br>
 For more information about the project, please contact <a href="mailto:david.wellnitz@durham.ac.uk" target="_blank">Dr. David Wellnitz</a>. 
 	<br><br>
 	<a href="#proj">Back to table</a>
    </td>
 </tr>
+
+
+
 
 
 
