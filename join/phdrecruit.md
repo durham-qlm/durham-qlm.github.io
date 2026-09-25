@@ -23,27 +23,27 @@ Funded projects:
 <table border=0>
 <tr>
 <td>
-<a href="Wellnitz" target="_blank">Ultracold molecules for quantum technologies</a><br>
+<a href="#Wellnitz">Ultracold molecules for quantum technologies</a><br>
 </td>
 </tr>
 <tr>
 <td>
-<a href="Weatherill_DC" target="_blank">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
+<a href="#Weatherill_DC">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
 </td>
 </tr>
 <tr>
 <td>
-<a href="Cornish_Tweezers" target="_blank">Quantum computing with atoms and molecules in optical tweezers</a><br>
+<a href="#Cornish_Tweezers">Quantum computing with atoms and molecules in optical tweezers</a><br>
 </td>
 </tr>
 <tr>
 <td>
-<a href="Weatherill_CAPER-EW" target="_blank">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a><br>
+<a href="#Weatherill_CAPER-EW">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a><br>
 </td>
 </tr>
 <tr>
 <td>
-<a href="Cornish_Microscope" target="_blank">Probing quantum spin dynamics using a microscope <br> for ultracold polar molecules</a><br>
+<a href="#Cornish_Microscope">Probing quantum spin dynamics using a microscope <br> for ultracold polar molecules</a><br>
 </td>
 </tr>
 </table>
