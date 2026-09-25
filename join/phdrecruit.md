@@ -355,7 +355,7 @@ The project is highly experimental and will involve:
 <br><br>
 You will gain expertise in quantum technologies, cryogenics, photonics, microwave engineering and semiconductor physics. These highly sought-after skills are relevant to careers in both academia and the rapidly growing quantum technology sector.
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RydbergQuantumOptics.jpg" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/cuprite PhD image.png" height="400"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>.
 <br><br>
@@ -367,6 +367,25 @@ For any questions about the position, please contact <a href="mailto:c.s.adams@d
 
 
 
+<tr>
+  <td>
+<center>
+      	<h5><a id="Gallagher">Quantum optics with Rydberg exciton polaritons</a></h5>  
+</center>
+<br>
+Rydberg states are highly excited atomic states with strong interactions, making them an exciting platform for quantum optics and quantum technologies. Rydberg excitons provide a solid-state alternative to atomic systems, combining the strong interactions of Rydberg states with the advantages of semiconductor materials and nanophotonic structures. 
+<br><br>
+In this project, you will investigate Rydberg excitons embedded in optical microcavities, where they can strongly couple to photons to form hybrid light-matter states known as polaritons. You will design and fabricate semiconductor devices in collaboration with researchers at the University of St Andrews and use advanced linear and nonlinear optical spectroscopy, including techniques such as second-harmonic generation (SHG), to investigate their optical properties and interactions. 
+<br><br>
+The ultimate aim of the project is to exploit the strong optical nonlinearities of Rydberg exciton polaritons to develop sources of nonclassical light, providing a new approach to quantum optical technologies. The project will provide training in transferable skills including semiconductor device fabrication, cryogenics, advanced optical spectroscopy and quantum optics. 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/ZnP2_advert_image_2027.png" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:liam.a.gallagher@durham.ac.uk">Dr. Liam Gallagher</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
 
 
 
