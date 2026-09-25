@@ -160,6 +160,30 @@ For any questions about the position, please contact <a href="mailto:i.g.hughes@
 
 
 
+<tr>
+  <td>
+<center>
+      	<h5><a id="Williams">Quantum simulation with a lattice of molecules</a></h5>  
+</center>
+
+Cold, controlled molecules promise to provide a versatile platform for investigating quantum phenomena. In this project you will be joining an experimental team working on laser cooled calcium monofluoride molecules. The aim of the project will be to demonstrate quantum simulation of the Heisenberg Hamiltonian using molecules held in an optical lattice. 
+<br><br>
+This is a highly experimental project during which you will learn skills in laser and vacuum technology, build an understanding of molecular physics and contribute to the rapidly expanding field of molecular quantum technology.
+
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.jpg" height="400"/></center>
+
+For any questions about the position, please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+
+
+
 
 
 
