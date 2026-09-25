@@ -149,7 +149,7 @@ Strongly focused structured light generates highly confined vectorial electromag
 <br><br>
 In this project you will join a team that is internationally leading on experiments in the field of spectroscopy of atomic vapours.  The project is in collaboration with Glasgow University that provide world-leading expertise on shaped and structured light. You will be trained in the state-of-the-art techniques of atomic and quantum physics, quantum optics and photonics, and the interaction of atoms with strong magnetic fields. 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Light.jpg" height="168"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/light.jpg" height="300"/></center>
 
 For any questions about the position, please contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Ifan Hughes</a> and <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
 <br><br>
@@ -227,7 +227,7 @@ Presenting research at international conferences.
 
 You will gain expertise in quantum technologies, cryogenics, photonics, THz engineering and semiconductor physics. These highly sought-after skills are relevant to careers in both academia and the rapidly growing quantum technology sector.
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/.jpg" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/PHD advert cuprous Thz.png" height="400"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Matthew Jones</a>.
 <br><br>
