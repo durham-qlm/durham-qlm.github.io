@@ -36,7 +36,7 @@ Ultracold molecules offer unique opportunities for quantum computing, quantum se
 <br><br>
 In this numerical theory project, you will investigate the many-body multi-level quantum dynamics of ultracold molecules and explore how to generate exotic quantum states with applications in quantum simulation and quantum error correction. You will develop theoretical models to efficiently describe molecular many-body dynamics, leading to new control techniques of their multi-level structure. You will develop state-of-the-art numerical simulations to compute the quantum many-body dynamics of ultra cold molecules, and identify regimes where we can generate useful entanglement. These theory work will be cross-fertilized by local experimental efforts, which may inspire insightful collaborations. 
 <br>
-	 <img src="{{ site.url }}{{ site.baseurl }}/join/img/molecule-manybody.png" height="300" align = "center"/>
+	 <img src="{{ site.url }}{{ site.baseurl }}/join/img/molecule-manybody.png" height="300" align = "middle"/>
 <br><br>
 For more information about the project, please contact <a href="mailto:david.wellnitz@durham.ac.uk" target="_blank">Dr. David Wellnitz</a>. 
 	<br><br>
@@ -58,7 +58,7 @@ Rydberg atoms are highly excited atoms with extreme properties. This project wil
 
 In this 3.5-year project, we will develop vapour cells that allow DC field access, overcoming screening in conventional cells. Next, we’ll implement Doppler-free EIT schemes to enhance spectral resolution to ~200 kHz, boosting sensitivity by an order of magnitude. We will also investigate using atomic states with high orbital angular momentum.  Finally, we’ll apply these methods to identify and localise charge states of components behind barriers and assess the commercial viability of the technique in combination with industrial partners. <br>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "middle"/>
 <br><br>
 The project is funded by the UK Quantum Centre for Nuclear Defence and Security and is open to UK 'home-fees' students only. 
 <br><br>
@@ -81,7 +81,7 @@ Neutral atoms and molecules prepared in optical tweezers offer many exciting opp
 <br><br>
 You will join a team of researchers working on our established Rb-Cs dual-species optical tweezer experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, single-atom trapping and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" height="400" align = "center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" height="400" align = "middle"/>
 <br><br>
 This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
 <br><br>
@@ -101,7 +101,7 @@ For further details about the existing tweezer apparatus see <a href="https://ww
 	  
 Description TBC.
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/.png" height="400" align = "center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/.png" height="400" align = "middle"/>
 <br><br>
 This project is supported by a EPSRC Industrial Doctoral Landscape Award (IDLA) in partnership with Thales UK and it funding for the studentship is already confirmed.
 <br><br>
@@ -123,7 +123,7 @@ Understanding quantum materials containing many interacting particles is one of 
  
 You will join a team of researchers working on our established RbCs quantum gas microscope experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, ultracold gases and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/Microscope_Image2026.png" height="400" align = "center"/>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/Microscope_Image2026.png" height="400" align = "middle"/>
 <br><br>
 This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
 <br><br>
