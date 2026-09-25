@@ -17,7 +17,27 @@ There are different mechanisms for funding a PhD, most common are:<br>
 <b>Competition funded</b> (the project is in competition for funding with other projects).<br>
 <b>External scholarships</b> (the student is in competition for funding, a list of scholarships can be found <a href="https://www.durham.ac.uk/study/scholarships/postgraduate/" target="_blank">here</a>).<br>
 
-If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/" target="_blank">here</a>. It is also possible to self-fund.<br>
+If you join a project through any of these routes your university fees will be covered, and you will receive a tax-free stipend of £20,780 per year. Information regarding the application process can be found <a href="https://www.durham.ac.uk/study/postgraduate/research-degrees/how-to-apply/" target="_blank">here</a>. 
+<br><br>
+Funded projects:
+<a href="Wellnitz" target="_blank">Ultracold molecules for quantum technologies</a><br>
+<a href="Weatherill_DC" target="_blank">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
+<a href="Cornish_Tweezers" target="_blank">Quantum computing with atoms and molecules in optical tweezers</a><br>
+<a href="Weatherill_CAPER-EW" target="_blank">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a><br>
+<a href="Cornish_Microscope" target="_blank">Probing quantum spin dynamics using a microscope <br> for ultracold polar molecules</a><br>
+
+
+
+<br><br>
+Competition funded projects:
+
+
+
+
+
+<br><br>
+It is also possible to self-fund your studies. Details of university fees for self-funded students can be found <a href="https://www.durham.ac.uk/study/postgraduate/tuition-fees-and-charges/tuition-fees---how-much-are-they/" target="_blank">here</a>.
+<br><br>
 
 We hope that you will join us and become a part of the QLM!<br>
 
