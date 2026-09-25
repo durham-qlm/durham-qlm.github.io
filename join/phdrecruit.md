@@ -432,3 +432,30 @@ For any questions about the position, please contact <a href="mailto:k.j.weather
 </tr>
 
 
+
+
+
+<tr>
+  <td>
+<center>
+      	<h5><a id="Franzen_Jones">Entangled quantum clocks and gravity</a></h5>  
+</center>
+<br>
+Modern optical atomic clocks, the most precise measurement devices ever built, now routinely resolving the gravitational redshift over mm-scale height differences. While the clocks can show quantum effects, so each clock is well localized in space, allowing quantum mechanics and general relativity to be treated separately. 
+<br><br>
+Recent advances in quantum networking open the door to the creation of single quantum systems extending over a kilometre or more -- and thus a significant difference in gravitational potential. This will give access to a regime where quantum mechanics and general relativity must be considered simultaneously. This is experimentally uncharted territory with many open questions: What is the proper time of a clock delocalized over a vertical kilometre? How do proper time differences influence entanglement?  
+<br><br>
+Building on our ongoing work with optical atomic clocks <a href="https://durham-qlm.uk/research/rydberg/strontium/">(durham-qlm.uk/research/rydberg/strontium/)</a> and towards quantum networking with ytterbium atoms <a href="https://durham-qlm.uk/research/tech/quantum-networking/">(durham-qlm.uk/research/tech/quantum-networking/)</a> – a species ideally suited for combining quantum networking and clocks – our vision is to realise two quantum mechanically entangled clocks separated by more than a kilometre in height. The STFC facility Boulby Underground Laboratory would be ideal to host such experiments, with lab spaces situated 1.1 km below ground in a working mine (photo: STFC), connected to a surface building by an optical fibre link. 
+<br><br>
+You will work on a transportable quantum networking node already under development at Durham, generating entanglement between single atoms over standard telecom fibre and performing experiments with entangled clocks. The project will initially focus on lab-scale experiments combined with theoretical and numerical investigations of km-scale experiments. If we are successful in securing funding to conduct these experiments, you will also contribute to the construction and deployment of the underground node. 
+<br><br>
+This project combines hands-on experimental work on state-of-the-art neutral atom systems relevant to quantum computing, sensing and timing with fundamental physics. 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/EntangledClocks.png" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a> and <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Matthew Jones</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
