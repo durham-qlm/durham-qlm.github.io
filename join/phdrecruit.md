@@ -149,7 +149,7 @@ Strongly focused structured light generates highly confined vectorial electromag
 <br><br>
 In this project you will join a team that is internationally leading on experiments in the field of spectroscopy of atomic vapours.  The project is in collaboration with Glasgow University that provide world-leading expertise on shaped and structured light. You will be trained in the state-of-the-art techniques of atomic and quantum physics, quantum optics and photonics, and the interaction of atoms with strong magnetic fields. 
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/light.jpg" height="300"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/hughes_light.jpg" height="300"/></center>
 
 For any questions about the position, please contact <a href="mailto:i.g.hughes@durham.ac.uk">Prof. Ifan Hughes</a> and <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
 <br><br>
@@ -214,17 +214,17 @@ Terahertz radiation sits in between the realm of electronics (~GHz) and optics (
 This PhD project will extend THz Rydberg devices into the solid state using the semiconductor cuprous oxide (Cu₂O). In this material, electrons and holes bind together to form excitons, atomic-like quasiparticles that interact strongly with both microwave and optical fields. THz-optical spectroscopy of excitons is currently unexplored. It offers the potential to significantly improve the performance of Cu₂O -based devices by providing fast coherent control of the exciton wavefunction.  You will build on previous Durham work in microwave-optical spectroscopy in Cu₂O to open up the THz range in this new material. 
 <br><br>
 The project is highly experimental and will involve: 
-
-Building and operating cryogenic spectroscopy experiments at temperatures down to 300 mK. 
-
-Performing THz and optical measurements on semiconductor devices. 
-
-Developing and characterising THz sources and optics. 
-
-Operating room-temperature Rydberg THz devices for beam characterization 
-
-Presenting research at international conferences. 
-
+<br>
+- Building and operating cryogenic spectroscopy experiments at temperatures down to 300 mK. 
+<br>
+- Performing THz and optical measurements on semiconductor devices. 
+<br>
+- Developing and characterising THz sources and optics. 
+<br>
+- Operating room-temperature Rydberg THz devices for beam characterization 
+<br>
+- Presenting research at international conferences. 
+<br><br>
 You will gain expertise in quantum technologies, cryogenics, photonics, THz engineering and semiconductor physics. These highly sought-after skills are relevant to careers in both academia and the rapidly growing quantum technology sector.
 <br>
 <center><img src="{{ site.url }}{{ site.baseurl }}/join/img/PHD advert cuprous Thz.png" height="400"/></center>
@@ -275,7 +275,7 @@ Throughout the project, you will gain hands-on expertise in ultra-high vacuum, l
 <br><br>
 Because this PhD uniquely bridges two major domains, you will directly benefit from our research group's collaborations with the National Quantum Computing Centre (NQCC) on next-generation error-correcting processors, a UK-Canadian collaboration focused on quantum-enhanced sensing, as well as other related research within the QLM group. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" height="250"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
 <br><br>
@@ -326,6 +326,42 @@ For any questions about the position, please contact <a href="mailto:c.s.adams@d
    </td>
 </tr>
 
+
+
+
+
+
+<tr>
+  <td>
+<center>
+      	<h5><a id="Jones_Cuprite">Quantum networks using Rydberg excitons </a></h5>  
+</center>
+<br>
+Quantum computers based on superconducting circuits, including those developed by Google and IBM, store information in microwave signals at milliKelvin temperatures. While highly successful, these systems are difficult to connect over long distances. One promising solution is to convert microwave quantum signals into optical photons that can be transmitted through conventional fibre networks. 
+<br><br>
+This PhD project will develop a novel quantum transducer based on the semiconductor cuprous oxide (Cu₂O). In this material, electrons and holes bind together to form excitons, atomic-like quasiparticles that interact strongly with both microwave and optical fields. Researchers at Durham and Cardiff have pioneered microwave-optical coupling in cuprous oxide, and you will build on this work to explore the quantum limits of microwave-to-optical conversion and develop efficient, low-noise transducers. 
+<br><br>
+The project is highly experimental and will involve: 
+<br>
+- Building and operating cryogenic spectroscopy experiments at temperatures down to 300 mK. 
+<br>
+- Performing microwave and optical measurements on semiconductor devices. 
+<br>
+- Developing and characterising exciton-based quantum transducers. 
+<br>
+- Working closely with theory collaborators in the UK and internationally. 
+<br>
+- Presenting research at international conferences. 
+<br><br>
+You will gain expertise in quantum technologies, cryogenics, photonics, microwave engineering and semiconductor physics. These highly sought-after skills are relevant to careers in both academia and the rapidly growing quantum technology sector.
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RydbergQuantumOptics.jpg" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
 
 
 
