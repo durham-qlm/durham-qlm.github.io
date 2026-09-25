@@ -451,7 +451,7 @@ You will work on a transportable quantum networking node already under developme
 <br><br>
 This project combines hands-on experimental work on state-of-the-art neutral atom systems relevant to quantum computing, sensing and timing with fundamental physics. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/EntangledClocks.png" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/EntangledClocks.png" height="300"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a> and <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Matthew Jones</a>.
 <br><br>
