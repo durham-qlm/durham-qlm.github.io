@@ -117,16 +117,15 @@ This project is supported by a EPSRC Industrial Doctoral Landscape Award (IDLA) 
 <tr>
   <td>
 	<br>
-      	<h5><a id="Cornish_Microscope">Probing quantum spin dynamics using a microscope for ultracold polar molecules</a></h5><br>
+      	<h5><a id="Cornish_Microscope">Probing quantum spin dynamics using a microscope for ultracold polar molecules</a></h5>
 	  
 Understanding quantum materials containing many interacting particles is one of the greatest challenges in modern physics. A promising way to address this challenge is to construct an artificial quantum system and use it to simulate the properties of a more complex system found in nature – an approach known as quantum simulation. In this project, you will use arrays of ultracold polar molecules confined in optical lattices as a quantum simulator. Using microwave fields to control the internal state of the molecules, you will encode spins in the molecules and engineer dipolar interactions between them. Using these techniques, you will generate and study models of quantum magnetism and exotic many-body phenomena. To detect entanglement, correlations and dynamics in the system, you will use a novel quantum gas microscope that enables the detection of both the position and state of individual molecules in the lattice. 
  
 You will join a team of researchers working on our established RbCs quantum gas microscope experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, ultracold gases and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/Microscope_Image2026.png" height="400"/></center>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/Microscope_Image2026.png" height="400" align = "middle"/>
-<br><br>
 This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
-<br><br>
+<br>
 For further details about the RbCs quantum gas microscope experiment see <a href="https://www.cornishlabs.uk/microscope">https://www.cornishlabs.uk/microscope.</a> For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
 
 
