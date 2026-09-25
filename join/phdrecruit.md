@@ -58,7 +58,7 @@ Rydberg atoms are highly excited atoms with extreme properties. This project wil
 
 In this 3.5-year project, we will develop vapour cells that allow DC field access, overcoming screening in conventional cells. Next, we’ll implement Doppler-free EIT schemes to enhance spectral resolution to ~200 kHz, boosting sensitivity by an order of magnitude. We will also investigate using atomic states with high orbital angular momentum.  Finally, we’ll apply these methods to identify and localise charge states of components behind barriers and assess the commercial viability of the technique in combination with industrial partners. <br>
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "right"/>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "center"/>
 <br><br>
 The project is funded by the UK Quantum Centre for Nuclear Defence and Security and is open to UK 'home-fees' students only. 
 <br><br>
@@ -81,7 +81,7 @@ Neutral atoms and molecules prepared in optical tweezers offer many exciting opp
 <br><br>
 You will join a team of researchers working on our established Rb-Cs dual-species optical tweezer experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, single-atom trapping and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
 <br>
-<img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" height="400" align = "right"/>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" height="400" align = "center"/>
 <br><br>
 This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
 <br><br>
