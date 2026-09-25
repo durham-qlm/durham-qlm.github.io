@@ -240,6 +240,55 @@ For any questions about the position, please contact <a href="mailto:m.p.a.jones
 
 
 
+<tr>
+  <td>
+<center>
+      	<h5><a id="Weatherill_Adams">Quantum light from thermal Rydberg vapours</a></h5>  
+</center>
+<br>
+Project description TBD.
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/.jpg" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a> and <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+
+
+<tr>
+  <td>
+<center>
+      	<h5><a id="Guttridge">DualQD: Dual-species tweezer arrays for next-generation quantum devices</a></h5>  
+</center>
+<br>
+Learning to control quantum systems opens the door to transformative discoveries, allowing us to explore entirely new capabilities in physics. While typically pursued in isolation, this project offers the fascinating prospect of combining two of the most exciting fields in modern physics—digital quantum computing and quantum sensing—within a single, flexible platform based on two species optical tweezer arrays. 
+<br><br>
+In this hands-on project, you will build a state-of-the-art optical tweezer array to assemble designer quantum systems atom by atom. By cooling caesium and ytterbium atoms to near absolute zero, you will leverage their unique optical transitions for independent control. In this dual-species architecture, one atomic species acts as data qubits in a quantum processor, while the other simultaneously serves as a quantum sensor. By combining two atomic species with very different properties, you will overcome the challenge of cross-talk. This enables you to perform quantum error correction using mid-circuit readout on one set of atoms without destroying the fragile quantum states of its neighbours. Exciting these atoms to highly energetic Rydberg states will allow you to engineer the strong interactions required to generate useful quantum entanglement, pushing quantum-enhanced sensors beyond classical limits.  
+<br><br>
+Throughout the project, you will gain hands-on expertise in ultra-high vacuum, laser cooling, and quantum state engineering. You will develop transferable practical skills that bridge fundamental quantum science with next-generation technological applications. 
+<br><br>
+Because this PhD uniquely bridges two major domains, you will directly benefit from our research group's collaborations with the National Quantum Computing Centre (NQCC) on next-generation error-correcting processors, a UK-Canadian collaboration focused on quantum-enhanced sensing, as well as other related research within the QLM group. 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/DualQD.png" height="400"/></center>
+<br>
+For any questions about the position, please contact <a href="mailto:alexander.guttridge@durham.ac.uk">Dr. Alex Guttridge</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
+
+
+
+
+
+
+
 
 
 
