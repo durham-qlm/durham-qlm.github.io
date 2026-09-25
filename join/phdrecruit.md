@@ -57,9 +57,9 @@ For more information about the project, please contact <a href="mailto:david.wel
 Rydberg atoms are highly excited atoms with extreme properties. This project will use thermal Rydberg atoms to measure static electric fields in the mV/cm range. Rydberg electromagnetically induced transparency (EIT), pioneered at Durham, offers MHz-level spectral resolution of Rydberg states and enables detection of small fields via Stark shifts due to the high polarizability of Rydberg states (∝ n⁷).  <br>
 
 In this 3.5-year project, we will develop vapour cells that allow DC field access, overcoming screening in conventional cells. Next, we’ll implement Doppler-free EIT schemes to enhance spectral resolution to ~200 kHz, boosting sensitivity by an order of magnitude. We will also investigate using atomic states with high orbital angular momentum.  Finally, we’ll apply these methods to identify and localise charge states of components behind barriers and assess the commercial viability of the technique in combination with industrial partners. <br>
-
+<br>
 <img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "right"/>
-
+<br><br>
 The project is funded by the UK Quantum Centre for Nuclear Defence and Security and is open to UK 'home-fees' students only. 
 <br><br>
 For more information about the project, please see <a href="https://durham-qlm.uk/research/tech/terahertz/" target="_blank">here</a>. For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
@@ -76,10 +76,12 @@ For more information about the project, please see <a href="https://durham-qlm.u
   <td>
 	<br>
       	<h5><a id="Cornish_Tweezers">Quantum computing with atoms and molecules in optical tweezers</a></h5><br>
-	  <img src="{{ site.url }}{{ site.baseurl }}/join/img/THz.jpg" height="400" align = "right"/>
+	  
 Neutral atoms and molecules prepared in optical tweezers offer many exciting opportunities for quantum computing and quantum simulation. Most experiments work with either atoms or molecules. However, in this project, you will utilise both species to develop a new hybrid approach to quantum computing that leverages the individual benefits of atoms and molecules. Using an established world-leading optical tweezer apparatus, you will construct an array of strongly interacting molecules and Rydberg atoms. You will learn how to engineer strong dipole-dipole interactions between individual atoms and molecules and then harness this interaction to perform non-destructive detection and state-sensitive readout of the molecule. This novel detection protocol will allow you to rearrange the molecules to form defect-free arrays, unlocking the many advantages of molecules for quantum computing and quantum simulation that stem from their rich internal structure. Finally, you will explore methods to mediate interactions between the molecules using Rydberg atoms, exploiting this new capability to engineer quantum entanglement of molecular qubits. 
 <br><br>
 You will join a team of researchers working on our established Rb-Cs dual-species optical tweezer experiment in Durham and will be trained in the state-of-the-art experimental techniques in laser-cooling, single-atom trapping and quantum physics. The project is part of a national programme on “Quantum many-body physics with ultracold polar molecules” funded by UKRI, presenting numerous opportunities to collaborate with other researchers in the UK and to engage with several international theory partners. 
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/join/img/Tweezers.png" height="400" align = "right"/>
 <br><br>
 This project is supported by a UKRI Programme Grant and funding for the studentship is already confirmed.
 <br><br>
