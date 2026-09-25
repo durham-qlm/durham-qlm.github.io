@@ -379,7 +379,7 @@ In this project, you will investigate Rydberg excitons embedded in optical micro
 <br><br>
 The ultimate aim of the project is to exploit the strong optical nonlinearities of Rydberg exciton polaritons to develop sources of nonclassical light, providing a new approach to quantum optical technologies. The project will provide training in transferable skills including semiconductor device fabrication, cryogenics, advanced optical spectroscopy and quantum optics. 
 <br>
-<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/ZnP2_advert_image_2027.png" height="400"/></center>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/ZnP2_advert_image_2027.png" height="300"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:liam.a.gallagher@durham.ac.uk">Dr. Liam Gallagher</a>.
 <br><br>
