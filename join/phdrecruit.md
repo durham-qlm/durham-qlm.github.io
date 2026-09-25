@@ -391,6 +391,24 @@ For any questions about the position, please contact <a href="mailto:liam.a.gall
 
 
 
-
+<tr>
+  <td>
+<center>
+      	<h5><a id="Cornish_CsYb">Atomic clocks, optical lattices and ultracold molecules</a></h5>  
+</center>
+<br>
+Ultracold polar molecules offer a wide range of exciting research directions spanning ultracold chemistry, precision measurement, quantum simulation and quantum computation. Numerous applications stem from the long-range dipolar interactions and rich internal structure of vibration and rotation. Enormous progress has been made in assembling pairs of alkali atoms to form bialkali molecules – including by our group in Durham using Rb and Cs. However, there is a need to diversify the range of molecules available. In this project, you will join a team of PhD students and postdoctoral researchers working on an existing and unique state-of-the-art experiment designed to create ultracold CsYb molecules. By combining an alkali atom (Cs) with closed-shell atom (Yb) you will form a molecule that has both an electric dipole moment and a magnetic dipole moment. Your strategy will be to utilize the metastable clock states in Yb where our theoretical work predicts relatively broad collision resonances with Cs that can be used to form molecules. You will also use a magic wavelength optical lattice and learn how to prepare Cs-Yb atom pairs in this lattice. Converting the atom pairs into molecules will realise a new and exciting platform for quantum simulation of many-body physics.  
+<br><br>
+In the course of the project you will be trained in the key techniques underpinning modern applications in ultracold atoms and molecules in quantum science and technology, opening up a wide range of future career paths. 
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CsYb2026.png" height="400"/></center>
+<br>
+This project is supported by a UKRI research grant which provides links to world-leading theory collaborators both nationally and internationally. 
+<br><br>
+For further details about the existing Cs-Yb project see <a href="https://www.cornishlabs.uk/csyb">cornishlabs.uk/csyb</a>. For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:tobias.franzen@durham.ac.uk">Dr. Tobias Franzen</a>.
+<br><br>
+	<a href="#proj">Back to table</a>
+   </td>
+</tr>
 
 
