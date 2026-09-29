@@ -1,4 +1,8 @@
-﻿---
+﻿<style>
+img {max-width: 100%; height: auto}
+</style>
+
+---
 layout: page
 title: Join QLM
 subtitle: Opportunities to join as graduate students
