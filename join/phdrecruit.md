@@ -1,12 +1,12 @@
-﻿<style>
-img {max-width: 100%; height: auto}
-</style>
-
----
+﻿---
 layout: page
 title: Join QLM
 subtitle: Opportunities to join as graduate students
 ---
+
+<style>
+img {max-width: 100%; height: auto}
+</style>
 
 <img src="{{ site.url }}{{ site.baseurl }}/join/img/PhDsOct25.jpg" alt="PhD students October 2025" align = "centre"
   />
