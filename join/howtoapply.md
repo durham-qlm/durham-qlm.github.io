@@ -7,9 +7,7 @@ subtitle: Procedure and FAQs
 ## How to apply:
 
 The admissions process for the next round of QLM postgraduate positions will be opened mid-October. 
-Detailed instructions will be given here in due course. 
-<! 1. Contact a project lead - projects are listed <a href="https://durham-qlm.uk/join/phdrecruit/">here</a>.>
-<! 2. Apply via [Durham PG portal](https://studyatdurham.microsoftcrmportals.com/en-US/ )>
+Detailed instructions will be given here in due course. If you are interested in one of the projects listed <a href="https://durham-qlm.uk/join/phdrecruit/">here</a> please contact the relevant project lead. 
              
 ## FAQs
 ### Can I get paid to do a PhD?
@@ -33,4 +31,4 @@ Studying for a PhD in the QLM you will be working on an existing project. Please
 Once we have received your application you will be considered for interview. The first round of interviews will be announced shortly after the application deadline. The result of the interview will be communicated to you within three weeks.
  
 ### Further queries
-Please contact <a href="mailto:hannah.williams4@durham.ac.uk"> Dr. Hannah Williams</a> (PG Admissions Tutor - QLM).
+Please contact <a href="mailto:p.d.gregory@durham.ac.uk"> Dr. Philip Gregory</a> (PG Admissions Tutor - QLM).
