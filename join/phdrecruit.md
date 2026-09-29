@@ -32,7 +32,7 @@ Funded projects:
 </tr>
 <tr>
 <td>
-<a href="#Weatherill_DC">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
+<a href="#Williams">Quantum simulation with a lattice of molecules</a><br>
 </td>
 </tr>
 <tr>
@@ -56,6 +56,73 @@ Funded projects:
 
 <br><br>
 Competition funded projects:
+<table border=0>
+<tr>
+<td>
+<a href="#Hughes">Visualizing strongly-focused 3D light fields in an atomic vapour</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Weatherill_DC">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Gregory">AgX: Quantum simulation with ultrapolar molecules</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Jones_THz">THz spectroscopy of semiconductor Rydberg states</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Weatherill_Adams">Quantum light from thermal Rydberg vapours</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Guttridge">DualQD: Dual-species tweezer arrays for next-generation quantum devices</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Cornish_NaCs">Bose-Einstein condensation of polar molecules</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#RQO">Quantum optics using Rydberg qudits</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Jones_Cuprite">Quantum networks using Rydberg excitons</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Gallagher">Quantum optics with Rydberg exciton polaritons</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Cornish_CsYb">Atomic clocks, optical lattices and ultracold molecules</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Weatherill_THzSLM">A terahertz spatial light modulator for off-axis tomography</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Franzen_Jones">Entangled quantum clocks and gravity</a><br>
+</td>
+</tr>
+</table>
 
 
 
@@ -188,7 +255,7 @@ For further details about the RbCs quantum gas microscope experiment see <a href
 <tr>
   <td>
 <center>
-      	<h5><a id="Hughes">‘Visualizing strongly-focused 3D light fields in an atomic vapour.</a></h5>  
+      	<h5><a id="Hughes">Visualizing strongly-focused 3D light fields in an atomic vapour.</a></h5>  
 </center>
 <br>
 Strongly focused structured light generates highly confined vectorial electromagnetic field distributions, which may feature a polarization component along the optical axis. Despite statements found in some optics textbooks that light is a transverse wave, the real picture is more complicated. Axial components exist but manipulating and detecting such 3D light fields is challenging. Vector light can, however, be mapped onto atomic polarizations, making electric dipole transitions an ideal candidate to sense such 3D light configurations.  
@@ -357,7 +424,7 @@ For any questions about the position, please contact <a href="mailto:s.l.cornish
 <tr>
   <td>
 <center>
-      	<h5><a id="Weatherill_Adams">Quantum optics using Rydberg qudits</a></h5>  
+      	<h5><a id="RQO">Quantum optics using Rydberg qudits</a></h5>  
 </center>
 <br>
 Project description: We perform experiments where photons are mapped into Rydberg excitations allowing strong photon-photon interactions. Recently we received new funding to specifically exploit our platform to develop algorithms based on Rydberg qudits. Using terahertz and microwave fields we can control the Rydberg state and hence the interaction between our qudits. Subsequently, the photons are read-out and detected using photon counters. The advantages of this platform are the combination of fast processing and read-out with access to a large Hilbert space. 
