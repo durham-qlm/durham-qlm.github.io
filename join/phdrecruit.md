@@ -470,7 +470,7 @@ You will gain expertise in quantum technologies, cryogenics, photonics, microwav
 <br>
 <center><img src="{{ site.url }}{{ site.baseurl }}/join/img/cuprite PhD image.png" height="400"/></center>
 <br>
-For any questions about the position, please contact <a href="mailto:c.s.adams@durham.ac.uk">Prof. Stuart Adams</a>.
+For any questions about the position, please contact <a href="mailto:m.p.a.jones@durham.ac.uk">Prof. Matthew Jones</a>.
 <br><br>
 	<a href="#proj">Back to table</a>
    </td>
