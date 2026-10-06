@@ -28,7 +28,11 @@ This work is supported by UKRI Future Leaders Fellowship MR/X033430/1.
 </td><td style="border: none;"><a href='https://www.durham.ac.uk/staff/hannah-williams4/'>Dr. Hannah J. Williams</a> (she/her)  --  PI<br>
 Dr. Bethan Humphreys (she/her)  --  PDRA  <br>
 Mr Archie Baldock  (he/him)  --  PhD student  <br>
-Miss Rebecca Hedley (she/her) -- PhD student <br></td></tr> 
+Miss Rebecca Hedley (she/her) -- PhD student <br>
+Miss Lara Rogers (she/her) -- PhD student <br>
+Miss Nicole Simpson (she/her) -- MSci student <br>
+Mr Andreas Ktori (he/him) -- MSci student <br>
+</td></tr> 
 </table>
   
 <details>
@@ -44,6 +48,8 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   <summary><b><font size="+3">News</font></b></summary>
   <details open>
   <summary><b><font size="+1">2026</font></b></summary>
+  <b>October:</b> Lara joins the lab for her PhD, Nicole returns along with Andreas for MSci projects. Welcome all!<br>
+  <b>August:</b> The whole team goes to Imperial for the second UK Laser Cooling Molecules meeting, Nicole finishes her summer internship having set-up environmental monitoring for the lab.<br>
   <b>July:</b> Bethan and Becca attend the <a href ='https://www.qsmol.uk/'>QSMol kick-off meeting</a>. Nicole joins the team for a summer internship, welcome Nicole!<br>
   <b>June:</b> Archie presents a poster at <a href='https://www.icap29.com/home.html'>ICAP</a> in Wuhan and the ultracold molecules satellite meeting in Hong Kong. Alex leaves the group to start a postdoc position in Gothenburg - good luck and thank you!<br>
   <b>May:</b> We finish the Zeeman-Sisyphus project, sadly we saw no deceleration.
