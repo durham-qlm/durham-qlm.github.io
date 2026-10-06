@@ -32,11 +32,6 @@ Funded projects:
 </tr>
 <tr>
 <td>
-<a href="#Williams">Quantum simulation with a lattice of molecules</a><br>
-</td>
-</tr>
-<tr>
-<td>
 <a href="#Cornish_Tweezers">Quantum computing with atoms and molecules in optical tweezers</a><br>
 </td>
 </tr>
@@ -60,6 +55,11 @@ Competition funded projects:
 <tr>
 <td>
 <a href="#Hughes">Visualizing strongly-focused 3D light fields in an atomic vapour</a><br>
+</td>
+</tr>
+<tr>
+<td>
+<a href="#Williams">Quantum simulation with a lattice of molecules</a><br>
 </td>
 </tr>
 <tr>
@@ -285,7 +285,7 @@ This is a highly experimental project during which you will learn skills in lase
 <br>
 <center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CaF.jpg" height="400"/></center>
 <br>
-For any questions about the position, please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
+More information about the project can be found <a href="https://durham-qlm.uk/research/coldmol/cafcool/">here</a>. For any questions about the position, please contact <a href="mailto:hannah.williams4@durham.ac.uk">Dr. Hannah Williams</a>.
 <br><br>
 	<a href="#proj">Back to table</a>
    </td>
