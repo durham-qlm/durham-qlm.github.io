@@ -12,7 +12,7 @@ In our lab we are working on <b>direct laser cooling</b> of calcium monofluoride
 The complex internal level structure of molecules may make them seem a daunting prospect to control. However, here at Durham we are building an experiment to produce ultracold, controlled CaF molecules.<br>
 Laser cooling molecule experiments all start in the same way, creating the molecules. For this we are building a cryogenic buffer gas source, shown in figure to the right. The source consists of a calcium metal target which we ablate using a pulsed Nd:YAG laser, we flow sulfur hexafluoride gas into the vicinity of the newly created Ca ions which leads to the formation of CaF molecules. This all happens inside a copper cell mounted on a 4 Kelvin cyrocooler, into which helium gas, also at 4 K, is injected and collides with the CaF, sympathetically cooling it. The molecules then leave the cell with a forward velocity of around 150 m/s. This is far too fast to be captured in a magneto-optical trap (MOT), and so the molecules must next be decelerated. <br>
 
-We are currently working on chirped laser slowing, where we counterpropagate a laser at 531 nm and scan (or chirp) the frequency to keep the laser on resonance with the molecules as they decelerate and experience a changing Doppler shift. The next step of the experiment will be to load the molecules into a MOT. 
+We are currently working on chirped laser slowing, where we counterpropagate a laser at 531 nm and scan (or chirp) the frequency to keep the laser on resonance with the molecules as they decelerate and experience a changing Doppler shift. The next step of the experiment will be to load the molecules into a MOT. <br>
 
 This work is supported by UKRI Future Leaders Fellowship MR/X033430/1. 
 </details>
@@ -52,7 +52,7 @@ Mr Andrew Elwood  (he/him)  --  MSci student
   <b>August:</b> The whole team goes to Imperial for the second UK Laser Cooling Molecules meeting, Nicole finishes her summer internship having set-up environmental monitoring for the lab.<br>
   <b>July:</b> Bethan and Becca attend the <a href ='https://www.qsmol.uk/'>QSMol kick-off meeting</a>. Nicole joins the team for a summer internship, welcome Nicole!<br>
   <b>June:</b> Archie presents a poster at <a href='https://www.icap29.com/home.html'>ICAP</a> in Wuhan and the ultracold molecules satellite meeting in Hong Kong. Alex leaves the group to start a postdoc position in Gothenburg - good luck and thank you!<br>
-  <b>May:</b> We finish the Zeeman-Sisyphus project, sadly we saw no deceleration.
+  <b>May:</b> We finish the Zeeman-Sisyphus project, sadly we saw no deceleration.<br>
   <b>April:</b> Our proposal paper on near-deterministic loading of tweezer arrays is on ArXiv: https://arxiv.org/abs/2604.22406.<br>
   </details>
   
