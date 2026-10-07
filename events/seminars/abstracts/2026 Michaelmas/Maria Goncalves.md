@@ -4,7 +4,7 @@ title: QLM seminars, Michaelmas term
 subtitle: 18/11/2025, 12pm-1pm, OCW017
 ---
 
-## Maria Goncalves
+## Maria Gonçalves
 
 ## Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus
 
