@@ -12,9 +12,9 @@ img {max-width: 100%; height: auto}
   />
  _Current PhD students in the QLM group_<br>
 
-Below is currently our list of projects available for an October 2026 start (listed below). If you are interested in these projects please contact the relevant supervisor directly.<br>
+Below is currently our list of projects available for an October 2027 start (listed below). If you are interested in these projects please contact the relevant supervisor directly. <br>
 
-Recruitment for projects to start in October 2027 will start shortly, at which point we will post a list of available projects. 
+The quantum light & matter group will be holding a postgraduate open day on the 25th November 2026. If you would like to attend, or for more information, please contact <a href="mailto:p.d.gregory@durham.ac.uk" target="_blank">Dr. Philip Gregory (QLM postgraduate admissions tutor)</a> . 
 
 There are different mechanisms for funding a PhD, most common are:<br>
 <b>Funded</b> (the source of funding is already attached to the project).<br>
