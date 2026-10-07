@@ -1,7 +1,7 @@
 ﻿---
 layout: page
 title: QLM Seminars
-subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the current term are listed here.
+subtitle: QLM hosts meetings and workshops on a regular basis. 
 ---
  
 The schedule for our upcoming seminars in Michaelmas term is as follows: 
