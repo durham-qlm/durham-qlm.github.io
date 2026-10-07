@@ -4,7 +4,17 @@ title: QLM Seminars
 subtitle: QLM hosts meetings and workshops on a regular basis. Seminars for the current term are listed here.
 ---
  
-Information about our regular seminar series will be posted here at the start of each academic term.
+The schedule for our upcoming seminars in Michaelmas term is as follows: 
+
+|Date  |Time |Location  |Title   |Speaker    |Institution    |
+|:---  | :----: | :----:  | :--------:      | :------:      |           --: |
+|21/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Joanna Zajac">Title TBD</a>|Joanna Zajac |University of Manchester |
+|28/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Jeffrey Gorman"> Title TBD </a>|Jeffrey Gorman |Durham University, Dept. of Chemistry |
+|4/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Lawrence Carlsake"> First year talk, title TBD </a>|Lawrence Carlsake |Durham University, QLM |
+|11/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Simon Fischer"> Title TBD </a>|Simon Fischer |University of Cambridge|
+|18/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Maria Goncalves">  Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus </a>|Maria Goncalves |Durham University, QLM|
+|25/11/2026| | |<a href="/join/phdrecruit"> No seminar: QLM postgraduate open day </a>|  | |
+|2/12/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Natasha Bierrum"> Title TBD </a>|Natasha Bierrum |University of Bristol|
 
 
 Past seminars can be found here: 
