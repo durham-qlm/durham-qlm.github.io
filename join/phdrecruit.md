@@ -302,9 +302,13 @@ More information about the project can be found <a href="https://durham-qlm.uk/r
       	<h5><a id="Gregory">AgX: Quantum simulation with ultrapolar molecules</a></h5>  
 </center>
 <br>
-Project description TBD.
+In this project we aim to create a new class of ultracold and ultrapolar molecule RbAg (rubidium-silver) that possess an extremely large molecule-frame of electric dipole moment of 9 Debye. Such a large dipole is highly advantageous for experiments as it enables the production of colder, denser, longer-lived samples with stronger, longer-range, and faster-acting interactions. We aim to prepare these molecules in their rovibronic ground state and cool them to quantum degeneracy. We will then apply these molecules to the study of complex and collective quantum many-body phenomena. 
+<br><br>
+We have recently successfully captured rubidium and silver atoms in a magneto-optical trap in our brand-new apparatus (1 of only 3 functioning silver magneto-optical traps in the world). We are currently implementing the next stage of our project which is to cool the atoms below the Doppler temeprature, and to load them into an optical dipole trap in order to study their collisional properties. 
+<br><br>
+As part of this project you will be trained in state-of-the-art techniques relevant to quantum science with ultracold atoms and molecules, such as laser cooling, optical trapping and the control of interatomic interactions. This project is affiliated with the QSMol programme grant which also gives many opportunities to collaborate and engage with a network of researchers both in the UK and internationally. 
 <br>
-
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/RbAg.png" height="400"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
 <br><br>
