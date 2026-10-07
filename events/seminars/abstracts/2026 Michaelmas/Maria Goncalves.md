@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QLM seminars, Michaelmas term
-subtitle: 18/11/2025, 12pm-1pm, OCW017
+subtitle: 18/11/2026, 12pm-1pm, OCW017
 ---
 
 ## Maria Gonçalves
