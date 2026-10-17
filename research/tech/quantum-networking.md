@@ -62,8 +62,8 @@ For example the wavelengths required to work with Yb atoms so far have been a ba
 
 ## Join us
 
-We'll be recruiting for a postdoc position soon!
- If you are interested in this or other opportunities, please get in touch with [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk). 
+We are currently recruiting for a [postdoctoral researcher](https://durham.taleo.net/careersection/du_ext/jobdetail.ftl?job=26001358) as well as for a competition-funded [PhD project](https://durham-qlm.uk/join/phdrecruit/#Franzen_Jones).  
+ If you are interested in these or other opportunities, please get in touch with [tobias.franzen@durham.ac.uk](mailto:tobias.franzen@durham.ac.uk). 
 
 ## Collaborators
 
