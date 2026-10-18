@@ -21,7 +21,7 @@ In Durham we work to harness properties of such molecules with a variety of tech
     </tr>
     <tr>
         <td>
-            <a href="https://www.cornishlabs.uk/molecularbec>NaCs Molecular BEC</a>
+            <a href="https://www.cornishlabs.uk/molecularbec">NaCs Molecular BEC</a>
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/nacs/img/Placeholder_VacuumSystem.png" alt="NaCs"/></td>
     </tr>
