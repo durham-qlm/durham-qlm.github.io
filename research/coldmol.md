@@ -8,7 +8,7 @@ title: Cold Molecules
 
 Ultracold polar molecules are an exciting new platform for quantum science and technology. The combination of rich internal structure of vibration and rotation, controllable long-range dipole-dipole interactions and strong coupling to applied electric and microwave fields has inspired many applications. These include quantum simulation of strongly interacting many-body systems, the study of quantum magnetism, quantum metrology and molecular clocks, quantum computation, precision tests of fundamental physics and the exploration of ultracold chemistry.
 
-In Durham we work to harness properties of such molecules with a variety of techniques. This includes making clouds of ultracold RbCs molecules and studying their interactions, as well as studying RbCs molecules that have been individually formed and trapped. We are also working on forming CsYb molecules that interact with each other magnetically and directly cooling and trapping pre-formed CaF molecules.
+In Durham we work to harness properties of such molecules with a variety of techniques. This includes making clouds of ultracold RbCs molecules and studying their interactions, as well as studying RbCs molecules that have been individually formed and trapped. We are also working on forming NaCs molecular Bose-Einstein condensates, as well as CsYb molecules that interact with each other magnetically. We are also directly cooling and trapping pre-formed CaF molecules.
 
 <h4> Current activities </h4>
 
@@ -18,6 +18,12 @@ In Durham we work to harness properties of such molecules with a variety of tech
             <a href="/gregory-lab">Ultrapolar RbAg molecules</a>
         </td>
         <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/MOT.png" alt="Atoms in a magneto-optical trap"/></td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.cornishlabs.uk/molecularbec>NaCs Molecular BEC</a>
+        </td>
+        <td width=105 align=center><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/nacs/img/Placeholder_VacuumSystem.png" alt="NaCs"/></td>
     </tr>
     <tr>
         <td>
