@@ -416,7 +416,9 @@ Bose-Einstein condensates of ultracold polar molecules have very recently emerge
 <br>
 This project is supported by a UKRI Programme Grant.
 <br><br>
-For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>.
+For any questions about the position, please contact <a href="mailto:s.l.cornish@durham.ac.uk">Prof. Simon Cornish</a> and <a href="mailto:p.d.gregory@durham.ac.uk">Dr. Philip Gregory</a>. 
+
+Please also see our website here: <a href="https://www.cornishlabs.uk/molecularbec">Molecular BEC</a>.
 <br><br>
 	<a href="#proj">Back to table</a>
    </td>
