@@ -34,6 +34,7 @@ subtitle: Current members of the Durham QLM group
 |   |[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |   |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 | |[Dr. Joy Dutta](https://www.durham.ac.uk/staff/joy-dutta/)|
+| |[Dr. Maria Goncalves](https://www.durham.ac.uk/staff/maria-goncalves/)|
 |   |[Dr. Bethan Humphreys](https://www.durham.ac.uk/staff/bethan-humphreys/)|
 | |[Dr. Ruth Le Sueur](https://www.durham.ac.uk/staff/c-r-lesueur/)|
 |   |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
