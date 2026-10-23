@@ -8,7 +8,7 @@ subtitle: Procedure and FAQs
 
 Admissions for the next round of QLM postgraduate positions are now open. 
 <br><br>
-If you are interested in one of the <a href="https://durham-qlm.uk/join/phdrecruit/">listed projects</a> please contact the relevant project lead and submit an application to the university. To begin your course in October 2027, <a href="https://web.prod.sits.admin.durham.ac.uk/urd/sits.urd/run/siw_ipp_lgn.login_enc?2ffs-x8W1ugsSwDuR1HzLLt1OnQPLjX6h8wwys7LC6_LPHfsrjF6JF2xrv6OltiZr2cr3FG7cpk="> please submit your application here.</a> Detailed instructions on the university admissions process, and links for applications with other starting dates, <a href="https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/">are available here.</a>  
+If you are interested in one of the <a href="https://durham-qlm.uk/join/phdrecruit/">listed projects</a> please contact the relevant project lead and submit an application to the university. <a href="https://www.durham.ac.uk/departments/academic/physics/postgraduate-study/research-degrees/how-to-apply/">Links to the university application forms, along with detailed instructions on the admissions process, can be found here. </a>  
              
 ## FAQs
 ### Can I get paid to do a PhD?
