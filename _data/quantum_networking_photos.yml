@@ -4,9 +4,10 @@
 #   file:    image filename inside the lab/ folder
 #   caption: text shown over the bottom of the photo (HTML allowed, e.g. <sup>171</sup>Yb)
 #   alt:     optional description for screen readers (defaults to the caption)
+# Wrap a caption in "double quotes" if it contains a colon followed by a space, or starts with a special character.
 
 - file: vacuum.jpg
-  caption: Our ultra-high vacuum system, where single Yb atoms will be trapped in optical tweezers
+  caption: Our ultra-high vacuum system, where single Yb atoms will be trapped in optical tweezers, has moved into the lab
   alt: Stainless steel vacuum chamber on a support frame, connected through a blue magnet assembly to a second vacuum section with a large viewport
 
 - file: chamber.jpg
@@ -14,7 +15,7 @@
   alt: Large bolted stainless steel vacuum flange at the centre of the science chamber
 
 - file: CAD.jpg
-  caption: Cardboard-Aided-Design: Planning the optics around the science chamber with printed layouts of our modular baseplates
+  caption: "Cardboard-Aided-Design: Planning the optics around the science chamber with printed layouts of our modular baseplates"
   alt: Paper printouts of optical layouts arranged on an optical table in front of the vacuum chamber
 
 - file: lasers.jpg
