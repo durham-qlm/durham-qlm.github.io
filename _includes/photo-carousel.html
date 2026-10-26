@@ -1,0 +1,44 @@
+{%- comment -%}
+  Bootstrap 4 photo carousel.
+  Usage: {% include photo-carousel.html id="lab-photos" photos=site.data.quantum_networking_photos folder="/research/tech/quantum-networking/lab/" %}
+  Each entry in the photos list needs `file` and `caption`; `alt` is optional (defaults to the caption).
+  Renders nothing if the list is empty.
+{%- endcomment -%}
+{%- assign photos = include.photos -%}
+{%- if photos and photos.size > 0 -%}
+<div markdown="0" id="{{ include.id }}" class="carousel slide photo-carousel" data-ride="carousel" data-interval="5000" data-pause="hover">
+  <ol class="carousel-indicators">
+    {%- for photo in photos %}
+    <li data-target="#{{ include.id }}" data-slide-to="{{ forloop.index0 }}"{% if forloop.first %} class="active"{% endif %}></li>
+    {%- endfor %}
+  </ol>
+  <div class="carousel-inner">
+    {%- for photo in photos %}
+    <div class="carousel-item{% if forloop.first %} active{% endif %}">
+      <img src="{{ include.folder | append: photo.file | relative_url }}" class="d-block w-100" alt="{{ photo.alt | default: photo.caption | strip_html | escape }}" loading="lazy">
+      {%- if photo.caption %}
+      <div class="carousel-caption">
+        <p>{{ photo.caption }}</p>
+      </div>
+      {%- endif %}
+    </div>
+    {%- endfor %}
+  </div>
+  <a class="carousel-control-prev" href="#{{ include.id }}" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#{{ include.id }}" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<style>
+  .photo-carousel { margin: 1.5rem 0; background: #111; border-radius: 4px; overflow: hidden; }
+  .photo-carousel .carousel-item img { height: 450px; object-fit: contain; }
+  .photo-carousel .carousel-caption { left: 0; right: 0; bottom: 0; padding: 0.6rem 1rem 1.8rem; background: rgba(0, 0, 0, 0.55); }
+  .photo-carousel .carousel-caption p { margin: 0; font-size: 0.95rem; }
+  .photo-carousel .carousel-indicators { margin-bottom: 0.4rem; }
+  @media (max-width: 576px) { .photo-carousel .carousel-item img { height: 260px; } }
+</style>
+{%- endif -%}

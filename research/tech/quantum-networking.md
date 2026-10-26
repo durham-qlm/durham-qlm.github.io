@@ -50,6 +50,11 @@ Quantum networking and many other quantum technologies become vastly more powerf
 For example the wavelengths required to work with Yb atoms so far have been a barrier to its more widespread adoption, requiring several different laser technologies, often lacking in robustness while filling several optical tables. We are working on streamlining this by developing modular rack-mounted systems with a single laser technology covering all required wavelengths.
 
 
+{% if site.data.quantum_networking_photos.size > 0 %}
+## In the lab
+{% include photo-carousel.html id="qn-lab-photos" photos=site.data.quantum_networking_photos folder="/research/tech/quantum-networking/lab/" %}
+{% endif %}
+
 ## Team
 
 |   |   | 
