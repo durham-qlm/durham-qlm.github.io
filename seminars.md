@@ -8,8 +8,8 @@ The schedule for our upcoming seminars in Michaelmas term is as follows:
 
 |Date  |Time |Location  |Title   |Speaker    |Institution    |
 |:---  | :----: | :----:  | :--------:      | :------:      |           --: |
-|21/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Joanna Zajac">Title TBD</a>|Joanna Zajac |University of Manchester |
-|28/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Jeffrey Gorman"> Title TBD </a>|Jeffrey Gorman |Durham University, Dept. of Chemistry |
+|21/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Joanna Zajac">Heterogeneous quantum repeaters: III–V sources and Rb-vapor memories</a>|Joanna Zajac |University of Manchester |
+|28/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Jeffrey Gorman"> Engineering exciton dynamics with DNA nanotechnology </a>|Jeffrey Gorman |Durham University, Dept. of Chemistry |
 |4/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Lawrence Carlsake"> First year talk, title TBD </a>|Lawrence Carlsake |Durham University, QLM |
 |11/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Simon Fischer"> Title TBD </a>|Simon Fischer |University of Cambridge|
 |18/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Maria Goncalves">  Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus </a>|Maria Gonçalves |Durham University, QLM|
