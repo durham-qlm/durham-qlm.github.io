@@ -7,33 +7,33 @@
 # Wrap a caption in "double quotes" if it contains a colon followed by a space, or starts with a special character.
 
 - file: vacuum.jpg
-  caption: Our ultra-high vacuum system, where single Yb atoms will be trapped in optical tweezers, has moved into the lab
+  caption: Our ultra-high vacuum system, where single Yb atoms will be trapped in optical tweezers, has moved into the lab. The blue part is a permanent magnet assembly for our Zeeman slower.
   alt: Stainless steel vacuum chamber on a support frame, connected through a blue magnet assembly to a second vacuum section with a large viewport
 
 - file: chamber.jpg
-  caption: Close-up of the main science chamber. The large viewport will be used for our optical tweezers. Inside mounting holes for the cavity assembly and flanges for feedthroughs are visible.
+  caption: Close-up of the main science chamber. The large viewport will be used for our optical tweezers. Inside, mounting holes for the cavity assembly and flanges for feedthroughs are visible.
   alt: Large bolted stainless steel vacuum flange at the centre of the science chamber
 
 - file: CAD.jpg
-  caption: "Cardboard-Aided-Design: Planning the optics around the science chamber with printed layouts of our modular baseplates"
+  caption: "Cardboard-aided design: planning the optics around the science chamber with printed layouts of our modular baseplates."
   alt: Paper printouts of optical layouts arranged on an optical table in front of the vacuum chamber
 
 - file: lasers.jpg
-  caption: Some of our Vexlum VECSEL lasers - a single laser technology covering all the wavelengths we need for Yb
+  caption: Some of our Vexlum VECSEL lasers &ndash; a single laser technology covering all the wavelengths we need for Yb.
   alt: Several yellow VXL laser heads on an optical table in a darkened lab, with green status lights
 
 - file: laser.jpg
-  caption: A complete laser system on modular baseplates, built into a rack-mounted drawer. This laser will drive the 578nm clock transition.
+  caption: A laser system on modular baseplates, built into a rack-mounted drawer. This laser will drive the 578&nbsp;nm clock transition.
   alt: Yellow laser head and optics mounted on blue and bronze baseplates inside a slide-out rack drawer
 
 - file: baseplates.jpg
-  caption: Modular optics baseplates designed in code with PyOpticL
+  caption: Modular optics baseplates designed in Python code with PyOpticL.
   alt: Close-up of optics mounts, an acousto-optic modulator and a fibre coupler on blue and bronze baseplates
 
 - file: aod.jpg
-  caption: An acousto-optic deflector splitting a laser beam into a 2&times;2 array of spots -this will generate our optical tweezer array
+  caption: An acousto-optic deflector splitting a laser beam into a 2&times;2 array of spots &ndash; the very beginnings of the setup that will generate our optical tweezer array.
   alt: Optics module with a red acousto-optic deflector, projecting four blue laser spots in a square onto a white screen
 
 - file: cavity.jpg
-  caption: A compact optics module to stabilise all our laser to a single ultra-stable optical reference cavity.
+  caption: A compact optics module to stabilise all our lasers (five wavelengths, and ready for two more) to a single ultra-stable optical reference cavity.
   alt: Pink baseplate with mirror mounts, a fibre coupler and a photodetector mounted vertically
