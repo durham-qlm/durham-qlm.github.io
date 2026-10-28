@@ -45,6 +45,12 @@ Funded projects:
 <a href="#Cornish_Microscope">Probing quantum spin dynamics using a microscope <br> for ultracold polar molecules</a><br>
 </td>
 </tr>
+<tr>
+<td>
+<a href="#Weatherill_DC">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
+</td>
+</tr>
+
 </table>
 
 
@@ -60,11 +66,6 @@ Competition funded projects:
 <tr>
 <td>
 <a href="#Williams">Quantum simulation with a lattice of molecules</a><br>
-</td>
-</tr>
-<tr>
-<td>
-<a href="#Weatherill_DC">High sensitivity DC electric field sensing using Rydberg EIT</a><br>
 </td>
 </tr>
 <tr>
