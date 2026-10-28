@@ -37,7 +37,7 @@ Funded projects:
 </tr>
 <tr>
 <td>
-<a href="#Weatherill_CAPER-EW">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a><br>
+<a href="#Weatherill_CAPER-EW">Quantum Sensors for the Future of Electronic Warfare</a><br>
 </td>
 </tr>
 <tr>
@@ -212,12 +212,22 @@ For further details about the existing tweezer apparatus see <a href="https://ww
 <tr>
   <td>
 <center>
-      	<h5><a id="Weatherill_CAPER-EW">CAPER-EW: Characterisation and performance enhancement of Rydberg atom quantum receivers for electronic warfare and electromagnetic surveillance</a></h5>
+      	<h5><a id="Weatherill_CAPER-EW">Quantum Sensors for the Future of Electronic Warfare</a></h5>
 </center>
 <br>
-Project description TBC.
-
+Rydberg atom quantum receivers are emerging as a potentially transformative technology for electronic warfare and electromagnetic surveillance. Unlike conventional radio-frequency receivers, they exploit quantum states of atoms to provide SI-traceable electric field measurements, ultra-wide frequency coverage from kHz to THz [1], and operation without a traditional RF front end.
+<br><br>
+This PhD project will investigate how quantum RF receivers perform in realistic electronic warfare environments, where signals are complex, dynamic and congested. You will develop and characterise a state-of-the-art Rydberg receiver based on laser spectroscopy in atomic vapours, identify the physical mechanisms that limit performance, and develop new techniques to improve sensitivity, bandwidth and robustness [2].
+<br><br>
+Working within a leading quantum sensing research group and in collaboration with Thales UK, you will gain expertise in atomic physics, quantum optics, laser systems, data analysis and RF technologies, while helping define the future roadmap for quantum-enabled sensing. This is an exciting opportunity to contribute to fundamental research with a clear path towards real-world impact and next-generation defence technologies.
+<br>
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/CAPER-EW.png" height="400" /></center>
+<br>
 This project is supported by a EPSRC Industrial Doctoral Landscape Award (IDLA) in partnership with Thales UK and it funding for the studentship is already confirmed.
+<br><br>
+[1] G. Allinson, M. J. Jamieson, A. R. Mackellar, L. Downes, C. S. Adams and K. J. Weatherill, Simultaneous multiband radio-frequency detection using high-orbital-angular-momentum states in a Rydberg-atom receiver, Phys. Rev. Research. 6, 023317 (2024)
+<br><br>
+[2] D. Manchaiah, S. Oliver, S. Berweger, C. L. Holloway, and N. Prajapati, Probing bandwidth and sensitivity in Rydberg atom sensing via optical homodyne and rf heterodyne detection, Phys. Rev. A. 113, 013729 (2026) 
 <br><br>
 For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
 <br><br>
@@ -363,7 +373,15 @@ For any questions about the position, please contact <a href="mailto:m.p.a.jones
       	<h5><a id="Weatherill_Adams">Quantum light from thermal Rydberg vapours</a></h5>  
 </center>
 <br>
-Project description TBD.
+Fully deterministic control of light at the level of individual photons is often regarded as the ‘holy grail’ of quantum optics. While photons are ideal carriers of quantum information, their weak mutual interactions limit applications in quantum simulation, quantum networking, and photonic quantum computing. Rydberg quantum optics [1] overcomes this challenge by mapping photons onto highly excited atomic states with exceptionally strong interactions, enabling effective photon-photon interactions without the need for optical cavities.
+<br><br>
+Most demonstrations of Rydberg-mediated quantum nonlinearities have relied on laser-cooled atoms. This PhD project will explore an alternative approach using room-temperature caesium vapour and three-photon electromagnetically induced transparency (EIT). Building on the concept of zero wave-vector Rydberg spin waves [2], the project will investigate how long-lived collective excitations can be engineered in thermal atomic ensembles despite atomic motion.
+<br><br>
+The work will involve the design and construction of a state-of-the-art experimental platform, laser spectroscopy, precision optical measurements, and quantum-optical characterisation of strongly interacting Rydberg media. Success could provide a scalable route towards single-photon nonlinear optics, non-classical light generation, and quantum networking technologies based on compact room-temperature devices.
+<br><br>
+[1] O. Firstenberg, C. S. Adams and S. Hofferberth, Nonlinear quantum optics mediated by Rydberg interactions, J. Phys. B 49, 152003 (2016).
+<br><br>
+[2] N. Šibalić, J. M. Kondo, C. S. Adams and K. J. Weatherill, Dressed-state electromagnetically induced transparency for light storage in uniform-phase spin waves, Phys. Rev. A 94, 033840 (2016)
 <br>
 
 <br>
@@ -540,9 +558,19 @@ For further details about the existing Cs-Yb project see <a href="https://www.
       	<h5><a id="Weatherill_THzSLM">A terahertz spatial light modulator for off-axis tomography</a></h5>  
 </center>
 <br>
-Project description TBD.
+Terahertz (THz) imaging offers a powerful route to non-destructive inspection, security screening and advanced manufacturing, but current systems struggle to deliver high-speed three-dimensional imaging. This PhD project aims to develop a new generation of quantum-enhanced THz imaging by combining the ultra-fast Rydberg atom THz camera developed at Durham [1] with emerging THz spatial light modulation technologies [2]. 
+<br><br>
+This Ph.D. project will investigate how rapidly programmable THz illumination patterns can be combined with high-speed atomic THz imaging to perform off-axis tomographic reconstruction. Inspired by recent demonstrations of THz field tomography and computational imaging [3], the goal is to create a system capable of recovering three-dimensional information without mechanical scanning, opening new possibilities for imaging concealed objects, manufactured components and complex materials.
+<br><br>
+The student will work at the intersection of atomic physics, terahertz photonics, computational imaging and inverse problems, developing novel imaging techniques with applications in both fundamental science and future industrial sensing technologies.
+<br><br>
+[1] L. A. Downes, A. R. MacKellar, D.J. Whiting, C. Bourgenot, C.S. Adams and K.J. Weatherill, Full-field terahertz imaging at kilohertz frame rates using atomic vapor. Phys. Rev. X 10, 011027 (2020)
+<br><br>
+[2] S. Mou et al. All-fibre-coupled terahertz single-pixel imaging for biomedical applications. Nature Comms. 17, 1571 (2026)
+<br><br>
+[3] K. H. May, S. Mohammadzadeh, A. Keil, G. von Freymann, and F. Friederich, Coherent Off-Axis Terahertz Tomography with a Multi-Channel Array and f-theta Optics.  Sensors 24, 529 (2024).
 <br>
-
+<center><img src="{{ site.url }}{{ site.baseurl }}/join/img/THzModulator.png" height="350"/></center>
 <br>
 For any questions about the position, please contact <a href="mailto:k.j.weatherill@durham.ac.uk">Prof. Kevin Weatherill</a>.
 <br><br>
