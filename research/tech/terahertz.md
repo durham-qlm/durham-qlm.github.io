@@ -47,7 +47,7 @@ subtitle: RF, Microwave and THz Sensing and Imaging using Rydberg Atoms
 |[Prof. Stuart Adams](https://www.durham.ac.uk/staff/c-s-adams/)|
 |[Dr. Lucy Downes](https://www.durham.ac.uk/staff/lucy-downes/)|
 |[Dr. Andrew MacKellar](https://www.durham.ac.uk/staff/andrew-r-mackellar/)|
-|[Dr. Anthonin Delphin](https://www.durham.ac.uk/staff/anthonin-delphan/)|
+|[Dr. Anthonin Delphan](https://www.durham.ac.uk/staff/anthonin-delphan/)|
 |[Dr. Bahtiyar Maimaiti](https://www.durham.ac.uk/staff/baihetiyaer-maimaiti/)|
 |[Mr. Zhejun Li](https://www.durham.ac.uk/staff/zhejun-li/)|
 |[Ms. Mina Buchvarova](https://www.durham.ac.uk/staff/mina-buchvarova/)|
