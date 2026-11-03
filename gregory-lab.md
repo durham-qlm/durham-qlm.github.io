@@ -55,7 +55,7 @@ Matthew P. Wilde, Richard G. Wolfendale, Mark Bengyel, Ifan G. Hughes, and Phili
 <img src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/GregoryLab_Group.jpg" alt="Gregory lab 2026: Philip Gregory, project lead (left), Anuprava Bokshi, PhD (centre), Mark Bengyel, PhD (right)"/>
 
 <div class="image-text-container">
-  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/gregory_zoom.png" alt="Philip Gregory, project lead"/>
+  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/gregory_zoomed.png" alt="Philip Gregory, project lead"/>
   <div class="profile-text">
     <p> <b> Philip Gregory (project lead) </b> is a Royal Society university research fellow specialising in the study of ultracold gases of dipolar molecules. During my PhD and PDRA I worked with Prof. Simon Cornish to develop our experiments with ultracold RbCs molecules. In addition to my independent work on the RbAg project, I also co-supervise the ongoing RbCs bulk gas and microscope experiments, and the NaCs BEC experiment at Durham. <br><br>
 An up to date list of my publications can be found on <a href="https://scholar.google.co.uk/citations?hl=en&user=lI9XargAAAAJ&view_op=list_works&sortby=pubdate"> Google Scholar. </a> 
