@@ -29,7 +29,10 @@
 
 We are an experimental group specialising in the study of ultracold gases of novel dipolar molecules. We are currently studying ultracold mixtures of silver (Ag) and rubidium (Rb) with the ultimate goal of creating a new species of ultrapolar molecule RbAg. This molecule is expected to exhibit an extremely large electric dipole moment of 9 Debye, which enables more strongly-interacting and long-lived samples than are available in other experiments. 
 
-We recently realised our first magneto-optical traps of Rb and Ag (see image below), and are now working on implementing sub-Doppler cooling of both species to load them into a common optical dipole trap in the next step towards creating RbAg molecules. 
+We recently realised our first magneto-optical traps of Rb and Ag (see images below), and are now working on implementing sub-Doppler cooling of both species to load them into a common optical dipole trap in the next step towards creating RbAg molecules. 
+
+<center><img src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/ExperimentOverview_2026.png" /></center>
+
 
 ### Most recent experimental preprint:<br>
 
