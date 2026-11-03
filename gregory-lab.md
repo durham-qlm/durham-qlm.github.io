@@ -29,14 +29,14 @@
 
 We are an experimental group specialising in the study of ultracold gases of novel dipolar molecules. We are currently studying ultracold mixtures of silver (Ag) and rubidium (Rb) with the ultimate goal of creating a new species of ultrapolar molecule RbAg. This molecule is expected to exhibit an extremely large electric dipole moment of 9 Debye, which enables more strongly-interacting and long-lived samples than are available in other experiments. 
 
-We recently realised our first magneto-optical traps of Rb and Ag (see image below), and are now working on implementing sub-Doppler cooling of both species to load them into an optical dipole trap. 
+We recently realised our first magneto-optical traps of Rb and Ag (see image below), and are now working on implementing sub-Doppler cooling of both species to load them into a common optical dipole trap in the next step towards creating RbAg molecules. 
 
-### Most recent preprint:<br>
+### Most recent experimental preprint:<br>
 
 <div class="image-text-container">
-  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/gregory_zoom.png" alt="Philip Gregory, project lead"/>
+  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/HCL_website.png" alt="Philip Gregory, project lead"/>
   <div class="profile-text">
-    <p> #### Quantified absorption of laser light by silver atoms in a hollow-cathode lamp. <br>
+    <p> <b> Quantified absorption of laser light by silver atoms in a hollow-cathode lamp. </b> <br>
 Matthew P. Wilde, Richard G. Wolfendale, Mark Bengyel, Ifan G. Hughes, and Philip D. Gregory.<br>
 <a href="https://doi.org/10.48550/arXiv.2608.27700">arXiv:2608.27700 (2026).</a>
 </p>
