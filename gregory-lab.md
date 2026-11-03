@@ -57,7 +57,7 @@ To learn more about our work, or if you are interested in joining our group, ple
 
 
 <div class="image-text-container">
-  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/Bengyel.png" alt="Philip Gregory, project lead"/>
+  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/bengyel.png" alt="Mark Bengyel, PhD"/>
   <div class="profile-text">
     <p> <b> Mark Bengyel, </b> PhD student.
 </p>
@@ -65,7 +65,7 @@ To learn more about our work, or if you are interested in joining our group, ple
 </div>
 
 <div class="image-text-container">
-  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/Bokshi.png" alt="Philip Gregory, project lead"/>
+  <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/bokshi.png" alt="Anuprava Bokshi, PhD"/>
   <div class="profile-text">
     <p> <b> Anuprava Bokshi, </b> PhD student.
 </p>
