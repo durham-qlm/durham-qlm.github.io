@@ -73,7 +73,8 @@ To learn more about our work, or if you are interested in joining our group, ple
 <div class="image-text-container">
   <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/bengyel.png" alt="Mark Bengyel, PhD"/>
   <div class="profile-text">
-    <p> <b> Mark Bengyel, </b> PhD student.
+    <p> <b> Mark Bengyel, </b> PhD student. <br><br>
+	Funded by an EPSRC Quantum Technologies studentship. 
 </p>
 </div>
 </div>
@@ -81,7 +82,8 @@ To learn more about our work, or if you are interested in joining our group, ple
 <div class="image-text-container">
   <img class="profile-photo" src="{{ site.url }}{{ site.baseurl }}/gregory-lab/img/bokshi.png" alt="Anuprava Bokshi, PhD"/>
   <div class="profile-text">
-    <p> <b> Anuprava Bokshi, </b> PhD student.
+    <p> <b> Anuprava Bokshi, </b> PhD student. <br><br>
+Studentship funded by the Royal Society and Durham University. 
 </p>
 </div>
 </div>
