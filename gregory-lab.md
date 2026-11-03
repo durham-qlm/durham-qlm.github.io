@@ -8,15 +8,17 @@ We are an experimental group specialising in the study of ultracold gases of nov
 
 We recently realised our first magneto-optical traps of Rb and Ag (see image below), and are now working on implementing sub-Doppler cooling of both species to load them into an optical dipole trap. 
 
-# Our most recent preprint:
-Quantified absorption of laser light by silver atoms in a hollow-cathode lamp. 
-Matthew P. Wilde, Richard G. Wolfendale, Mark Bengyel, Ifan G. Hughes, Philip D. Gregory.
-[arXiv:2608.27700](https://doi.org/10.48550/arXiv.2608.27700)
+# Our most recent preprint:<br>
+Quantified absorption of laser light by silver atoms in a hollow-cathode lamp. <br>
+Matthew P. Wilde, Richard G. Wolfendale, Mark Bengyel, Ifan G. Hughes, Philip D. Gregory.<br>
+[arXiv:2608.27700 (2026).](https://doi.org/10.48550/arXiv.2608.27700)
 
 
 
 
 # Our team:
+
+<img src="{{ site.url }}{{ site.baseurl }}/members/current/gregory/img/GregoryLab_Group.jpg" alt="Gregory lab 2026"/>
 
 Philip Gregory (project lead) is a Royal Society university research fellow specialising in the study of ultracold gases of dipolar molecules.  
 <img src="{{ site.url }}{{ site.baseurl }}/members/current/gregory/img/gregory.jpg" alt="Philip Gregory"/>
