@@ -64,8 +64,6 @@ Matthew P. Wilde, Richard G. Wolfendale, Mark Bengyel, Ifan G. Hughes, and Phili
 An up-to-date list of my publications can be found on <a href="https://scholar.google.co.uk/citations?hl=en&user=lI9XargAAAAJ&view_op=list_works&sortby=pubdate"> Google Scholar. </a> 
 <br><br>
 To learn more about our work, or if you are interested in joining our group, please contact me at <a href="mailto:p.d.gregory@durham.ac.uk"> p.d.gregory@durham.ac.uk </a>
-<br><br>
-[Durham University staff page](https://www.durham.ac.uk/staff/p-d-gregory/)
 </p>
 </div>
 </div>
