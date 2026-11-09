@@ -14,7 +14,7 @@ The schedule for our upcoming seminars in Michaelmas term is as follows:
 |11/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Simon Fischer"> Weak wave turbulence as a precursor to universal coarsening in a homogeneous Bose gas </a>|Simon Fischer |University of Cambridge|
 |18/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Maria Goncalves">  Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus </a>|Maria Gonçalves |Durham University, QLM|
 |25/11/2026| | |<a href="/join/phdrecruit"> No seminar: QLM postgraduate open day </a>|  | |
-|2/12/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Natasha Bierrum"> Title TBD </a>|Natasha Bierrum |University of Bristol|
+
 
 
 Past seminars can be found here: 
