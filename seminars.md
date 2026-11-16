@@ -12,8 +12,10 @@ The schedule for our upcoming seminars in Michaelmas term is as follows:
 |28/10/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Jeffrey Gorman"> Engineering exciton dynamics with DNA nanotechnology </a>|Jeffrey Gorman |Durham University, Dept. of Chemistry |
 |4/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Lawrence Carslake"> First year talk, Fiber-coupled Rydberg sensors for traceable RF electric field metrology - Investigating traceable solutions for electric field measurements within the National Physical Laboratory </a>|Lawrence Carslake |Durham University, QLM |
 |11/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Simon Fischer"> Weak wave turbulence as a precursor to universal coarsening in a homogeneous Bose gas </a>|Simon Fischer |University of Cambridge|
-|18/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Maria Goncalves">  Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus </a>|Maria Gonçalves |Durham University, QLM|
+|18/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/planqc">  From Neutral Atoms to Useful Quantum Computing: Hardware and Algorithm Co-Design at planqc </a>|Boyko Nikolov and Marco Tesoro |Planqc|
 |25/11/2026| | |<a href="/join/phdrecruit"> No seminar: QLM postgraduate open day </a>|  | |
+|02/12/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Maria Goncalves">  Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus </a>|Maria Gonçalves |Durham University, QLM|
+
 
 
 
