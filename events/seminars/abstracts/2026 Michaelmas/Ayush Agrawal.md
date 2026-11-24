@@ -30,8 +30,8 @@ limit. This provides genuine entanglement-enhancement, even when accounting
 for the experimental overhead of generating remote entanglement.
 <br><br>
 References<br>
-1K. J. Arnold et al., Nature 658, 60–64 (2026).<br>
-2M. C. Marshall et al., Phys. Rev. Lett. 135, 033201 (2025).<br>
-3T. E. Mehlst¨aubler et al., Reports on Progress in Physics 81, 064401 (2018).<br>
-4M. S. Safronova et al., Rev. Mod. Phys. 90, 025008 (2018).<br>
-5B. C. Nichol et al., Nature 609, 689–694 (2022).<br>
+[1] K. J. Arnold et al., Nature 658, 60–64 (2026).<br>
+[2] M. C. Marshall et al., Phys. Rev. Lett. 135, 033201 (2025).<br>
+[3] T. E. Mehlst¨aubler et al., Reports on Progress in Physics 81, 064401 (2018).<br>
+[4] M. S. Safronova et al., Rev. Mod. Phys. 90, 025008 (2018).<br>
+[5] B. C. Nichol et al., Nature 609, 689–694 (2022).<br>
