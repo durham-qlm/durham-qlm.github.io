@@ -14,6 +14,7 @@ The schedule for our upcoming seminars in Michaelmas term is as follows:
 |11/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Simon Fischer"> Weak wave turbulence as a precursor to universal coarsening in a homogeneous Bose gas </a>|Simon Fischer |University of Cambridge|
 |18/11/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/planqc">  From Neutral Atoms to Useful Quantum Computing: Hardware and Algorithm Co-Design at planqc </a>|Boyko Nikolov and Marco Tesoro |Planqc|
 |25/11/2026| | |<a href="/join/phdrecruit"> No seminar: QLM postgraduate open day </a>|  | |
+|27/12/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Ayush Agrawal"> A network of <sup>43</sup>Ca<sup>+</sup> optical clocks for entanglement-enhanced metrology </a>|Ayush Agrawal |University of Oxford|
 |02/12/2026|12pm-1pm|OCW017|<a href="/events/seminars/abstracts/2026 Michaelmas/Maria Goncalves">  Be<sup>+</sup>-assisted antihydrogen synthesis and trapping in the ALPHA apparatus </a>|Maria Gonçalves |Durham University, QLM|
 
 
