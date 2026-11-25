@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Laser cooling CaF molecules
+title: CaF lab
 subtitle: Building a new platform for quantum simulation, one molecule at a time
 ---
 
@@ -81,7 +81,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
     <div class="col-md-6">
       <span class="badge-open">PhD position · October 2027</span>
       <h1>We laser cool molecules to build quantum simulators</h1>
-      <p class="lead">Our team is building an experiment to cool calcium monofluoride (CaF) molecules to within a millionth of a degree of absolute zero, trap them in patterns of laser light, and use them to explore quantum physics that is too hard to compute.</p>
+      <p class="lead">Our team is building an experiment to cool calcium monofluoride (CaF) molecules to within a millionth of a degree of absolute zero, trap them with laser beams, and use them to explore quantum physics that is too hard to compute.</p>
       <a class="btn-caf" href="#join">Join the team</a>
       <a class="btn-caf-outline" href="#science">Our research</a>
     </div>
@@ -192,8 +192,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
     <ul class="mt-2">
       <li>Dr Alex J. Matthies (they/them), PDRA 2023–2026, now a postdoc in Gothenburg</li>
       <li>Tom Philo (he/him), MSci student 2024–2025</li>
-      <li>Keelan Sloan (he/him), summer and MSci student 2023–2024</li>
-      <li>Andrew Elwood (he/him), MSci student 2023–2024</li>
+      <li>Keelan Sloan and Andrew Elwood, MSci students 2023–2024</li>
       <li>James Crilly, Matthew Page and Yuchao Liu, MSci students 2022–2023</li>
     </ul>
   </details>
@@ -251,7 +250,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 <section id="publications">
   <h2>Publications</h2>
   <ul class="pubs">
-    <li><b>Near-deterministic loading of tweezer arrays</b> (proposal), <a href="https://arxiv.org/abs/2604.22406">arXiv:2604.22406</a> (2026).</li>
+    <li><b>Near-deterministic loading of optical tweezer arrays via repulsive barricade potentials</b> (Preprint), <a href="https://arxiv.org/abs/2604.22406">arXiv:2604.22406</a> (2026).</li>
     <li><b>DiPolMol-Py: A Python package for calculations for <sup>2</sup>Σ ground-state molecules</b>, <i>Computer Physics Communications</i> (2025). <a href="https://doi.org/10.1016/j.cpc.2025.109813">Journal</a> · <a href="https://arxiv.org/abs/2503.21663">arXiv:2503.21663</a></li>
   </ul>
 </section>
