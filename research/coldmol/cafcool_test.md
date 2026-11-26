@@ -137,8 +137,8 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
       <p><b>3. Trapping and cooling.</b> Next we will capture the slowed molecules in a magneto-optical trap (MOT), cool them further, and load them into optical tweezer arrays and lattices for quantum simulation. We are in the process of building the chamber for the MOT.</p>
     </div>
     <div class="col-md-5 text-center">
-      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/MOT_coils.jpg" alt="Photo of MOT coils before being painted and put in chamber">
-      <div class="figure-cap">Photo showing recently wound in-vacuum MOT coils.</div>
+      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Lasers.jpeg" alt="Photo of orange and green laser beams">
+      <div class="figure-cap">The lasers used for the main cooling transitions.</div>
     </div>
   </div>
 </section>
@@ -235,6 +235,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
       <li data-target="#lifeCarousel" data-slide-to="5"></li>
       <li data-target="#lifeCarousel" data-slide-to="6"></li>
       <li data-target="#lifeCarousel" data-slide-to="7"></li>
+      <li data-target="#lifeCarousel" data-slide-to="8"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
@@ -248,6 +249,10 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
       <div class="carousel-item">
         <div class="slide-frame"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Escape_the_lab_2025.jpg" alt="The CaF team holding a giant yellow key after completing an escape room" loading="lazy"></div>
         <div class="slide-cap"><b>We escaped!</b> Team escape room, February 2025.</div>
+      </div>
+      <div class="carousel-item">
+        <div class="slide-frame"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/decelerator.jpg" alt="Photo of vacuum chamber" loading="lazy"></div>
+        <div class="slide-cap"><b>Teamwork</b> Vacuum chamber for source and slowing, March 2025.</div>
       </div>
       <div class="carousel-item">
         <div class="slide-frame"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/christmas_lunch_2024.jpg" alt="The team sharing pizzas around a table at a Christmas lunch" loading="lazy"></div>
