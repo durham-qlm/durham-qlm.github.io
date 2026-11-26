@@ -169,7 +169,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
   <div class="join">
     <span class="badge-open">Now recruiting</span>
     <h2>Join us: PhD starting October 2027</h2>
-    <div class="row">
+    <div class="row align-items-center mb-4">
       <div class="col-md-7">
         <p class="lead" style="font-size:1.1rem">We're looking for a PhD student to join the team working towards <b>quantum simulation with a lattice of CaF molecules</b>.</p>
         <p>This is a hands-on experimental project, and you'll be part of a friendly, close-knit team. Along the way you'll learn:</p>
@@ -186,8 +186,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
         <p class="mt-3 mb-0">Questions? Email <a href="mailto:hannah.williams4@durham.ac.uk">Dr Hannah Williams</a>. We're happy to chat informally or show you around the lab.</p>
       </div>
       <div class="col-md-5 mt-4 mt-md-0">
-        <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/team_with_source.jpg" alt="Four team members standing beside the cryogenic buffer gas source in the lab">
-        <div class="figure-cap">Team members with our cryogenic buffer gas source in the lab.</div>
+        <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/chamber_lasers.jpg" alt="Vacuum chamber photo with orange and green laser beams">
       </div>
     </div>
   </div>
