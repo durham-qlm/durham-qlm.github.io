@@ -108,19 +108,31 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 
 <section>
   <h2>How our experiment works</h2>
-  <div class="row">
+
+  <!-- Step 1 + source photo -->
+  <div class="row align-items-center mb-4">
     <div class="col-md-7">
       <p><b>1. Making the molecules.</b> Every laser cooling experiment starts by creating molecules. We use a pulsed Nd:YAG laser to ablate a calcium metal target, creating a plasma of Ca ions. Sulfur hexafluoride gas is injected, which reacts with the calcium to form CaF. This happens inside a copper cell cooled to 4&nbsp;K, cold helium gas also flows into the cell and cools the molecules. The cold CaF molecules then leave the cell as a beam travelling at around 150&nbsp;m/s.</p>
-      <p><b>2. Slowing them down.</b> 150&nbsp;m/s is far too fast to trap, so we need to decelerate the molecules. CaF has been chosen because of its nice structure, it has two electronic transitions which are almost closed (X (ground state) to A (1st electronic state) at 606&nbsp;nm and (X to B (2nd electronic state)) at 531&nbsp;nm. We use the X-B transition for laser slowing and counterpropagate a 531&nbsp;nm laser which is detuned to be resonant with fast molecules. We then sweep (chirp) its frequency to stay on resonance with the molecules and they slow down and their Doppler shift changes.</p>
-      <p><b>3. Trapping and cooling.</b> Next we will capture the slowed molecules in a magneto-optical trap (MOT), cool them further, and load them into optical tweezer arrays and lattices for quantum simulation.</p>
     </div>
     <div class="col-md-5">
       <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/buffer_gas_source.png" alt="Annotated photo of the cryogenic buffer gas source showing the calcium target, helium sorbs, 4 K cryocooler and ablation laser path">
       <div class="figure-cap">Our cryogenic buffer gas source, where the CaF molecules are made.</div>
-      <img class="rounded-img mt-4" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_structure.png" alt="Transitions involved in laser cooling CaF">
+    </div>
+  </div>
+
+  <!-- Step 2 + transitions figure, vertically centred together -->
+  <div class="row align-items-center mb-4">
+    <div class="col-md-7">
+      <p><b>2. Slowing them down.</b> 150&nbsp;m/s is far too fast to trap, so we need to decelerate the molecules. CaF has been chosen because of its nice structure, it has two electronic transitions which are almost closed (X (ground state) to A (1st electronic state) at 606&nbsp;nm and (X to B (2nd electronic state)) at 531&nbsp;nm. We use the X-B transition for laser slowing and counterpropagate a 531&nbsp;nm laser which is detuned to be resonant with fast molecules. We then sweep (chirp) its frequency to stay on resonance with the molecules and they slow down and their Doppler shift changes.</p>
+    </div>
+    <div class="col-md-5 text-center">
+      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_structure.png" alt="Transitions involved in laser cooling CaF">
       <div class="figure-cap">Main transitions involved in slowing and cooling CaF, including vibrational decay probabilities.</div>
     </div>
   </div>
+
+  <!-- Step 3, full width -->
+  <p><b>3. Trapping and cooling.</b> Next we will capture the slowed molecules in a magneto-optical trap (MOT), cool them further, and load them into optical tweezer arrays and lattices for quantum simulation.</p>
 </section>
 
 <!-- ============ PROGRESS ============ -->
