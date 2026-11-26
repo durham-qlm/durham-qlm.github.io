@@ -80,14 +80,14 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
   <div class="row align-items-center">
     <div class="col-md-6">
       <span class="badge-open">PhD position · October 2027</span>
-      <h1>We laser cool molecules to build quantum simulators</h1>
-      <p class="lead">Our team is building an experiment to cool calcium monofluoride (CaF) molecules to within a millionth of a degree of absolute zero, trap them with laser beams, and use them to explore quantum physics that is too hard to compute.</p>
+      <h1>Laser cooling molecules for quantum simulation</h1>
+      <p class="lead">Our team is building an experiment to cool calcium monofluoride (CaF) molecules to within a millionth of a degree of absolute zero, trap them with laser beams, and use them to explore quantum physics that is too hard to compute classically.</p>
       <a class="btn-caf" href="#join">Join the team</a>
       <a class="btn-caf-outline" href="#science">Our research</a>
     </div>
     <div class="col-md-6 mt-4 mt-md-0">
-      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/archie_big_signal.jpg" alt="PhD student Archie smiling next to an oscilloscope showing a large molecule signal">
-      <div class="figure-cap">Archie with a big molecule signal on the oscilloscope.</div>
+      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/archie_big_signal.jpg" alt="PhD student Archie with a molecular beam signal">
+      <div class="figure-cap">PhD student Archie with a molecular beam signal.</div>
     </div>
   </div>
 </div>
@@ -95,11 +95,12 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 <!-- ============ THE SCIENCE ============ -->
 <section id="science">
   <h2>Why molecules?</h2>
-  <p>Atoms have been laser cooled for decades, and are now at the heart of quantum computers and the world's best clocks. Molecules are harder to control, but they offer much more: they can rotate and vibrate, and polar molecules like CaF interact with each other over long distances. That makes them a powerful new tool for quantum science.</p>
+  <p>The study of ultracold atomic gases extends back around 40 years, and has led to remarkable advances in our understanding of quantum physics. Expanding the ultracold toolkit to molecules promises exciting opportunities to go beyond what is possible with atoms. Molecules possess extra degrees of freedom which span many orders of magnitude in energy, these include vibrational and rotational structure which provide a basis for precision measurement, tests of fundamental physics and the study of quantum chemistry. Polar molecules also experience long-range, anisotropic dipole-dipole interactions which can be used to study many-body physics, or controlled to set up quantum simulations or quantum computation. An optical lattice of ultracold polar molecules is an ideal testbed for many of these applications, and this is the goal of our lab.</p>
+  <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/why_molecules.png" alt="Figure showing energy scales, anisotropic dipole-dipole interaction and a drawing of molecules in an optical lattice.">
   <div class="row">
-    <div class="col-md-4 mb-3"><div class="why-card"><h4>Quantum simulation</h4><p>Arrays of interacting molecules can mimic models of quantum magnetism, helping us understand materials that classical computers struggle to describe.</p></div></div>
-    <div class="col-md-4 mb-3"><div class="why-card"><h4>Quantum technology</h4><p>Long-lived rotational states make molecules promising building blocks for quantum computing and quantum sensing.</p></div></div>
-    <div class="col-md-4 mb-3"><div class="why-card"><h4>Direct laser cooling</h4><p>CaF has an unusually simple structure, so it can be laser cooled directly, just like atoms, without first assembling it from ultracold atoms.</p></div></div>
+    <div class="col-md-4 mb-3"><div class="why-card"><h4>Quantum simulation</h4><p>Arrays of interacting molecules can mimic models of quantum magnetism, helping us understand systems that classical computers struggle to describe.</p></div></div>
+    <div class="col-md-4 mb-3"><div class="why-card"><h4>Optical lattice</h4><p>A retro-reflected laser beam sets up a standing intensity wave, ultracold molecules can be pinned to the intensity minima (or maxima).</p></div></div>
+    <div class="col-md-4 mb-3"><div class="why-card"><h4>Laser cooling</h4><p>To be trapped, the molecules must be extremely cold (microkelvin), this can only be achieved by using lasers to remove energy.</p></div></div>
   </div>
 </section>
 
@@ -107,13 +108,16 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
   <h2>How our experiment works</h2>
   <div class="row">
     <div class="col-md-7">
-      <p><b>1. Making the molecules.</b> Every laser cooling experiment starts by creating molecules. We fire a pulsed Nd:YAG laser at a calcium metal target and flow in sulfur hexafluoride gas, which reacts with the calcium to form CaF. This happens inside a copper cell mounted on a 4&nbsp;K cryocooler, where cold helium gas cools the molecules. They leave the cell as a beam travelling at around 150&nbsp;m/s.</p>
-      <p><b>2. Slowing them down.</b> 150&nbsp;m/s is far too fast to trap, so we slow the beam using chirped laser slowing: a 531&nbsp;nm laser shines against the beam, and we sweep (chirp) its frequency to stay on resonance as the molecules slow down and their Doppler shift changes.</p>
+      <p><b>1. Making the molecules.</b> Every laser cooling experiment starts by creating molecules. We use a pulsed Nd:YAG laser to ablate a calcium metal target, creating a plasma of Ca ions. Sulfur hexafluoride gas is injected, which reacts with the calcium to form CaF. This happens inside a copper cell cooled to 4&nbsp;K, cold helium gas also flows into the cell and cools the molecules. The cold CaF molecules then leave the cell as a beam travelling at around 150&nbsp;m/s.</p>
+      <p><b>2. Slowing them down.</b> 150&nbsp;m/s is far too fast to trap, so we need to decelerate the molecules. CaF has been chosen because of its nice structure, it has two electronic transitions which are almost closed (X (ground state) to A (1st electronic state) at 606&nbsp;nm and (X to B (2nd electronic state)) at 531&nbsp;nm. We use the X-B transition for laser slowing and counterpropagate a 531&nbsp;nm laser which is detuned to be resonant with fast molecules. We then sweep (chirp) its frequency to stay on resonance with the molecules and they slow down and their Doppler shift changes.</p>
       <p><b>3. Trapping and cooling.</b> Next we will capture the slowed molecules in a magneto-optical trap (MOT), cool them further, and load them into optical tweezer arrays and lattices for quantum simulation.</p>
     </div>
     <div class="col-md-5">
       <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/buffer_gas_source.png" alt="Annotated photo of the cryogenic buffer gas source showing the calcium target, helium sorbs, 4 K cryocooler and ablation laser path">
       <div class="figure-cap">Our cryogenic buffer gas source, where the CaF molecules are made.</div>
+      <div class="col-md-5">
+      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_structure.png" alt="Transitions involved in laser cooling CaF">
+      <div class="figure-cap">Main transitions involved in slowing and cooling CaF, including vibrational decay probabilities.</div>
     </div>
   </div>
 </section>
@@ -124,10 +128,9 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
   <div class="row">
     <div class="col-md-6">
       <ul class="timeline">
-        <li><div class="when">October 2021</div><div class="what">The group is founded</div>Bethan joins as our first PhD student.</li>
-        <li><div class="when">September 2022</div><div class="what">New lab completed</div>An office space converted into our laser lab.</li>
-        <li><div class="when">April 2024</div><div class="what">First CaF molecules</div>Our buffer gas source produces its first molecules.</li>
-        <li><div class="when">March 2025</div><div class="what">First paper</div>DiPolMol-Py, an open-source Python package for molecular structure calculations.</li>
+        <li><div class="when">October 2021</div><div class="what">The group is founded</div>We begin planning our experiment.</li>
+        <li><div class="when">September 2022</div><div class="what">New lab completed</div>An office space converted into our lab.</li>
+        <li><div class="when">April 2024</div><div class="what">First CaF molecules</div>We see our first molecular signal.</li>
         <li class="now"><div class="when">Now</div><div class="what">Laser slowing the molecular beam</div>Our first slowing signals are in (right).</li>
         <li class="future"><div class="when">Next</div><div class="what">Magneto-optical trap</div>Capturing and cooling the slowed molecules.</li>
         <li class="future"><div class="when">Future</div><div class="what">Molecules in arrays of light</div>Optical lattices and tweezers for quantum simulation.</li>
@@ -150,12 +153,12 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
         <p class="lead" style="font-size:1.1rem">We're looking for a PhD student to join the team working towards <b>quantum simulation with a lattice of CaF molecules</b>.</p>
         <p>This is a hands-on experimental project, and you'll be part of a friendly, close-knit team. Along the way you'll learn:</p>
         <ul>
-          <li>Laser systems, optics and frequency stabilisation</li>
-          <li>Ultra-high vacuum and cryogenic techniques</li>
-          <li>Electronics, experiment control and data analysis in Python</li>
-          <li>Molecular and atomic physics, and quantum simulation</li>
+          <li>Laser systems, optics and frequency stabilisation.</li>
+          <li>Ultra-high vacuum and cryogenic techniques.</li>
+          <li>Electronics, experiment control (Artiq) and data analysis (Python).</li>
+          <li>Molecular and atomic physics, and quantum simulation.</li>
         </ul>
-        <p>No previous experience with molecules is needed. Curiosity and enthusiasm for experimental physics matter most. Undergraduate project and summer students also regularly join the team, so please get in touch if you're interested.</p>
+        <p>No previous experience with molecules is needed. Curiosity and enthusiasm for experimental physics matter most. Deadline for application:<b>15th December 2026</b></p>
         <a class="btn-caf" href="{{ site.baseurl }}/join/phdrecruit/#Williams">Project details</a>
         <a class="btn-caf-outline" href="{{ site.baseurl }}/join/howtoapply/">How to apply</a>
         <a class="btn-caf-outline" href="{{ site.baseurl }}/join/AboutPhD/">Life as a QLM student</a>
@@ -178,10 +181,10 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
       <div class="figure-cap">Team away day, 2026.</div>
     </div>
     <div class="col-md-6">
-      <div class="person"><div class="avatar">HW</div><div><div class="name"><a href="https://www.durham.ac.uk/staff/hannah-williams4/">Dr Hannah J. Williams</a> <small>(she/her)</small></div><div class="role">Principal Investigator · UKRI Future Leaders Fellow</div></div></div>
+      <div class="person"><div class="avatar">HW</div><div><div class="name"><a href="https://www.durham.ac.uk/staff/hannah-williams4/">Dr Hannah J. Williams</a> <small>(she/her)</small></div><div class="role">Principal Investigator· UKRI Future Leaders Fellow</div></div></div>
       <div class="person"><div class="avatar pdra">BH</div><div><div class="name">Dr Bethan Humphreys <small>(she/her)</small></div><div class="role">Postdoctoral researcher</div></div></div>
       <div class="person"><div class="avatar phd">AB</div><div><div class="name">Archie Baldock <small>(he/him)</small></div><div class="role">PhD student</div></div></div>
-      <div class="person"><div class="avatar phd">RH</div><div><div class="name">Rebecca Hedley <small>(she/her)</small></div><div class="role">PhD student</div></div></div>
+      <div class="person"><div class="avatar phd">RH</div><div><div class="name">Becca Hedley <small>(she/her)</small></div><div class="role">PhD student</div></div></div>
       <div class="person"><div class="avatar phd">LR</div><div><div class="name">Lara Rogers <small>(she/her)</small></div><div class="role">PhD student</div></div></div>
       <div class="person"><div class="avatar msci">NS</div><div><div class="name">Nicole Simpson <small>(she/her)</small></div><div class="role">MSci student</div></div></div>
       <div class="person"><div class="avatar msci">AK</div><div><div class="name">Andreas Ktori <small>(he/him)</small></div><div class="role">MSci student</div></div></div>
@@ -210,11 +213,16 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
       <li data-target="#lifeCarousel" data-slide-to="4"></li>
       <li data-target="#lifeCarousel" data-slide-to="5"></li>
       <li data-target="#lifeCarousel" data-slide-to="6"></li>
+      <li data-target="#lifeCarousel" data-slide-to="7"></li>
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
         <div class="slide-frame"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Team_Seb_June_2026.jpeg" alt="Team members on the swings at a play park while a toddler plays in a toy car in the foreground"></div>
-        <div class="slide-cap"><b>Team outing</b> to play park ft. Hannah's baby.</div>
+        <div class="slide-cap"><b>Team outing</b> to play park ft. Hannah's baby. May 2026</div>
+      </div>
+      <div class="carousel-item">
+        <div class="slide-frame"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/MOT_coil_winding.jpg" alt="The CaF team winding invacuum MOT coils" loading="lazy"></div>
+        <div class="slide-cap"><b>Teamwork</b> Winding MOT coils is a four person job! November 2026.</div>
       </div>
       <div class="carousel-item">
         <div class="slide-frame"><img src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/Escape_the_lab_2025.jpg" alt="The CaF team holding a giant yellow key after completing an escape room" loading="lazy"></div>
@@ -249,9 +257,15 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 <!-- ============ PUBLICATIONS ============ -->
 <section id="publications">
   <h2>Publications</h2>
+  <h3>Journal articles</h3>
   <ul class="pubs">
     <li><b>Near-deterministic loading of optical tweezer arrays via repulsive barricade potentials</b> (Preprint), <a href="https://arxiv.org/abs/2604.22406">arXiv:2604.22406</a> (2026).</li>
     <li><b>DiPolMol-Py: A Python package for calculations for <sup>2</sup>Σ ground-state molecules</b>, <i>Computer Physics Communications</i> (2025). <a href="https://doi.org/10.1016/j.cpc.2025.109813">Journal</a> · <a href="https://arxiv.org/abs/2503.21663">arXiv:2503.21663</a></li>
+  </ul>
+  <h3>Theses</h3>
+  <ul class="pubs">
+    <li><b>Bethan Humphreys</b> <a href="https://etheses.durham.ac.uk/id/eprint/16227/">Towards Zeeman-Sisyphus Deceleration of CaF Molecules</a> (2025).</li>
+    <li><b>Hannah Williams</b> <a href="https://doi.org/10.25560/62635">Producing, trapping and controlling ultracold CaF molecules</a> (2018)</li>
   </ul>
 </section>
 
@@ -259,7 +273,9 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 <section id="news">
   <h2>News</h2>
   <ul class="news-list">
+    <li><span class="m">Nov 2026</span> We start rebuilding the entire experiment as we change our focus to making a MOT.</li>
     <li><span class="m">Oct 2026</span> Lara joins the lab for her PhD, and Nicole returns along with Andreas for MSci projects. Welcome all!</li>
+    <li><span class="m">Sept 2026</span> We see the first signal of laser slowing! </li>
     <li><span class="m">Aug 2026</span> The whole team goes to Imperial for the second UK Laser Cooling Molecules meeting. Nicole finishes her summer internship, having set up environmental monitoring for the lab.</li>
     <li><span class="m">Jul 2026</span> Bethan and Becca attend the <a href="https://www.qsmol.uk/">QSMol</a> kick-off meeting. Nicole joins the team for a summer internship. Welcome Nicole!</li>
     <li><span class="m">Jun 2026</span> Archie presents a poster at <a href="https://www.icap29.com/home.html">ICAP</a> in Wuhan and at the ultracold molecules satellite meeting in Hong Kong. Alex leaves the group to start a postdoc in Gothenburg. Good luck, and thank you!</li>
@@ -324,6 +340,6 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
   </details>
 </section>
 
-<p class="funding">This work is supported by UKRI Future Leaders Fellowship MR/X033430/1 and EPSRC New Investigator Award EP/X013758/1.</p>
+<p class="funding">This work is supported by UKRI Future Leaders Fellowship MR/X033430/1. Page design and layout developed with the assistance of Claude (Anthropic), content reviewed by CaF team.</p>
 
 </div>
