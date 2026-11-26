@@ -180,16 +180,16 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
           <li>Electronics, experiment control (Artiq) and data analysis (Python).</li>
           <li>Molecular and atomic physics, and quantum simulation.</li>
         </ul>
-        <p>No previous experience with molecules is needed. Curiosity and enthusiasm for experimental physics matter most. Deadline for application: <b>15th December 2026</b></p>
-        <a class="btn-caf" href="{{ site.baseurl }}/join/phdrecruit/#Williams">Project details</a>
-        <a class="btn-caf-outline" href="{{ site.baseurl }}/join/howtoapply/">How to apply</a>
-        <a class="btn-caf-outline" href="{{ site.baseurl }}/join/AboutPhD/">Life as a QLM student</a>
-        <p class="mt-3 mb-0">Questions? Email <a href="mailto:hannah.williams4@durham.ac.uk">Dr Hannah Williams</a>. We're happy to chat informally or show you around the lab.</p>
       </div>
       <div class="col-md-5 mt-4 mt-md-0">
         <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/chamber_lasers.jpg" alt="Vacuum chamber photo with orange and green laser beams">
       </div>
     </div>
+    <p>No previous experience with molecules is needed. Curiosity and enthusiasm for experimental physics matter most. Deadline for application: <b>15th December 2026</b></p>
+        <a class="btn-caf" href="{{ site.baseurl }}/join/phdrecruit/#Williams">Project details</a>
+        <a class="btn-caf-outline" href="{{ site.baseurl }}/join/howtoapply/">How to apply</a>
+        <a class="btn-caf-outline" href="{{ site.baseurl }}/join/AboutPhD/">Life as a QLM student</a>
+    <p class="mt-3 mb-0">Questions? Email <a href="mailto:hannah.williams4@durham.ac.uk">Dr Hannah Williams</a>. We're happy to chat informally or show you around the lab.</p>
   </div>
 </section>
 
