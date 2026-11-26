@@ -137,7 +137,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
       <p><b>3. Trapping and cooling.</b> Next we will capture the slowed molecules in a magneto-optical trap (MOT), cool them further, and load them into optical tweezer arrays and lattices for quantum simulation. We are in the process of building the chamber for the MOT.</p>
     </div>
     <div class="col-md-5 text-center">
-      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/MOT_coils.png" alt="Photo of MOT coils before being painted and put in chamber">
+      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/MOT_coils.jpg" alt="Photo of MOT coils before being painted and put in chamber">
       <div class="figure-cap">Photo showing recently wound in-vacuum MOT coils.</div>
     </div>
   </div>
