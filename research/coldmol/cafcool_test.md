@@ -77,10 +77,10 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 
 <!-- ============ HERO ============ -->
 <div class="hero">
+  <span class="badge-open">PhD position · October 2027</span>
+  <h1>Laser cooling molecules for quantum simulation</h1>
   <div class="row align-items-center">
     <div class="col-md-6">
-      <span class="badge-open">PhD position · October 2027</span>
-      <h1>Laser cooling molecules for quantum simulation</h1>
       <p class="lead">Our team is building an experiment to cool calcium monofluoride (CaF) molecules to within a millionth of a degree of absolute zero, trap them with laser beams, and use them to explore quantum physics that is too hard to compute classically.</p>
       <a class="btn-caf" href="#join">Join the team</a>
       <a class="btn-caf-outline" href="#science">Our research</a>
@@ -96,7 +96,9 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
 <section id="science">
   <h2>Why molecules?</h2>
   <p>The study of ultracold atomic gases extends back around 40 years, and has led to remarkable advances in our understanding of quantum physics. Expanding the ultracold toolkit to molecules promises exciting opportunities to go beyond what is possible with atoms. Molecules possess extra degrees of freedom which span many orders of magnitude in energy, these include vibrational and rotational structure which provide a basis for precision measurement, tests of fundamental physics and the study of quantum chemistry. Polar molecules also experience long-range, anisotropic dipole-dipole interactions which can be used to study many-body physics, or controlled to set up quantum simulations or quantum computation. An optical lattice of ultracold polar molecules is an ideal testbed for many of these applications, and this is the goal of our lab.</p>
-  <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/why_molecules.png" alt="Figure showing energy scales, anisotropic dipole-dipole interaction and a drawing of molecules in an optical lattice.">
+    <div class="text-center mb-4">
+    <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/why_molecules.png" alt="Figure showing energy scales, anisotropic dipole-dipole interaction and a drawing of molecules in an optical lattice.">
+  </div>
   <div class="row">
     <div class="col-md-4 mb-3"><div class="why-card"><h4>Quantum simulation</h4><p>Arrays of interacting molecules can mimic models of quantum magnetism, helping us understand systems that classical computers struggle to describe.</p></div></div>
     <div class="col-md-4 mb-3"><div class="why-card"><h4>Optical lattice</h4><p>A retro-reflected laser beam sets up a standing intensity wave, ultracold molecules can be pinned to the intensity minima (or maxima).</p></div></div>
@@ -115,8 +117,7 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
     <div class="col-md-5">
       <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/buffer_gas_source.png" alt="Annotated photo of the cryogenic buffer gas source showing the calcium target, helium sorbs, 4 K cryocooler and ablation laser path">
       <div class="figure-cap">Our cryogenic buffer gas source, where the CaF molecules are made.</div>
-      <div class="col-md-5">
-      <img class="rounded-img" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_structure.png" alt="Transitions involved in laser cooling CaF">
+      <img class="rounded-img mt-4" src="{{ site.url }}{{ site.baseurl }}/research/coldmol/cafcool/img/CaF_structure.png" alt="Transitions involved in laser cooling CaF">
       <div class="figure-cap">Main transitions involved in slowing and cooling CaF, including vibrational decay probabilities.</div>
     </div>
   </div>
