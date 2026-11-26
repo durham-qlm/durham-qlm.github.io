@@ -169,8 +169,8 @@ subtitle: Building a new platform for quantum simulation, one molecule at a time
   <div class="join">
     <span class="badge-open">Now recruiting</span>
     <h2>Join us: PhD starting October 2027</h2>
-    <p class="lead" style="font-size:1.1rem">We're looking for a PhD student to join the team working towards <b>quantum simulation with a lattice of CaF molecules</b>.</p>
-    <p>This is a hands-on experimental project, and you'll be part of a friendly, close-knit team.</p>
+    <p class="lead" style="font-size:1.1rem">We're looking for a PhD student to join the team working towards <b>quantum simulation with a lattice of CaF molecules</b>.
+    This is a hands-on experimental project, and you'll be part of a friendly, close-knit team.</p>
     <div class="row align-items-start mb-4">
       <div class="col-md-7">
         <p>Along the way you'll learn:</p>
