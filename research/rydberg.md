@@ -8,7 +8,7 @@ Within QLM, multiple groups utilise the versatility of Rydberg systems. Our rese
 ## Current Research in Rydberg Systems
 - [Rydberg Excitons](/research/rydberg/excitons)
 - [Sr Quantum Clock](/research/rydberg/strontium)
-- [Rydberg Photonics](/research/rydberg/photonics)
+- [Rydberg Quantum Optics](/research/rydberg/photonics)
 - [THz Imaging](https://durham-qlm.uk/research/tech/terahertz/)
 - [atoms and molecules in tweezers](https://www.cornishlabs.uk/tweezers)
 - [Dual-species Rydberg Systems](/research/tech/dualqd)
