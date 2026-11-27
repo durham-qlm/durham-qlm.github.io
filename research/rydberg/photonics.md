@@ -4,7 +4,7 @@ title: Rydberg Quantum Optics
 subtitle: manipulating the properties of atoms and photons via Rydberg states
 ---
 
-![](photonics/img/vapourCellDisco.jpg)
+![](photonics/img/vapourCellDisco.png)
 
 Our group is all about atoms, photons, and their properties. We are particularly curious about the interaction between photons and atoms, how to tailor the interactions to various applications and harness their special properties. As experimentalists, we conduct experiments in our labs at Durham University but our group also has a strong background in computational and theoretical quantum & atomic physics. As a team, we are a small group of kind and curious researchers immersed in the wider Quantum Light and Matter section at Durham Uni, and we are always welcoming new PhD students, postdocs or academic visitors. Please see our open positions at the bottom of the page and get in touch with Stuart Adams for any queries (c.s.adams@durham.ac.uk).
 
@@ -35,7 +35,7 @@ Other recent work in our group has focused on the behaviour of Rydberg atoms in 
 
 |![](photonics/img/thermalVapourFoersterResonance.png)|
 |:--:| 
-|On the left, example comparisons of EIT lineshapes in a heated vapour cell (purple) and a room-temperature reference (gold). Heating the vapour induces notable shifting and asymmetry, which we can model as shown by dashed curves. To the right is a plot of shifts with respect to the reference for several Rydberg states, where we see an anomalous effect at 43D_5/2 owing to a Förster resonance. Taken from [arXiv:2611.34729](https://arxiv.org/pdf/2611.34729).|
+|On the left, example comparisons of the optical response in a heated vapour cell (purple) and a room-temperature reference (gold). Heating the vapour induces notable shifting and asymmetry, which we can model as shown by dashed curves. To the right is a plot of spectral shifts with respect to the reference for several Rydberg states, where we see an anomalous effect at 43D_5/2 owing to a Förster resonance. Taken from [arXiv:2611.34729](https://arxiv.org/pdf/2611.34729).|
 
 Motivated by this, we have developed a mean-field model that accurately reflects experimental observations of system non-linearities, accounting for the presence of ions. Crucially however, we have shown that alongside effects from ions, the long-range dipole-dipole interactions between pairs of Rydberg atoms can play a significant role in perturbing the system. For atoms driven to a specific Rydberg state exhibiting strong pair interactions, caused by a so-called Förster resonance, an additional energy shift is visible in our experimental data on top of the ionic contribution. 
 
